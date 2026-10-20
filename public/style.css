@@ -37,3 +37,5 @@ header{position:sticky}.cart-btn{position:absolute;right:14px;top:16px;backgroun
 #toast{position:fixed;left:50%;bottom:24px;transform:translate(-50%,80px);background:#1d1d1d;color:#fff;padding:10px 16px;border-radius:999px;font-size:.85rem;transition:.25s;z-index:30;max-width:80%}
 #toast.on{transform:translate(-50%,0)}
 @media(max-width:480px){.cart-btn{top:12px;right:10px;padding:6px 10px}.qty button{width:24px}.qty input{width:24px}}
+
+.name,.ci-name,.ci-name small,h2{text-transform:uppercase}

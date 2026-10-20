@@ -25,17 +25,18 @@ for r in rows[1:]:
     name, img, usd, ars, estado = r[1].strip(), r[2].strip(), num(r[3]), pesos_num(r[4]), r[5].strip().upper()
     if not name: continue
     if usd is None:  # fila de marca
-        brand = clean(name); continue
+        brand = clean(name).upper(); continue
     if estado != "STOCK": continue
     rate = ars / usd if ars else None
     if rate: rates.append(rate)
-    products.append({"id": r[0].strip(), "brand": brand, "name": clean(name), "image": img if img.startswith("http") else "",
+    products.append({"id": r[0].strip(), "brand": brand, "name": clean(name).upper(), "image": img if img.startswith("http") else "",
                      "usd": usd, "rate": rate})
 fallback = statistics.median(rates)
 import os
 FMAP = json.load(open("data/fragrantica_map.json")) if os.path.exists("data/fragrantica_map.json") else {}
 for p in products:
-    f = FMAP.get(p["id"] or p["name"])
+    FMAP_CI = {k.upper(): v for k, v in FMAP.items()}
+    f = FMAP_CI.get((p["id"] or p["name"]).upper())
     if f and not p["image"] and os.path.exists(os.path.join("public", f["image"])):
         p["image"], p["fragrantica"] = f["image"], f["url"]
 for p in products:

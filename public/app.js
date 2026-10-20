@@ -11,7 +11,7 @@ function add(k,q){const p=byKey[k];if(!p)return;const it=cart.find(i=>i.key===k)
 function setQty(k,q){const it=cart.find(i=>i.key===k);if(!it)return;it.qty=q;if(q<=0)cart=cart.filter(i=>i.key!==k);save()}
 function render(){
   cart=cart.filter(i=>byKey[i.key]||!Object.keys(byKey).length);
-  cart.forEach(i=>{const p=byKey[i.key];if(p){i.usd=p.usd;i.ars=p.ars}});
+  cart.forEach(i=>{const p=byKey[i.key]||byKey[String(i.key).toUpperCase()];if(p){i.key=p.key;i.name=p.name;i.brand=p.brand;i.usd=p.usd;i.ars=p.ars}});
   const t=totals(cart);$("count").textContent=t.qty;$("count").hidden=!t.qty;
   $("items").innerHTML=cart.length?cart.map(i=>`<li><div class="ci-name">${esc(i.name)}<small>${esc(i.brand)} · ${ars(i.ars)} c/u</small></div>
    <div class="qty"><button data-d="-1" data-k="${esc(i.key)}" aria-label="Restar">−</button><span>${i.qty}</span><button data-d="1" data-k="${esc(i.key)}" aria-label="Sumar">+</button></div>
@@ -28,7 +28,7 @@ $("items").onclick=e=>{const b=e.target.closest("button");if(!b)return;
   if(b.dataset.rm)setQty(b.dataset.rm,0);else{const it=cart.find(i=>i.key===b.dataset.k);if(it)setQty(it.key,it.qty+ +b.dataset.d)}};
 fetch("products.json").then(r=>r.json()).then(({products})=>{
   const main=$("catalog"),brands=[];
-  for(const p of products){p.key=p.id||p.name;byKey[p.key]=p;let b=brands.find(x=>x.name===p.brand);if(!b)brands.push(b={name:p.brand,items:[]});b.items.push(p)}
+  for(const p of products){p.name=p.name.toUpperCase();p.brand=p.brand.toUpperCase();p.key=p.id||p.name;byKey[p.key]=p;let b=brands.find(x=>x.name===p.brand);if(!b)brands.push(b={name:p.brand,items:[]});b.items.push(p)}
   main.innerHTML=brands.map(b=>`<section><h2>${esc(b.name)}</h2><div class="grid">${b.items.map(p=>{
     const msg=encodeURIComponent(`Hola! Quiero pedir el perfume ${p.brand} - ${p.name} (${ars(p.ars)}).`);
     return `<article class="card" data-n="${esc(norm(p.name+" "+p.brand))}"><div class="img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:"<span>✦</span>"}</div>

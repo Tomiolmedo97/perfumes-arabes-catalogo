@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Regenera public/products.json desde la hoja 'Perfumes Arabes' (Google Sheet STOCK ONLINE).
+"""Regenera (las imágenes salen de data/fragrantica_map.json + public/img; nuevas: agregar al mapa y correr scripts/fetch_images.py)
+ public/products.json desde la hoja 'Perfumes Arabes' (Google Sheet STOCK ONLINE).
 Uso: python3 scripts/build_data.py [archivo.csv]  (sin argumento descarga el CSV público)."""
 import csv, io, json, re, sys, urllib.request, statistics
 SHEET = "1Y0D_KSvSZikmsiYq0hFwygfP6-1xeXAuEd5dwwfGe-g"
@@ -31,6 +32,12 @@ for r in rows[1:]:
     products.append({"id": r[0].strip(), "brand": brand, "name": clean(name), "image": img if img.startswith("http") else "",
                      "usd": usd, "rate": rate})
 fallback = statistics.median(rates)
+import os
+FMAP = json.load(open("data/fragrantica_map.json")) if os.path.exists("data/fragrantica_map.json") else {}
+for p in products:
+    f = FMAP.get(p["id"] or p["name"])
+    if f and not p["image"] and os.path.exists(os.path.join("public", f["image"])):
+        p["image"], p["fragrantica"] = f["image"], f["url"]
 for p in products:
     rate_src = "fila" if p["rate"] else "mediana"
     rate = p.pop("rate") or fallback

@@ -1,5 +1,5 @@
 const WA="https://wa.me/5491130249702",KEY="pa_cart_v1";
-const {ars,usd,totals,buildMessage}=Cart;
+const {ars,usd,totals,buildMessage,ZONES}=Cart;let zone=localStorage.getItem("pa_zone")||"";
 const norm=s=>s.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase();
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 let byKey={},cart=[];
@@ -16,13 +16,19 @@ function render(){
   $("items").innerHTML=cart.length?cart.map(i=>`<li><div class="ci-name">${esc(i.name)}<small>${esc(i.brand)} · ${ars(i.ars)} c/u</small></div>
    <div class="qty"><button data-d="-1" data-k="${esc(i.key)}" aria-label="Restar">−</button><span>${i.qty}</span><button data-d="1" data-k="${esc(i.key)}" aria-label="Sumar">+</button></div>
    <div class="ci-sub">${ars(i.ars*i.qty)}<button class="rm" data-rm="${esc(i.key)}">Quitar</button></div></li>`).join(""):'<li class="empty">Tu carrito está vacío.</li>';
-  $("tot").innerHTML=`<span>Total</span><strong>${ars(t.ars)}</strong><small>${usd(t.usd)}</small>`;
-  $("send").classList.toggle("off",!cart.length);
-  $("send").href=cart.length?`${WA}?text=${encodeURIComponent(buildMessage(cart))}`:"#";
+  const ship=ZONES[zone]||0;
+  document.querySelectorAll("input[name=zone]").forEach(r=>r.checked=r.value===zone);
+  $("tot").innerHTML=`<div><span>Productos</span><strong>${ars(t.ars)}</strong><small>${usd(t.usd)}</small></div>
+   <div><span>Envío${zone?" "+zone:""}</span><strong>${zone?ars(ship):"—"}</strong><small>pesos</small></div>
+   <div class="final"><span>Total</span><strong>${ars(t.ars+ship)}</strong><small>pesos</small></div>`;
+  $("zhint").hidden=!!zone||!cart.length;
+  const ok=cart.length&&zone;$("send").classList.toggle("off",!ok);
+  $("send").href=ok?`${WA}?text=${encodeURIComponent(buildMessage(cart,zone))}`:"#";
 }
 let tt;function toast(m){const e=$("toast");e.textContent=m;e.classList.add("on");clearTimeout(tt);tt=setTimeout(()=>e.classList.remove("on"),1600)}
 const open=v=>{document.body.classList.toggle("cart-open",v)};
 $("cartBtn").onclick=()=>open(true);$("close").onclick=$("shade").onclick=()=>open(false);
+document.querySelectorAll("input[name=zone]").forEach(r=>r.onchange=()=>{zone=r.value;localStorage.setItem("pa_zone",zone);render()});
 $("clear").onclick=()=>{if(cart.length&&confirm("¿Vaciar el carrito?")){cart=[];save()}};
 $("items").onclick=e=>{const b=e.target.closest("button");if(!b)return;
   if(b.dataset.rm)setQty(b.dataset.rm,0);else{const it=cart.find(i=>i.key===b.dataset.k);if(it)setQty(it.key,it.qty+ +b.dataset.d)}};

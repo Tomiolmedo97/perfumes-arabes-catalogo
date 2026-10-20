@@ -39,3 +39,13 @@ header{position:sticky}.cart-btn{position:absolute;right:14px;top:16px;backgroun
 @media(max-width:480px){.cart-btn{top:12px;right:10px;padding:6px 10px}.qty button{width:24px}.qty input{width:24px}}
 
 .name,.ci-name,.ci-name small,h2{text-transform:uppercase}
+
+.bar{background:#1d1d1d;color:#f3eee4;text-align:center;font-size:.78rem;letter-spacing:.04em;padding:7px 12px}
+.envios{max-width:520px;margin:0 auto;padding:10px 16px 0;text-align:center;font-size:.9rem;color:#444}
+.envios ul{list-style:none;padding:0;margin:10px auto;max-width:260px}.envios li{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid #eee}
+.zones{border:0;padding:0;margin:0;display:flex;gap:8px;flex-wrap:wrap}.zones legend{font-size:.8rem;color:#888;margin-bottom:6px}
+.zones label{flex:1;border:1px solid #ddd;border-radius:8px;padding:8px;font-size:.85rem;cursor:pointer;display:flex;gap:6px;align-items:center}
+.zones label:has(input:checked){border-color:#b89b5e;background:#faf6ee}.zones small{color:#888;margin-left:auto}
+.zhint{margin:0;color:#b33;font-size:.8rem}
+#tot{display:block}#tot div{display:flex;align-items:baseline;gap:8px;font-size:.85rem}#tot div span{flex:1}#tot div strong{font-size:.95rem}
+#tot .final{border-top:1px solid #eee;margin-top:4px;padding-top:6px}#tot .final strong{font-size:1.2rem}

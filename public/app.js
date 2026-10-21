@@ -66,14 +66,14 @@ function openModal(k){const p=byKey[k];if(!p)return;const d=p.details;lastFocus=
     ${rows.map(([t,xs])=>`<h4>${t}</h4><div class="chips light">${chips(xs)}</div>`).join("")}<p class="src">Notas: Fragrantica</p>`}
   else info=`<p class="desc">Consultanos por WhatsApp por las notas de este perfume.</p>`;
   $("mbody").innerHTML=`<div class="m-img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}">`:"<span>✦</span>"}</div>
-   <div class="m-info"><small class="m-brand">${esc(p.brand)}${d&&GEN[d.gender]?" · "+GEN[d.gender]:""}${d&&d.year?" · "+d.year:""}</small>
-   <h3 id="mtitle">${esc(p.name)}</h3><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div>
-   <div class="actions"><div class="qty sm"><button data-s="-1" aria-label="Menos">−</button><input id="mq" type="number" min="1" value="1" aria-label="Cantidad"><button data-s="1" aria-label="Más">+</button></div>
+   <div class="m-head"><small class="m-brand">${esc(p.brand)}${d&&GEN[d.gender]?" · "+GEN[d.gender]:""}${d&&d.year?" · "+d.year:""}</small>
+   <h3 id="mtitle">${esc(p.name)}</h3><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div></div>
+   <div class="m-info"><div class="actions"><div class="qty sm"><button data-s="-1" aria-label="Menos">−</button><input id="mq" type="number" min="1" value="1" aria-label="Cantidad"><button data-s="1" aria-label="Más">+</button></div>
    <button class="add" id="madd">Agregar</button></div>
    <a class="pedir" href="${WA}?text=${msg}" target="_blank" rel="noopener">Pedir por WhatsApp</a>${info}</div>`;
   $("mbody").querySelectorAll("[data-s]").forEach(b=>b.onclick=()=>{$("mq").value=Math.max(1,(+$("mq").value||1)+ +b.dataset.s)});
   $("madd").onclick=()=>{add(k,Math.max(1,parseInt($("mq").value)||1));closeModal()};
-  document.body.classList.add("modal-open");$("mclose").focus()}
+  $("modal").scrollTop=0;document.body.classList.add("modal-open");$("mclose").focus({preventScroll:true})}
 function closeModal(){document.body.classList.remove("modal-open");if(lastFocus)lastFocus.focus()}
 $("mclose").onclick=$("mshade").onclick=closeModal;
 document.addEventListener("keydown",e=>{if(e.key==="Escape"){if(document.body.classList.contains("modal-open"))closeModal();else open(false)}});

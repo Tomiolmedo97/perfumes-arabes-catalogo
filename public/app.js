@@ -37,14 +37,16 @@ fetch("products.json").then(r=>r.json()).then(({products})=>{
   for(const p of products){p.name=p.name.toUpperCase();p.brand=p.brand.toUpperCase();p.key=p.id||p.name;byKey[p.key]=p;let b=brands.find(x=>x.name===p.brand);if(!b)brands.push(b={name:p.brand,items:[]});b.items.push(p)}
   main.innerHTML=brands.map(b=>`<section><h2>${esc(b.name)}</h2><div class="grid">${b.items.map(p=>{
     const msg=encodeURIComponent(`Hola! Quiero pedir el perfume ${p.brand} - ${p.name} (${ars(p.ars)}).`);
-    return `<article class="card" data-n="${esc(norm(p.name+" "+p.brand))}"><div class="img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:"<span>✦</span>"}</div>
+    return `<article class="card" tabindex="0" data-k="${esc(p.key)}" data-n="${esc(norm(p.name+" "+p.brand))}"><div class="img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:"<span>✦</span>"}</div>
     <div class="body"><div class="name">${esc(p.name)}</div><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div>
     <div class="actions"><div class="qty sm"><button data-s="-1" aria-label="Menos">−</button><input type="number" min="1" value="1" inputmode="numeric" aria-label="Cantidad"><button data-s="1" aria-label="Más">+</button></div>
     <button class="add" data-add="${esc(p.key)}">Agregar</button></div>
     <a class="pedir" href="${WA}?text=${msg}" target="_blank" rel="noopener">Pedir por WhatsApp</a></div></article>`}).join("")}</div></section>`).join("");
-  main.onclick=e=>{const b=e.target.closest("button");if(!b)return;const card=b.closest(".card"),inp=card.querySelector("input");
+  main.onclick=e=>{const b=e.target.closest("button");
+    if(!b){if(e.target.closest("a,input"))return;const c=e.target.closest(".card");if(c)openModal(c.dataset.k);return}const card=b.closest(".card"),inp=card.querySelector("input");
     if(b.dataset.s)inp.value=Math.max(1,(+inp.value||1)+ +b.dataset.s);
     if(b.dataset.add){add(b.dataset.add,Math.max(1,parseInt(inp.value)||1));inp.value=1}};
+  main.onkeydown=e=>{if(e.key==="Enter"&&e.target.classList.contains("card"))openModal(e.target.dataset.k)};
   const q=$("q"),none=$("none");
   q.addEventListener("input",()=>{const t=norm(q.value.trim());let any=false;
     main.querySelectorAll("section").forEach(s=>{let v=0;s.querySelectorAll(".card").forEach(c=>{const ok=!t||c.dataset.n.includes(t);c.hidden=!ok;v+=ok});s.hidden=!v;any||=v>0});
@@ -52,3 +54,26 @@ fetch("products.json").then(r=>r.json()).then(({products})=>{
   render();
 });
 render();
+
+const GEN={women:"Femenino",men:"Masculino","women and men":"Unisex"};
+let lastFocus;
+function openModal(k){const p=byKey[k];if(!p)return;const d=p.details;lastFocus=document.activeElement;
+  const msg=encodeURIComponent(`Hola! Quiero pedir el perfume ${p.brand} - ${p.name} (${ars(p.ars)}).`);
+  const chips=xs=>xs.map(x=>`<span>${esc(x)}</span>`).join("");
+  let info="";
+  if(d){const n=d.notes,rows=[["Salida",n.top],["Corazón",n.middle],["Fondo",n.base],["Notas",n.notes]].filter(r=>r[1]&&r[1].length);
+    info=`<p class="desc">${esc(d.description)}</p>${d.accords.length?`<h4>Acordes principales</h4><div class="chips">${chips(d.accords)}</div>`:""}
+    ${rows.map(([t,xs])=>`<h4>${t}</h4><div class="chips light">${chips(xs)}</div>`).join("")}<p class="src">Notas: Fragrantica</p>`}
+  else info=`<p class="desc">Consultanos por WhatsApp por las notas de este perfume.</p>`;
+  $("mbody").innerHTML=`<div class="m-img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}">`:"<span>✦</span>"}</div>
+   <div class="m-info"><small class="m-brand">${esc(p.brand)}${d&&GEN[d.gender]?" · "+GEN[d.gender]:""}${d&&d.year?" · "+d.year:""}</small>
+   <h3 id="mtitle">${esc(p.name)}</h3><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div>
+   <div class="actions"><div class="qty sm"><button data-s="-1" aria-label="Menos">−</button><input id="mq" type="number" min="1" value="1" aria-label="Cantidad"><button data-s="1" aria-label="Más">+</button></div>
+   <button class="add" id="madd">Agregar</button></div>
+   <a class="pedir" href="${WA}?text=${msg}" target="_blank" rel="noopener">Pedir por WhatsApp</a>${info}</div>`;
+  $("mbody").querySelectorAll("[data-s]").forEach(b=>b.onclick=()=>{$("mq").value=Math.max(1,(+$("mq").value||1)+ +b.dataset.s)});
+  $("madd").onclick=()=>{add(k,Math.max(1,parseInt($("mq").value)||1));closeModal()};
+  document.body.classList.add("modal-open");$("mclose").focus()}
+function closeModal(){document.body.classList.remove("modal-open");if(lastFocus)lastFocus.focus()}
+$("mclose").onclick=$("mshade").onclick=closeModal;
+document.addEventListener("keydown",e=>{if(e.key==="Escape"){if(document.body.classList.contains("modal-open"))closeModal();else open(false)}});

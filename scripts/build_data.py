@@ -39,6 +39,11 @@ for p in products:
     f = FMAP_CI.get((p["id"] or p["name"]).upper())
     if f and not p["image"] and os.path.exists(os.path.join("public", f["image"])):
         p["image"], p["fragrantica"] = f["image"], f["url"]
+DET = json.load(open("data/fragrantica_details.json")) if os.path.exists("data/fragrantica_details.json") else {}
+DET_CI = {k.upper(): v for k, v in DET.items()}
+for p in products:
+    d = DET_CI.get((p["id"] or p["name"]).upper())
+    if d: p["details"] = {k: d[k] for k in ("gender", "year", "accords", "notes", "description")}
 for p in products:
     rate_src = "fila" if p["rate"] else "mediana"
     rate = p.pop("rate") or fallback

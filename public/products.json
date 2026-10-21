@@ -7,6 +7,35 @@
    "image": "img/968.webp",
    "usd": 52.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/9am-pour-Femme-78541.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "dulce",
+     "almizclado",
+     "ámbar",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "mandarina",
+      "bergamota"
+     ],
+     "middle": [
+      "frambuesa",
+      "grosella negra"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar",
+      "naranja"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, frutal y dulce. Abre con pomelo, mandarina y bergamota, su corazón tiene frambuesa y grosella negra y se asienta sobre almizcle, ámbar y naranja."
+   },
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -17,6 +46,38 @@
    "image": "img/970.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/9am-Dive-78611.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "frutal",
+     "verde",
+     "amaderado",
+     "cítrico",
+     "especiado fresco",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "menta",
+      "grosella negra",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "manzana",
+      "cedro",
+      "incienso"
+     ],
+     "base": [
+      "jengibre",
+      "sándalo",
+      "pachulí",
+      "jazmín"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil frutal, verde y amaderado. Abre con limón, menta y grosella negra, su corazón tiene manzana, cedro y incienso y se asienta sobre jengibre, sándalo y pachulí."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -27,6 +88,37 @@
    "image": "img/971.webp",
    "usd": 61.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/9pm-65414.html",
+   "details": {
+    "gender": "men",
+    "year": 2020,
+    "accords": [
+     "vainilla",
+     "ámbar",
+     "especiado cálido",
+     "frutal",
+     "canela",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "canela",
+      "lavanda silvestre",
+      "bergamota"
+     ],
+     "middle": [
+      "azahar",
+      "muguet"
+     ],
+     "base": [
+      "vainilla",
+      "haba tonka",
+      "ámbar",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2020. De perfil vainilla, ámbar y especiado cálido. Abre con manzana, canela y lavanda silvestre, su corazón tiene azahar y muguet y se asienta sobre vainilla, haba tonka y ámbar."
+   },
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -37,6 +129,39 @@
    "image": "img/972.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/9pm-pour-Femme-78544.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "frutal",
+     "rosa",
+     "floral",
+     "atalcado",
+     "violeta"
+    ],
+    "notes": {
+     "top": [
+      "frambuesa",
+      "violeta",
+      "manzana",
+      "naranja"
+     ],
+     "middle": [
+      "rosa",
+      "peonía",
+      "iris",
+      "jazmín"
+     ],
+     "base": [
+      "ciprés",
+      "pino",
+      "cedro",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil amaderado, frutal y rosa. Abre con frambuesa, violeta y manzana, su corazón tiene rosa, peonía y iris y se asienta sobre ciprés, pino y cedro."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -56,6 +181,37 @@
    "image": "img/974.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Kiaana-Angel-97962.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "amaderado",
+     "frutal",
+     "vainilla",
+     "fresco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "helado",
+      "pistacho",
+      "bergamota"
+     ],
+     "middle": [
+      "pera",
+      "durazno blanco",
+      "jazmín",
+      "frambuesa"
+     ],
+     "base": [
+      "sándalo",
+      "haba tonka",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil dulce, amaderado y frutal. Abre con helado, pistacho y bergamota, su corazón tiene pera, durazno blanco y jazmín y se asienta sobre sándalo, haba tonka y cedro."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -66,6 +222,36 @@
    "image": "img/975.webp",
    "usd": 60.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Kiaana-Crush-97963.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "especiado cálido",
+     "almizclado",
+     "ámbar",
+     "amaderado",
+     "tropical",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "azafrán"
+     ],
+     "middle": [
+      "maracuyá",
+      "pachulí",
+      "agarwood (oud)"
+     ],
+     "base": [
+      "vainilla de Madagascar",
+      "almizcle",
+      "incienso",
+      "ambroxan",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil especiado cálido, almizclado y ámbar. Abre con azafrán, su corazón tiene maracuyá, pachulí y agarwood (oud) y se asienta sobre vainilla de Madagascar, almizcle y incienso."
+   },
    "ars": 92400,
    "rateSource": "fila"
   },
@@ -76,6 +262,37 @@
    "image": "img/976.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Souvenir-Floral-Bouquet-71179.html",
+   "details": {
+    "gender": "women",
+    "year": 2020,
+    "accords": [
+     "rosa",
+     "almizclado",
+     "floral",
+     "fresco",
+     "frutal",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "lichi",
+      "ruibarbo",
+      "bergamota"
+     ],
+     "middle": [
+      "rosa",
+      "peonía",
+      "vainilla",
+      "muguet"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar",
+      "madera de cachemira"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2020. De perfil rosa, almizclado y floral. Abre con lichi, ruibarbo y bergamota, su corazón tiene rosa, peonía y vainilla y se asienta sobre almizcle, ámbar y madera de cachemira."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -86,6 +303,37 @@
    "image": "img/977.webp",
    "usd": 63.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Supremacy-Collector-s-Edition-Pour-Homme-98689.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "dulce",
+     "floral blanco",
+     "cítrico",
+     "ámbar",
+     "musgoso"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "bergamota",
+      "flores blancas",
+      "manzana"
+     ],
+     "middle": [
+      "azahar",
+      "abedul",
+      "ámbar"
+     ],
+     "base": [
+      "musgo de roble",
+      "almizcle",
+      "ámbar gris"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil frutal, dulce y floral blanco. Abre con ananá, bergamota y flores blancas, su corazón tiene azahar, abedul y ámbar y se asienta sobre musgo de roble, almizcle y ámbar gris."
+   },
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -105,6 +353,37 @@
    "image": "img/978.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Supremacy-Gold-27351.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2013,
+    "accords": [
+     "ámbar",
+     "atalcado",
+     "especiado fresco",
+     "floral",
+     "violeta",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "nuez moscada",
+      "violeta",
+      "flor de durazno",
+      "comino"
+     ],
+     "middle": [
+      "iris",
+      "pachulí"
+     ],
+     "base": [
+      "ámbar",
+      "vainilla",
+      "oud",
+      "benjuí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2013. De perfil ámbar, atalcado y especiado fresco. Abre con nuez moscada, violeta y flor de durazno, su corazón tiene iris y pachulí y se asienta sobre ámbar, vainilla y oud."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -115,6 +394,34 @@
    "image": "img/979.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Supremacy-Pink-70705.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "rosa",
+     "floral",
+     "fresco",
+     "almizclado",
+     "atalcado",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "violeta"
+     ],
+     "middle": [
+      "rosa",
+      "peonía",
+      "muguet"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil rosa, floral y fresco. Abre con pimienta rosa y violeta, su corazón tiene rosa, peonía y muguet y se asienta sobre almizcle y ámbar."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -125,6 +432,33 @@
    "image": "img/980.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Supremacy-Purple-70704.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "frutal",
+     "almizclado",
+     "dulce",
+     "atalcado",
+     "ámbar",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "frutas",
+      "cítricos"
+     ],
+     "middle": [
+      "almizcle",
+      "ámbar"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil frutal, almizclado y dulce. Abre con frutas y cítricos, su corazón tiene almizcle y ámbar y se asienta sobre almizcle y vainilla."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -135,6 +469,33 @@
    "image": "img/981.webp",
    "usd": 58.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Turathi-Blue-70839.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "cítrico",
+     "almizclado",
+     "amaderado",
+     "fresco",
+     "ámbar",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "cítricos"
+     ],
+     "middle": [
+      "notas amaderadas",
+      "ámbar"
+     ],
+     "base": [
+      "almizcle",
+      "especias",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, almizclado y amaderado. Abre con cítricos, su corazón tiene notas amaderadas y ámbar y se asienta sobre almizcle, especias y pachulí."
+   },
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -145,6 +506,36 @@
    "image": "img/982.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Turathi-Red-84404.html",
+   "details": {
+    "gender": "women",
+    "year": 2023,
+    "accords": [
+     "floral",
+     "rosa",
+     "fresco",
+     "almizclado",
+     "floral blanco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "almizcle",
+      "notas florales"
+     ],
+     "middle": [
+      "rosa",
+      "jazmín",
+      "notas amaderadas"
+     ],
+     "base": [
+      "peonía",
+      "almizcle",
+      "damasco"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2023. De perfil floral, rosa y fresco. Abre con rosa, almizcle y notas florales, su corazón tiene rosa, jazmín y notas amaderadas y se asienta sobre peonía, almizcle y damasco."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -155,6 +546,39 @@
    "image": "img/983.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Afnan/Historic-Olmeda-75670.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "especiado fresco",
+     "cítrico",
+     "aromático",
+     "amaderado",
+     "ámbar",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "pimienta rosa",
+      "enebro",
+      "cardamomo"
+     ],
+     "middle": [
+      "bergamota de Calabria",
+      "cedro",
+      "nuez moscada",
+      "jazmín"
+     ],
+     "base": [
+      "ámbar gris",
+      "manzana",
+      "almizcle",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil especiado fresco, cítrico y aromático. Abre con pomelo, pimienta rosa y enebro, su corazón tiene bergamota de Calabria, cedro y nuez moscada y se asienta sobre ámbar gris, manzana y almizcle."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -183,6 +607,38 @@
    "image": "img/986.webp",
    "usd": 78.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Aqua-Dubai-96482.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "verde",
+     "almizclado",
+     "aromático",
+     "especiado fresco",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "notas verdes",
+      "bergamota",
+      "mandarina"
+     ],
+     "middle": [
+      "melón",
+      "ámbar",
+      "grosella negra",
+      "ananá"
+     ],
+     "base": [
+      "almizcle",
+      "petitgrain",
+      "gálbano",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, verde y almizclado. Abre con notas verdes, bergamota y mandarina, su corazón tiene melón, ámbar y grosella negra y se asienta sobre almizcle, petitgrain y gálbano."
+   },
    "ars": 120120,
    "rateSource": "fila"
   },
@@ -193,6 +649,38 @@
    "image": "img/987.webp",
    "usd": 80.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Bleu-Edition-73206.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "aromático",
+     "verde",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "limón",
+      "menta",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "jengibre",
+      "vetiver",
+      "jazmín"
+     ],
+     "base": [
+      "olíbano",
+      "sándalo",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, amaderado y especiado fresco. Abre con pomelo, limón y menta, su corazón tiene jengibre, vetiver y jazmín y se asienta sobre olíbano, sándalo y cedro."
+   },
    "ars": 123200,
    "rateSource": "fila"
   },
@@ -203,6 +691,37 @@
    "image": "img/988.webp",
    "usd": 67.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Dubai-Night-96481.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "ámbar",
+     "especiado cálido",
+     "rosa",
+     "oud",
+     "aromático",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "bergamota",
+      "elemí"
+     ],
+     "middle": [
+      "rosa búlgara",
+      "agarwood (oud)",
+      "muguet"
+     ],
+     "base": [
+      "haba tonka",
+      "ámbar",
+      "almizcle blanco",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil ámbar, especiado cálido y rosa. Abre con azafrán, bergamota y elemí, su corazón tiene rosa búlgara, agarwood (oud) y muguet y se asienta sobre haba tonka, ámbar y almizcle blanco."
+   },
    "ars": 103180,
    "rateSource": "fila"
   },
@@ -213,6 +732,37 @@
    "image": "img/989.webp",
    "usd": 77.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Dubai-Night-96481.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "ámbar",
+     "especiado cálido",
+     "rosa",
+     "oud",
+     "aromático",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "bergamota",
+      "elemí"
+     ],
+     "middle": [
+      "rosa búlgara",
+      "agarwood (oud)",
+      "muguet"
+     ],
+     "base": [
+      "haba tonka",
+      "ámbar",
+      "almizcle blanco",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil ámbar, especiado cálido y rosa. Abre con azafrán, bergamota y elemí, su corazón tiene rosa búlgara, agarwood (oud) y muguet y se asienta sobre haba tonka, ámbar y almizcle blanco."
+   },
    "ars": 118580,
    "rateSource": "fila"
   },
@@ -223,6 +773,41 @@
    "image": "img/990.webp",
    "usd": 75.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-999-9-Dubai-Edition-99977.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "dulce",
+     "ámbar",
+     "frutal",
+     "caramelo",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "bergamota",
+      "limón",
+      "pera"
+     ],
+     "middle": [
+      "caramelo",
+      "melón",
+      "manzana verde",
+      "pera",
+      "cardamomo",
+      "jazmín"
+     ],
+     "base": [
+      "ámbar",
+      "vainilla",
+      "pachulí",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, dulce y ámbar. Abre con naranja, bergamota y limón, su corazón tiene caramelo, melón y manzana verde y se asienta sobre ámbar, vainilla y pachulí."
+   },
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -233,6 +818,36 @@
    "image": "img/991.webp",
    "usd": 63.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "frutal",
+     "ozónico",
+     "vainilla",
+     "atalcado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "notas verdes"
+     ],
+     "middle": [
+      "melón",
+      "ananá",
+      "ámbar",
+      "acorde gourmand"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "notas amaderadas"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, frutal y ozónico. Abre con bergamota y notas verdes, su corazón tiene melón, ananá y ámbar y se asienta sobre vainilla, almizcle y notas amaderadas."
+   },
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -243,6 +858,36 @@
    "image": "img/992.webp",
    "usd": 66.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Gold-Edition-51816.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "frutal",
+     "ozónico",
+     "vainilla",
+     "atalcado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "notas verdes"
+     ],
+     "middle": [
+      "melón",
+      "ananá",
+      "ámbar",
+      "acorde gourmand"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "notas amaderadas"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, frutal y ozónico. Abre con bergamota y notas verdes, su corazón tiene melón, ananá y ámbar y se asienta sobre vainilla, almizcle y notas amaderadas."
+   },
    "ars": 101640,
    "rateSource": "fila"
   },
@@ -253,6 +898,34 @@
    "image": "img/993.webp",
    "usd": 81.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Ruby-Edition-73208.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "especiado cálido",
+     "ámbar",
+     "almendrado",
+     "animálico",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "almendra amarga"
+     ],
+     "middle": [
+      "cedro",
+      "jazmín egipcio"
+     ],
+     "base": [
+      "ámbar gris",
+      "notas amaderadas",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, especiado cálido y ámbar. Abre con azafrán y almendra amarga, su corazón tiene cedro y jazmín egipcio y se asienta sobre ámbar gris, notas amaderadas y almizcle."
+   },
    "ars": 124740,
    "rateSource": "fila"
   },
@@ -263,6 +936,35 @@
    "image": "img/amber-oud-ultra-violet-edp-120ml.webp",
    "usd": 114.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-Ultra-Violet-82035.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "nardo",
+     "rosa",
+     "animálico",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "jengibre",
+      "bergamota"
+     ],
+     "middle": [
+      "nardo",
+      "jazmín",
+      "flores blancas"
+     ],
+     "base": [
+      "roble",
+      "almizcle",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, nardo y rosa. Abre con rosa, jengibre y bergamota, su corazón tiene nardo, jazmín y flores blancas y se asienta sobre roble, almizcle y pachulí."
+   },
    "ars": 175560,
    "rateSource": "fila"
   },
@@ -273,6 +975,37 @@
    "image": "img/995.webp",
    "usd": 63.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Amber-Oud-White-Edition-73210.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "floral",
+     "floral blanco",
+     "pachulí",
+     "amaderado",
+     "rosa"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "naranja"
+     ],
+     "middle": [
+      "jazmín",
+      "rosa",
+      "fresia",
+      "ciclamen"
+     ],
+     "base": [
+      "pachulí",
+      "almizcle",
+      "vetiver",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, floral y floral blanco. Abre con bergamota y naranja, su corazón tiene jazmín, rosa y fresia y se asienta sobre pachulí, almizcle y vetiver."
+   },
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -283,6 +1016,36 @@
    "image": "img/996.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Floral-Fair-99984.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "rosa",
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "bergamota",
+      "jengibre"
+     ],
+     "middle": [
+      "jazmín",
+      "flores blancas",
+      "nardo"
+     ],
+     "base": [
+      "almizcle",
+      "roble",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, rosa y cítrico. Abre con rosa, bergamota y jengibre, su corazón tiene jazmín, flores blancas y nardo y se asienta sobre almizcle, roble y pachulí."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -293,6 +1056,36 @@
    "image": "img/997.webp",
    "usd": 57.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/L-Aventure-40405.html",
+   "details": {
+    "gender": "men",
+    "year": 2016,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "amaderado",
+     "almizclado",
+     "especiado fresco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "bergamota",
+      "elemí"
+     ],
+     "middle": [
+      "notas amaderadas",
+      "jazmín",
+      "muguet"
+     ],
+     "base": [
+      "almizcle",
+      "pachulí",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2016. De perfil cítrico, aromático y amaderado. Abre con limón, bergamota y elemí, su corazón tiene notas amaderadas, jazmín y muguet y se asienta sobre almizcle, pachulí y ámbar."
+   },
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -303,6 +1096,41 @@
    "image": "img/998.webp",
    "usd": 68.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Miracle-Dubai-106698.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "rosa",
+     "amaderado",
+     "atalcado",
+     "floral blanco",
+     "almizclado",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "rosa búlgara",
+      "lichi",
+      "notas amaderadas",
+      "pachulí",
+      "nuez moscada"
+     ],
+     "middle": [
+      "rosa",
+      "flores blancas",
+      "sándalo",
+      "vainilla"
+     ],
+     "base": [
+      "almizcle",
+      "cedro",
+      "ámbar",
+      "notas atalcadas",
+      "notas balsámicas"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil rosa, amaderado y atalcado. Abre con rosa búlgara, lichi y notas amaderadas, su corazón tiene rosa, flores blancas y sándalo y se asienta sobre almizcle, cedro y ámbar."
+   },
    "ars": 104720,
    "rateSource": "fila"
   },
@@ -313,6 +1141,37 @@
    "image": "img/999.webp",
    "usd": 87.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Natural-Amber-106439.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "floral blanco",
+     "cítrico",
+     "ámbar",
+     "animálico",
+     "atalcado",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "pera",
+      "mandarina"
+     ],
+     "middle": [
+      "azahar",
+      "jazmín",
+      "muguet"
+     ],
+     "base": [
+      "ámbar",
+      "sándalo",
+      "cuero",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil floral blanco, cítrico y ámbar. Abre con pomelo, pera y mandarina, su corazón tiene azahar, jazmín y muguet y se asienta sobre ámbar, sándalo y cuero."
+   },
    "ars": 133980,
    "rateSource": "fila"
   },
@@ -323,6 +1182,34 @@
    "image": "img/1000.webp",
    "usd": 87.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Haramain-Perfumes/Natural-Iris-106440.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "cítrico",
+     "especiado fresco",
+     "floral blanco",
+     "fresco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "bergamota",
+      "naranja"
+     ],
+     "middle": [
+      "pomelo",
+      "jengibre",
+      "iris"
+     ],
+     "base": [
+      "muguet",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil cítrico, especiado fresco y floral blanco. Abre con mandarina, bergamota y naranja, su corazón tiene pomelo, jengibre y iris y se asienta sobre muguet y almizcle."
+   },
    "ars": 133980,
    "rateSource": "fila"
   },
@@ -333,6 +1220,34 @@
    "image": "img/1001.webp",
    "usd": 34.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Ameerati-78528.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2019,
+    "accords": [
+     "atalcado",
+     "almizclado",
+     "verde",
+     "cítrico",
+     "amaderado",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "almizcle",
+      "notas verdes",
+      "cítricos"
+     ],
+     "middle": [
+      "notas herbales",
+      "notas amaderadas"
+     ],
+     "base": [
+      "notas atalcadas",
+      "notas especiadas"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2019. De perfil atalcado, almizclado y verde. Abre con almizcle, notas verdes y cítricos, su corazón tiene notas herbales y notas amaderadas y se asienta sobre notas atalcadas y notas especiadas."
+   },
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -352,6 +1267,39 @@
    "image": "img/1003.webp",
    "usd": 39.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Attar-Al-Wesal-78529.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2020,
+    "accords": [
+     "aromático",
+     "lavanda",
+     "vainilla",
+     "especiado fresco",
+     "verde",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "pera",
+      "menta",
+      "bergamota",
+      "limón"
+     ],
+     "middle": [
+      "canela",
+      "salvia esclarea",
+      "comino"
+     ],
+     "base": [
+      "vaina de vainilla negra",
+      "ámbar",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2020. De perfil aromático, lavanda y vainilla. Abre con lavanda, pera y menta, su corazón tiene canela, salvia esclarea y comino y se asienta sobre vaina de vainilla negra, ámbar y cedro."
+   },
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -362,6 +1310,34 @@
    "image": "img/1004.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Durrat-Al-Aroos-78154.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "especiado cálido",
+     "amaderado",
+     "vainilla",
+     "almizclado",
+     "atalcado",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "almizcle blanco",
+      "cypriol"
+     ],
+     "middle": [
+      "vainilla",
+      "cardamomo",
+      "azafrán"
+     ],
+     "base": [
+      "madera de guayaco",
+      "cumarina"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil especiado cálido, amaderado y vainilla. Abre con almizcle blanco y cypriol, su corazón tiene vainilla, cardamomo y azafrán y se asienta sobre madera de guayaco y cumarina."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -372,6 +1348,44 @@
    "image": "img/1005.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Kenz-Al-Malik-77098.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "cítrico",
+     "ámbar",
+     "especiado fresco",
+     "aromático",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "pimienta rosa",
+      "notas marinas",
+      "bergamota",
+      "vetiver",
+      "limón"
+     ],
+     "middle": [
+      "pomelo",
+      "jengibre",
+      "cedro",
+      "menta",
+      "láudano",
+      "jazmín",
+      "nuez moscada"
+     ],
+     "base": [
+      "jengibre",
+      "madera de ámbar",
+      "incienso",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil amaderado, cítrico y ámbar. Abre con pomelo, pimienta rosa y notas marinas, su corazón tiene pomelo, jengibre y cedro y se asienta sobre jengibre, madera de ámbar y incienso."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -382,6 +1396,38 @@
    "image": "img/1006.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Roohi-103792.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "rosa",
+     "especiado cálido",
+     "dulce",
+     "ámbar",
+     "frutal",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "grosella negra",
+      "azafrán",
+      "cardamomo",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "rosa",
+      "cacao",
+      "vetiver"
+     ],
+     "base": [
+      "maltol",
+      "ámbar",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil rosa, especiado cálido y dulce. Abre con grosella negra, azafrán y cardamomo, su corazón tiene rosa, cacao y vetiver y se asienta sobre maltol, ámbar y pachulí."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -392,6 +1438,34 @@
    "image": "img/1007.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Shouq-101510.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "dulce",
+     "lactónico",
+     "atalcado",
+     "cítrico",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "mandarina"
+     ],
+     "middle": [
+      "leche",
+      "muguet",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "maltol",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lactónico. Abre con mandarina, su corazón tiene leche, muguet y jazmín y se asienta sobre vainilla, maltol y almizcle."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -402,6 +1476,43 @@
    "image": "img/1008.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Special-Oud-64604.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "amaderado",
+     "cuero",
+     "especiado cálido",
+     "frutal",
+     "dulce",
+     "oud"
+    ],
+    "notes": {
+     "top": [
+      "cuero",
+      "durazno",
+      "azafrán",
+      "caramelo",
+      "frutos rojos"
+     ],
+     "middle": [
+      "notas amaderadas",
+      "pimienta rosa",
+      "cypriol",
+      "láudano",
+      "jengibre"
+     ],
+     "base": [
+      "oud",
+      "pachulí",
+      "vainilla",
+      "benjuí",
+      "bálsamo del Perú",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil amaderado, cuero y especiado cálido. Abre con cuero, durazno y azafrán, su corazón tiene notas amaderadas, pimienta rosa y cypriol y se asienta sobre oud, pachulí y vainilla."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -412,6 +1523,38 @@
    "image": "img/1009.webp",
    "usd": 39.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Sultan-Al-Lail-64603.html",
+   "details": {
+    "gender": "men",
+    "year": null,
+    "accords": [
+     "aromático",
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "especiado cálido",
+     "lavanda"
+    ],
+    "notes": {
+     "top": [
+      "naranja sanguina",
+      "bayas de enebro",
+      "cítricos",
+      "limón siciliano"
+     ],
+     "middle": [
+      "lavanda",
+      "pimienta de Jamaica",
+      "salvia esclarea",
+      "geranio"
+     ],
+     "base": [
+      "vetiver",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia masculina. De perfil aromático, cítrico y amaderado. Abre con naranja sanguina, bayas de enebro y cítricos, su corazón tiene lavanda, pimienta de Jamaica y salvia esclarea y se asienta sobre vetiver, cedro y pachulí."
+   },
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -422,6 +1565,42 @@
    "image": "img/1010.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Thahaani-78248.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "frutal",
+     "floral blanco",
+     "floral",
+     "dulce",
+     "nardo",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "durazno",
+      "peonía",
+      "osmanthus",
+      "hojas de violeta",
+      "rosa",
+      "aldehídos"
+     ],
+     "middle": [
+      "azahar",
+      "nardo",
+      "ciruela",
+      "rosa",
+      "heliotropo"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar",
+      "sándalo",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil frutal, floral blanco y floral. Abre con durazno, peonía y osmanthus, su corazón tiene azahar, nardo y ciruela y se asienta sobre almizcle, ámbar y sándalo."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -432,6 +1611,35 @@
    "image": "img/1011.webp",
    "usd": 32.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Tiara-Pink-115763.html",
+   "details": {
+    "gender": "women",
+    "year": 2025,
+    "accords": [
+     "cítrico",
+     "rosa",
+     "amaderado",
+     "ámbar",
+     "especiado fresco",
+     "oud"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "pera"
+     ],
+     "middle": [
+      "rosa turca",
+      "agarwood (oud)",
+      "incienso"
+     ],
+     "base": [
+      "notas amaderadas orientales",
+      "ámbar",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2025. De perfil cítrico, rosa y amaderado. Abre con bergamota y pera, su corazón tiene rosa turca, agarwood (oud) y incienso y se asienta sobre notas amaderadas orientales, ámbar y vainilla."
+   },
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -442,6 +1650,36 @@
    "image": "img/1012.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Tiger-Eye-129905.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "amaderado",
+     "cítrico",
+     "ámbar",
+     "atalcado",
+     "aromático",
+     "lavanda"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "mandarina",
+      "lavanda"
+     ],
+     "middle": [
+      "cashmeran",
+      "cedro",
+      "neroli"
+     ],
+     "base": [
+      "sándalo",
+      "haba tonka",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil amaderado, cítrico y ámbar. Abre con pomelo, mandarina y lavanda, su corazón tiene cashmeran, cedro y neroli y se asienta sobre sándalo, haba tonka y ámbar."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -452,6 +1690,36 @@
    "image": "img/1013.webp",
    "usd": 32.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Watani-Noir-88593.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "especiado fresco",
+     "especiado cálido",
+     "aromático",
+     "cítrico",
+     "almizclado",
+     "cuero"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "bergamota",
+      "geranio"
+     ],
+     "middle": [
+      "cuero",
+      "rosa",
+      "muguet"
+     ],
+     "base": [
+      "almizcle",
+      "notas amaderadas",
+      "oud"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil especiado fresco, especiado cálido y aromático. Abre con azafrán, bergamota y geranio, su corazón tiene cuero, rosa y muguet y se asienta sobre almizcle, notas amaderadas y oud."
+   },
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -462,6 +1730,35 @@
    "image": "img/1014.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Sabah-Al-Ward-64579.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "floral blanco",
+     "vainilla",
+     "dulce",
+     "cítrico",
+     "cacao",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "mandarina"
+     ],
+     "middle": [
+      "azahar",
+      "vaina de cacao",
+      "jazmín sambac"
+     ],
+     "base": [
+      "vainilla",
+      "haba tonka",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil floral blanco, vainilla y dulce. Abre con pimienta rosa y mandarina, su corazón tiene azahar, vaina de cacao y jazmín sambac y se asienta sobre vainilla, haba tonka y pachulí."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -472,6 +1769,34 @@
    "image": "img/1015.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Shagaf-Al-Ward-64576.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "floral blanco",
+     "rosa",
+     "floral",
+     "ámbar",
+     "nardo",
+     "floral amarillo"
+    ],
+    "notes": {
+     "top": [
+      "rosa de mayo",
+      "jazmín",
+      "osmanthus"
+     ],
+     "middle": [
+      "narciso",
+      "nardo indio"
+     ],
+     "base": [
+      "ámbar",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil floral blanco, rosa y floral. Abre con rosa de mayo, jazmín y osmanthus, su corazón tiene narciso y nardo indio y se asienta sobre ámbar y cedro."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -482,6 +1807,38 @@
    "image": "img/bareeq-al-dhahab-100ml.webp",
    "usd": 31.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Al-Wataniah/Bareeq-Al-Dhahab-78249.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "ámbar",
+     "especiado cálido",
+     "oud",
+     "amaderado",
+     "rosa",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "azafrán",
+      "pimienta"
+     ],
+     "middle": [
+      "oud",
+      "caramelo",
+      "pachulí",
+      "notas florales"
+     ],
+     "base": [
+      "incienso",
+      "ámbar",
+      "notas amaderadas",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, especiado cálido y oud. Abre con rosa, azafrán y pimienta, su corazón tiene oud, caramelo y pachulí y se asienta sobre incienso, ámbar y notas amaderadas."
+   },
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -510,6 +1867,43 @@
    "image": "img/1017.webp",
    "usd": 58.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Blue-Iconic-78475.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "ámbar",
+     "aromático",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "limón",
+      "menta",
+      "pimienta rosa",
+      "cilantro"
+     ],
+     "middle": [
+      "jengibre",
+      "melón",
+      "jazmín",
+      "nuez moscada"
+     ],
+     "base": [
+      "notas amaderadas",
+      "incienso",
+      "sándalo",
+      "ámbar",
+      "cedro",
+      "pachulí",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, amaderado y especiado fresco. Abre con pomelo, limón y menta, su corazón tiene jengibre, melón y jazmín y se asienta sobre notas amaderadas, incienso y sándalo."
+   },
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -538,6 +1932,39 @@
    "image": "img/1020.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Intense-Man-34696.html",
+   "details": {
+    "gender": "men",
+    "year": 2015,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "cuero",
+     "ahumado",
+     "amaderado",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "ananá",
+      "bergamota",
+      "grosella negra",
+      "manzana"
+     ],
+     "middle": [
+      "abedul",
+      "jazmín",
+      "rosa"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar gris",
+      "pachulí",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2015. De perfil cítrico, frutal y cuero. Abre con limón, ananá y bergamota, su corazón tiene abedul, jazmín y rosa y se asienta sobre almizcle, ámbar gris y pachulí."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -548,6 +1975,40 @@
    "image": "img/1021.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Sillage-64105.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2020,
+    "accords": [
+     "cítrico",
+     "almizclado",
+     "amaderado",
+     "especiado fresco",
+     "atalcado",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "limón",
+      "lima",
+      "grosella negra",
+      "hoja de violeta",
+      "jengibre"
+     ],
+     "middle": [
+      "rosa",
+      "iris",
+      "jazmín"
+     ],
+     "base": [
+      "ambroxan",
+      "almizcle",
+      "sándalo",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2020. De perfil cítrico, almizclado y amaderado. Abre con bergamota, limón y lima, su corazón tiene rosa, iris y jazmín y se asienta sobre ambroxan, almizcle y sándalo."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -558,6 +2019,39 @@
    "image": "img/1022.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Woman-27655.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "cítrico",
+     "pachulí",
+     "rosa",
+     "amaderado",
+     "especiado fresco",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "bergamota",
+      "pomelo",
+      "durazno"
+     ],
+     "middle": [
+      "rosa",
+      "jazmín",
+      "geranio",
+      "lichi"
+     ],
+     "base": [
+      "pachulí",
+      "almizcle",
+      "vainilla",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil cítrico, pachulí y rosa. Abre con naranja, bergamota y pomelo, su corazón tiene rosa, jazmín y geranio y se asienta sobre pachulí, almizcle y vainilla."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -568,6 +2062,33 @@
    "image": "img/1023.webp",
    "usd": 59.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Untold-78476.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "ámbar",
+     "especiado cálido",
+     "metálico",
+     "floral blanco",
+     "animálico"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "jazmín"
+     ],
+     "middle": [
+      "madera de ámbar",
+      "ámbar gris"
+     ],
+     "base": [
+      "resina de abeto",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, ámbar y especiado cálido. Abre con azafrán y jazmín, su corazón tiene madera de ámbar y ámbar gris y se asienta sobre resina de abeto y cedro."
+   },
    "ars": 90860,
    "rateSource": "fila"
   },
@@ -578,6 +2099,34 @@
    "image": "img/club-de-nuit-maleka-edp-105ml.webp",
    "usd": 59.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Maleka-106168.html",
+   "details": {
+    "gender": "women",
+    "year": 2025,
+    "accords": [
+     "iris",
+     "atalcado",
+     "frutal",
+     "amaderado",
+     "dulce",
+     "tropical"
+    ],
+    "notes": {
+     "top": [
+      "lichi",
+      "bergamota",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "raíz de iris"
+     ],
+     "base": [
+      "praliné",
+      "ambroxan",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2025. De perfil iris, atalcado y frutal. Abre con lichi, bergamota y pimienta rosa, su corazón tiene raíz de iris y se asienta sobre praliné, ambroxan y sándalo."
+   },
    "ars": 90860,
    "rateSource": "mediana"
   },
@@ -597,6 +2146,41 @@
    "image": "img/1025.webp",
    "usd": 81.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Oud-88825.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "frutal",
+     "dulce",
+     "amaderado",
+     "almizclado",
+     "atalcado",
+     "animálico"
+    ],
+    "notes": {
+     "top": [
+      "durazno",
+      "maracuyá",
+      "pera",
+      "ananá",
+      "ciruela",
+      "bergamota"
+     ],
+     "middle": [
+      "madera de cachemira",
+      "jazmín",
+      "hojas de violeta",
+      "fresia"
+     ],
+     "base": [
+      "almizcle",
+      "oud camboyano",
+      "vainilla",
+      "ámbar cristal"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil frutal, dulce y amaderado. Abre con durazno, maracuyá y pera, su corazón tiene madera de cachemira, jazmín y hojas de violeta y se asienta sobre almizcle, oud camboyano y vainilla."
+   },
    "ars": 124740,
    "rateSource": "fila"
   },
@@ -607,6 +2191,46 @@
    "image": "img/1026.webp",
    "usd": 68.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Precieux-I-93272.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "amaderado",
+     "cítrico",
+     "frutal",
+     "ámbar",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "limón",
+      "bergamota",
+      "caramelo",
+      "pimienta rosa",
+      "pera",
+      "pimienta negra"
+     ],
+     "middle": [
+      "musgo de roble",
+      "madera blanca",
+      "jazmín",
+      "muguet",
+      "anís"
+     ],
+     "base": [
+      "ambroxan",
+      "almizcle blanco",
+      "cedro",
+      "pachulí",
+      "cuero",
+      "ámbar",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, amaderado y cítrico. Abre con ananá, limón y bergamota, su corazón tiene musgo de roble, madera blanca y jazmín y se asienta sobre ambroxan, almizcle blanco y cedro."
+   },
    "ars": 104720,
    "rateSource": "fila"
   },
@@ -617,6 +2241,39 @@
    "image": "img/1027.webp",
    "usd": 48.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-de-Nuit-Urban-Man-47394.html",
+   "details": {
+    "gender": "men",
+    "year": 2017,
+    "accords": [
+     "amaderado",
+     "especiado fresco",
+     "aromático",
+     "cítrico",
+     "especiado cálido",
+     "verde"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "menta",
+      "pomelo",
+      "cardamomo"
+     ],
+     "middle": [
+      "jengibre",
+      "lavanda",
+      "cedro",
+      "nuez moscada"
+     ],
+     "base": [
+      "pachulí",
+      "vetiver",
+      "sándalo",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2017. De perfil amaderado, especiado fresco y aromático. Abre con bergamota, menta y pomelo, su corazón tiene jengibre, lavanda y cedro y se asienta sobre pachulí, vetiver y sándalo."
+   },
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -627,6 +2284,42 @@
    "image": "img/1028.webp",
    "usd": 58.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Club-De-Nuit-Urban-Elixir-77860.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "ámbar",
+     "aromático",
+     "cítrico",
+     "especiado fresco",
+     "almizclado",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "pimienta rosa",
+      "azahar",
+      "jazmín"
+     ],
+     "middle": [
+      "lavanda",
+      "elemí",
+      "geranio",
+      "vetiver",
+      "azafrán",
+      "caléndula"
+     ],
+     "base": [
+      "ambroxan",
+      "ámbar",
+      "cedro",
+      "pachulí",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, aromático y cítrico. Abre con bergamota, pimienta rosa y azahar, su corazón tiene lavanda, elemí y geranio y se asienta sobre ambroxan, ámbar y cedro."
+   },
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -646,6 +2339,38 @@
    "image": "img/odyssey-dubai-chocolate.webp",
    "usd": 65.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Dubai-Chocolat-102117.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "especiado cálido",
+     "dulce",
+     "avellanado",
+     "amaderado",
+     "café",
+     "chocolate"
+    ],
+    "notes": {
+     "top": [
+      "café",
+      "pistacho",
+      "avellana",
+      "praliné",
+      "knafeh"
+     ],
+     "middle": [
+      "chocolate",
+      "vainilla",
+      "cardamomo"
+     ],
+     "base": [
+      "caramelo",
+      "haba tonka",
+      "madera de ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil especiado cálido, dulce y avellanado. Abre con café, pistacho y avellana, su corazón tiene chocolate, vainilla y cardamomo y se asienta sobre caramelo, haba tonka y madera de ámbar."
+   },
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -656,6 +2381,35 @@
    "image": "img/1030.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Aqua-Edition-83134.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "aromático",
+     "cítrico",
+     "especiado fresco",
+     "verde",
+     "amaderado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "pomelo",
+      "artemisa"
+     ],
+     "middle": [
+      "menta",
+      "lavanda"
+     ],
+     "base": [
+      "ambroxan",
+      "ciprés",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil aromático, cítrico y especiado fresco. Abre con naranja, pomelo y artemisa, su corazón tiene menta y lavanda y se asienta sobre ambroxan, ciprés y pachulí."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -666,6 +2420,38 @@
    "image": "img/1031.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Candee-96990.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "dulce",
+     "pachulí",
+     "caramelo",
+     "amaderado",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "frutilla",
+      "frambuesa",
+      "geranio",
+      "durazno",
+      "bergamota"
+     ],
+     "middle": [
+      "caramelo",
+      "jazmín",
+      "maracuyá"
+     ],
+     "base": [
+      "pachulí",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil frutal, dulce y pachulí. Abre con frutilla, frambuesa y geranio, su corazón tiene caramelo, jazmín y maracuyá y se asienta sobre pachulí, almizcle y ámbar."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -676,6 +2462,36 @@
    "image": "img/1032.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Limoni-Fresh-98695.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "especiado fresco",
+     "aromático",
+     "fresco",
+     "verde"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "naranja dulce",
+      "bergamota",
+      "mandarina"
+     ],
+     "middle": [
+      "azahar",
+      "notas marinas",
+      "jengibre"
+     ],
+     "base": [
+      "té",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, especiado fresco y aromático. Abre con limón, naranja dulce y bergamota, su corazón tiene azahar, notas marinas y jengibre y se asienta sobre té, almizcle y ámbar."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -686,6 +2502,36 @@
    "image": "img/1033.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Homme-64464.html",
+   "details": {
+    "gender": "men",
+    "year": null,
+    "accords": [
+     "amaderado",
+     "especiado cálido",
+     "vainilla",
+     "cítrico",
+     "ámbar",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "mandarina",
+      "neroli"
+     ],
+     "middle": [
+      "azahar",
+      "rosa"
+     ],
+     "base": [
+      "vainilla",
+      "notas amaderadas",
+      "ámbar",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia masculina. De perfil amaderado, especiado cálido y vainilla. Abre con cardamomo, mandarina y neroli, su corazón tiene azahar y rosa y se asienta sobre vainilla, notas amaderadas y ámbar."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -696,6 +2542,36 @@
    "image": "img/1034.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Homme-White-Edition-64466.html",
+   "details": {
+    "gender": "men",
+    "year": null,
+    "accords": [
+     "amaderado",
+     "aromático",
+     "vainilla",
+     "ámbar",
+     "especiado cálido",
+     "especiado suave"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "pimienta rosa",
+      "menta"
+     ],
+     "middle": [
+      "salvia",
+      "notas acuáticas",
+      "ananá"
+     ],
+     "base": [
+      "vainilla",
+      "madera de ámbar",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia masculina. De perfil amaderado, aromático y vainilla. Abre con cardamomo, pimienta rosa y menta, su corazón tiene salvia, notas acuáticas y ananá y se asienta sobre vainilla, madera de ámbar y cedro."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -706,6 +2582,40 @@
    "image": "img/1035.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Mega-Man-83133.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "especiado fresco",
+     "amaderado",
+     "dulce",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "bergamota",
+      "naranja",
+      "jengibre",
+      "menta"
+     ],
+     "middle": [
+      "ananá",
+      "salvia",
+      "enebro",
+      "geranio"
+     ],
+     "base": [
+      "almizcle",
+      "cedro",
+      "haba tonka",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, aromático y especiado fresco. Abre con limón, bergamota y naranja, su corazón tiene ananá, salvia y enebro y se asienta sobre almizcle, cedro y haba tonka."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -716,6 +2626,40 @@
    "image": "img/1036.webp",
    "usd": 72.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Mega-Man-83133.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "especiado fresco",
+     "amaderado",
+     "dulce",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "bergamota",
+      "naranja",
+      "jengibre",
+      "menta"
+     ],
+     "middle": [
+      "ananá",
+      "salvia",
+      "enebro",
+      "geranio"
+     ],
+     "base": [
+      "almizcle",
+      "cedro",
+      "haba tonka",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, aromático y especiado fresco. Abre con limón, bergamota y naranja, su corazón tiene ananá, salvia y enebro y se asienta sobre almizcle, cedro y haba tonka."
+   },
    "ars": 110880,
    "rateSource": "fila"
   },
@@ -726,6 +2670,39 @@
    "image": "img/1037.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Spectra-98692.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "lavanda",
+     "especiado cálido",
+     "ámbar",
+     "canela",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "canela",
+      "manzana",
+      "bergamota"
+     ],
+     "middle": [
+      "lavanda",
+      "canela",
+      "azahar",
+      "muguet"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "tabaco",
+      "haba tonka",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, lavanda y especiado cálido. Abre con canela, manzana y bergamota, su corazón tiene lavanda, canela y azahar y se asienta sobre vainilla, ámbar y tabaco."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -745,6 +2722,34 @@
    "image": "img/1039.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Red-Sky-98714.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral amarillo",
+     "dulce",
+     "floral",
+     "rosa",
+     "amaderado",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "almendra amarga"
+     ],
+     "middle": [
+      "ylang-ylang",
+      "rosa",
+      "peonía"
+     ],
+     "base": [
+      "cumarina",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral amarillo, dulce y floral. Abre con bergamota y almendra amarga, su corazón tiene ylang-ylang, rosa y peonía y se asienta sobre cumarina y vainilla."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -755,6 +2760,37 @@
    "image": "img/1040.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Armaf/Odyssey-Mandarin-Sky-83132.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "cítrico",
+     "caramelo",
+     "dulce",
+     "ámbar",
+     "aromático",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "naranja",
+      "azafrán",
+      "salvia"
+     ],
+     "middle": [
+      "caramelo",
+      "haba tonka",
+      "caléndula"
+     ],
+     "base": [
+      "ambroxan",
+      "cedro",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, caramelo y dulce. Abre con mandarina, naranja y azafrán, su corazón tiene caramelo, haba tonka y caléndula y se asienta sobre ambroxan, cedro y vetiver."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -765,6 +2801,34 @@
    "image": "img/1041.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Arabesque-93255.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "rosa",
+     "vainilla",
+     "café",
+     "floral",
+     "especiado cálido",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "bergamota"
+     ],
+     "middle": [
+      "café",
+      "notas florales",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil rosa, vainilla y café. Abre con rosa y bergamota, su corazón tiene café, notas florales y jazmín y se asienta sobre vainilla y almizcle."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -775,6 +2839,33 @@
    "image": "img/1042.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Arabesque-Hayat-93256.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "especiado cálido",
+     "amaderado",
+     "aromático",
+     "pachulí",
+     "cítrico",
+     "especiado suave"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "pachulí",
+      "bergamota"
+     ],
+     "middle": [
+      "cardamomo"
+     ],
+     "base": [
+      "sándalo",
+      "haba tonka"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil especiado cálido, amaderado y aromático. Abre con pimienta rosa, pachulí y bergamota, su corazón tiene cardamomo y se asienta sobre sándalo y haba tonka."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -785,6 +2876,40 @@
    "image": "img/1043.webp",
    "usd": 61.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Cafe-Citadel-107707.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "aromático",
+     "amaderado",
+     "especiado fresco",
+     "pachulí",
+     "oud",
+     "balsámico"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "davana",
+      "bergamota"
+     ],
+     "middle": [
+      "oud",
+      "ámbar",
+      "elemí",
+      "romero",
+      "geranio"
+     ],
+     "base": [
+      "pachulí",
+      "cuero",
+      "cedro",
+      "almizcle",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil aromático, amaderado y especiado fresco. Abre con pimienta rosa, davana y bergamota, su corazón tiene oud, ámbar y elemí y se asienta sobre pachulí, cuero y cedro."
+   },
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -795,6 +2920,36 @@
    "image": "img/1044.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Aroma-VII-89534.html",
+   "details": {
+    "gender": "men",
+    "year": 2020,
+    "accords": [
+     "amaderado",
+     "aromático",
+     "especiado fresco",
+     "atalcado",
+     "fresco",
+     "violeta"
+    ],
+    "notes": {
+     "top": [
+      "vetiver",
+      "tabaco",
+      "ciprés"
+     ],
+     "middle": [
+      "enebro",
+      "sándalo",
+      "especias"
+     ],
+     "base": [
+      "aldehídos",
+      "violeta",
+      "pimienta rosa"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2020. De perfil amaderado, aromático y especiado fresco. Abre con vetiver, tabaco y ciprés, su corazón tiene enebro, sándalo y especias y se asienta sobre aldehídos, violeta y pimienta rosa."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -805,6 +2960,40 @@
    "image": "img/1045.webp",
    "usd": 75.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Atmosphere-119224.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "aromático",
+     "especiado fresco",
+     "acuático",
+     "fresco",
+     "verde",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "kumquat",
+      "jengibre",
+      "manzana"
+     ],
+     "middle": [
+      "menta",
+      "gin",
+      "melón",
+      "notas acuáticas",
+      "laurel"
+     ],
+     "base": [
+      "vetiver de Haití",
+      "almizcle",
+      "cedro",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil aromático, especiado fresco y acuático. Abre con bergamota, kumquat y jengibre, su corazón tiene menta, gin y melón y se asienta sobre vetiver de Haití, almizcle y cedro."
+   },
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -815,6 +3004,41 @@
    "image": "img/1046.webp",
    "usd": 75.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Cherry-in-The-Woods-105690.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "dulce",
+     "frutal",
+     "vainilla",
+     "cereza",
+     "amaderado",
+     "rosa"
+    ],
+    "notes": {
+     "top": [
+      "cereza",
+      "manzana roja",
+      "pera",
+      "naranja sanguina"
+     ],
+     "middle": [
+      "jazmín sambac",
+      "frambuesa",
+      "rosa de mayo",
+      "rosa marroquí",
+      "resina de elemí"
+     ],
+     "base": [
+      "vainilla",
+      "haba tonka",
+      "sándalo",
+      "madera de ámbar",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil dulce, frutal y vainilla. Abre con cereza, manzana roja y pera, su corazón tiene jazmín sambac, frambuesa y rosa de mayo y se asienta sobre vainilla, haba tonka y sándalo."
+   },
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -834,6 +3058,37 @@
    "image": "img/1048.webp",
    "usd": 56.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Habanera-Red-93472.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "floral",
+     "frutal",
+     "almizclado",
+     "atalcado",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "pera",
+      "pimienta peruana",
+      "café"
+     ],
+     "middle": [
+      "flores",
+      "almizcle blanco",
+      "naranja",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "pachulí",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, floral y frutal. Abre con pera, pimienta peruana y café, su corazón tiene flores, almizcle blanco y naranja y se asienta sobre vainilla, pachulí y cedro."
+   },
    "ars": 86240,
    "rateSource": "fila"
   },
@@ -844,6 +3099,38 @@
    "image": "img/1049.webp",
    "usd": 59.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Melody-89533.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "almizclado",
+     "frutal",
+     "dulce",
+     "floral",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "frutos rojos",
+      "pimienta rosa",
+      "bergamota"
+     ],
+     "middle": [
+      "flor de pera",
+      "nardo",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "cuero",
+      "almizcle",
+      "musgo",
+      "oud"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, almizclado y frutal. Abre con frutos rojos, pimienta rosa y bergamota, su corazón tiene flor de pera, nardo y jazmín y se asienta sobre vainilla, cuero y almizcle."
+   },
    "ars": 90860,
    "rateSource": "fila"
   },
@@ -854,6 +3141,40 @@
    "image": "img/1050.webp",
    "usd": 57.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Monument-GOLD-115065.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "floral blanco",
+     "amaderado",
+     "frutal",
+     "cítrico",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "lichi",
+      "cítricos",
+      "ananá"
+     ],
+     "middle": [
+      "ylang-ylang",
+      "rosa",
+      "jazmín",
+      "azahar"
+     ],
+     "base": [
+      "almizcle",
+      "sándalo",
+      "ámbar",
+      "pachulí",
+      "cashmeran"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, floral blanco y amaderado. Abre con pimienta rosa, lichi y cítricos, su corazón tiene ylang-ylang, rosa y jazmín y se asienta sobre almizcle, sándalo y ámbar."
+   },
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -864,6 +3185,39 @@
    "image": "img/1051.webp",
    "usd": 57.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Monument-Pour-Femme-115063.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "amaderado",
+     "atalcado",
+     "dulce",
+     "vainilla",
+     "iris"
+    ],
+    "notes": {
+     "top": [
+      "ciruela",
+      "mandarina",
+      "bergamota",
+      "lichi"
+     ],
+     "middle": [
+      "madera de ámbar",
+      "raíz de iris",
+      "frambuesa",
+      "cedro"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "pachulí",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil frutal, amaderado y atalcado. Abre con ciruela, mandarina y bergamota, su corazón tiene madera de ámbar, raíz de iris y frambuesa y se asienta sobre vainilla, almizcle y pachulí."
+   },
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -874,6 +3228,35 @@
    "image": "img/1052.webp",
    "usd": 52.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Pharaoh-89524.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "especiado cálido",
+     "especiado fresco",
+     "lavanda",
+     "aromático",
+     "amaderado",
+     "pachulí"
+    ],
+    "notes": {
+     "top": [
+      "nuez moscada",
+      "cardamomo",
+      "canela"
+     ],
+     "middle": [
+      "lavanda"
+     ],
+     "base": [
+      "pachulí",
+      "vetiver de Haití",
+      "sándalo",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil especiado cálido, especiado fresco y lavanda. Abre con nuez moscada, cardamomo y canela, su corazón tiene lavanda y se asienta sobre pachulí, vetiver de Haití y sándalo."
+   },
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -884,6 +3267,36 @@
    "image": "img/1053.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Romance-d-Amour-Light-61564.html",
+   "details": {
+    "gender": "men",
+    "year": 2018,
+    "accords": [
+     "amaderado",
+     "especiado fresco",
+     "ámbar",
+     "especiado cálido",
+     "aromático",
+     "cuero"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "albahaca"
+     ],
+     "middle": [
+      "nuez moscada",
+      "cuero",
+      "notas amaderadas"
+     ],
+     "base": [
+      "sándalo",
+      "cedro",
+      "láudano",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2018. De perfil amaderado, especiado fresco y ámbar. Abre con cardamomo y albahaca, su corazón tiene nuez moscada, cuero y notas amaderadas y se asienta sobre sándalo, cedro y láudano."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -894,6 +3307,35 @@
    "image": "img/1054.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Aurora-Scents/Vanilla-Espresso-113912.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "dulce",
+     "vainilla",
+     "cítrico",
+     "amaderado",
+     "caramelo",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "coñac",
+      "mandarina"
+     ],
+     "middle": [
+      "praliné",
+      "caramelo",
+      "azahar"
+     ],
+     "base": [
+      "vainilla",
+      "cedro",
+      "café"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil dulce, vainilla y cítrico. Abre con coñac y mandarina, su corazón tiene praliné, caramelo y azahar y se asienta sobre vainilla, cedro y café."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -904,6 +3346,35 @@
    "image": "img/1055.webp",
    "usd": 82.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Double-Bleu-79502.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "amaderado",
+     "frutal",
+     "dulce",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "limón",
+      "bergamota",
+      "romero"
+     ],
+     "middle": [
+      "jazmín",
+      "cilantro"
+     ],
+     "base": [
+      "madera flotante",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, aromático y amaderado. Abre con ananá, limón y bergamota, su corazón tiene jazmín y cilantro y se asienta sobre madera flotante y almizcle."
+   },
    "ars": 126280,
    "rateSource": "fila"
   },
@@ -914,6 +3385,36 @@
    "image": "img/1056.webp",
    "usd": 89.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Don-79503.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "frutal",
+     "especiado cálido",
+     "dulce",
+     "especiado fresco",
+     "cítrico",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "bergamota",
+      "pimienta"
+     ],
+     "middle": [
+      "pera",
+      "cardamomo",
+      "clavo de olor"
+     ],
+     "base": [
+      "almizcle",
+      "pachulí",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil frutal, especiado cálido y dulce. Abre con ananá, bergamota y pimienta, su corazón tiene pera, cardamomo y clavo de olor y se asienta sobre almizcle, pachulí y sándalo."
+   },
    "ars": 137060,
    "rateSource": "fila"
   },
@@ -924,6 +3425,35 @@
    "image": "img/1057.webp",
    "usd": 90.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Double-Bleu-79502.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "amaderado",
+     "frutal",
+     "dulce",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "limón",
+      "bergamota",
+      "romero"
+     ],
+     "middle": [
+      "jazmín",
+      "cilantro"
+     ],
+     "base": [
+      "madera flotante",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, aromático y amaderado. Abre con ananá, limón y bergamota, su corazón tiene jazmín y cilantro y se asienta sobre madera flotante y almizcle."
+   },
    "ars": 138600,
    "rateSource": "fila"
   },
@@ -934,6 +3464,34 @@
    "image": "img/1058.webp",
    "usd": 75.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/King-74184.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "dulce",
+     "vainilla",
+     "atalcado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "bergamota",
+      "limón"
+     ],
+     "middle": [
+      "notas frutales"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle blanco",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene notas frutales y se asienta sobre vainilla, almizcle blanco y ámbar."
+   },
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -944,6 +3502,34 @@
    "image": "img/1059.webp",
    "usd": 91.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/King-74184.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "dulce",
+     "vainilla",
+     "atalcado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "bergamota",
+      "limón"
+     ],
+     "middle": [
+      "notas frutales"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle blanco",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene notas frutales y se asienta sobre vainilla, almizcle blanco y ámbar."
+   },
    "ars": 140140,
    "rateSource": "fila"
   },
@@ -954,6 +3540,34 @@
    "image": "img/1060.webp",
    "usd": 66.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Niche-79501.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2021,
+    "accords": [
+     "amaderado",
+     "floral blanco",
+     "ámbar",
+     "especiado fresco",
+     "especiado cálido",
+     "chocolate"
+    ],
+    "notes": {
+     "top": [
+      "cítricos",
+      "enebro"
+     ],
+     "middle": [
+      "jazmín",
+      "chocolate",
+      "abeto balsámico"
+     ],
+     "base": [
+      "madera de ámbar",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2021. De perfil amaderado, floral blanco y ámbar. Abre con cítricos y enebro, su corazón tiene jazmín, chocolate y abeto balsámico y se asienta sobre madera de ámbar y musgo."
+   },
    "ars": 101640,
    "rateSource": "fila"
   },
@@ -973,6 +3587,32 @@
    "image": "img/1062.webp",
    "usd": 89.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Rose-134909.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "rosa",
+     "floral blanco",
+     "ámbar",
+     "floral",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "azafrán"
+     ],
+     "middle": [
+      "jazmín",
+      "violeta"
+     ],
+     "base": [
+      "ámbar",
+      "oud"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil rosa, floral blanco y ámbar. Abre con rosa y azafrán, su corazón tiene jazmín y violeta y se asienta sobre ámbar y oud."
+   },
    "ars": 137060,
    "rateSource": "fila"
   },
@@ -992,6 +3632,39 @@
    "image": "img/1064.webp",
    "usd": 71.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Viking-Cairo-103876.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "especiado fresco",
+     "ámbar",
+     "fresco",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "jengibre",
+      "limón"
+     ],
+     "middle": [
+      "acorde fougère",
+      "lavanda",
+      "haba tonka",
+      "violeta",
+      "magnolia"
+     ],
+     "base": [
+      "vetiver",
+      "ámbar",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, aromático y especiado fresco. Abre con mandarina, jengibre y limón, su corazón tiene acorde fougère, lavanda y haba tonka y se asienta sobre vetiver, ámbar y pachulí."
+   },
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -1002,6 +3675,40 @@
    "image": "img/1065.webp",
    "usd": 71.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Viking-Dubai-113760.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "ámbar",
+     "especiado fresco",
+     "almizclado",
+     "amaderado",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "pomelo",
+      "jengibre",
+      "bergamota",
+      "naranja dulce"
+     ],
+     "middle": [
+      "madera de cachemira",
+      "haba tonka",
+      "violeta",
+      "magnolia"
+     ],
+     "base": [
+      "ambroxan",
+      "almizcle blanco",
+      "pachulí",
+      "ámbar gris"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, ámbar y especiado fresco. Abre con limón, pomelo y jengibre, su corazón tiene madera de cachemira, haba tonka y violeta y se asienta sobre ambroxan, almizcle blanco y pachulí."
+   },
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -1012,6 +3719,33 @@
    "image": "img/1066.webp",
    "usd": 71.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Viking-Kashmir-113761.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "amaderado",
+     "especiado cálido",
+     "aromático",
+     "atalcado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "papiro"
+     ],
+     "middle": [
+      "hisopo",
+      "olíbano",
+      "zanahoria"
+     ],
+     "base": [
+      "sándalo",
+      "madera de cachemira"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil amaderado, especiado cálido y aromático. Abre con cardamomo y papiro, su corazón tiene hisopo, olíbano y zanahoria y se asienta sobre sándalo y madera de cachemira."
+   },
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -1022,6 +3756,34 @@
    "image": "img/1067.webp",
    "usd": 71.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Bharara/Viking-Rio-96818.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "amaderado",
+     "avellanado",
+     "cacao",
+     "caramelo",
+     "dulce",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "avellana",
+      "cacao"
+     ],
+     "middle": [
+      "cedro",
+      "jazmín sambac"
+     ],
+     "base": [
+      "caramelo",
+      "ambroxan",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, avellanado y cacao. Abre con avellana y cacao, su corazón tiene cedro y jazmín sambac y se asienta sobre caramelo, ambroxan y musgo de roble."
+   },
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -1041,6 +3803,37 @@
    "image": "img/afeef-edp-100ml.webp",
    "usd": 71.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Afeef-100126.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "dulce",
+     "amaderado",
+     "cítrico",
+     "frutal",
+     "nardo"
+    ],
+    "notes": {
+     "top": [
+      "durazno",
+      "pimienta rosa",
+      "bergamota"
+     ],
+     "middle": [
+      "azahar",
+      "nardo",
+      "jazmín"
+     ],
+     "base": [
+      "praliné",
+      "ámbar",
+      "sándalo",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, dulce y amaderado. Abre con durazno, pimienta rosa y bergamota, su corazón tiene azahar, nardo y jazmín y se asienta sobre praliné, ámbar y sándalo."
+   },
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -1051,6 +3844,34 @@
    "image": "img/ajwad-edp-60ml.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ajwad-75099.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2021,
+    "accords": [
+     "rosa",
+     "frutal",
+     "atalcado",
+     "vainilla",
+     "almizclado",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "notas frutales"
+     ],
+     "middle": [
+      "rosa",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "ámbar",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2021. De perfil rosa, frutal y atalcado. Abre con notas frutales, su corazón tiene rosa y jazmín y se asienta sobre vainilla, almizcle y ámbar."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1061,6 +3882,39 @@
    "image": "img/ajwad-pink-to-pink-60ml.webp",
    "usd": 38.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ajwad-Pink-to-Pink-89766.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "tropical",
+     "cuero",
+     "fresco",
+     "cítrico",
+     "animálico"
+    ],
+    "notes": {
+     "top": [
+      "guayaba",
+      "pomelo rosado",
+      "lichi",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "rosa",
+      "peonía",
+      "magnolia"
+     ],
+     "base": [
+      "cuero",
+      "almizcle",
+      "ámbar gris",
+      "vainilla",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil frutal, tropical y cuero. Abre con guayaba, pomelo rosado y lichi, su corazón tiene rosa, peonía y magnolia y se asienta sobre cuero, almizcle y ámbar gris."
+   },
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -1071,6 +3925,37 @@
    "image": "img/al-nashama-100ml.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Nashama-89762.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "dulce",
+     "especiado suave",
+     "especiado fresco",
+     "ámbar",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "salvia",
+      "bergamota"
+     ],
+     "middle": [
+      "ciruela",
+      "pimienta negra",
+      "jazmín"
+     ],
+     "base": [
+      "cuero saffiano",
+      "ámbar",
+      "pachulí",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil frutal, dulce y especiado suave. Abre con pimienta rosa, salvia y bergamota, su corazón tiene ciruela, pimienta negra y jazmín y se asienta sobre cuero saffiano, ámbar y pachulí."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1081,6 +3966,38 @@
    "image": "img/al-nashama-caprice-100ml.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Nashama-Caprice-89764.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "aromático",
+     "especiado fresco",
+     "especiado cálido",
+     "lavanda",
+     "amaderado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "jengibre",
+      "bergamota",
+      "limón"
+     ],
+     "middle": [
+      "lavanda",
+      "geranio",
+      "menta"
+     ],
+     "base": [
+      "ámbar",
+      "cedro",
+      "pachulí",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil aromático, especiado fresco y especiado cálido. Abre con cardamomo, jengibre y bergamota, su corazón tiene lavanda, geranio y menta y se asienta sobre ámbar, cedro y pachulí."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1091,6 +4008,33 @@
    "image": "img/ana-abiyedh-edp-60ml.webp",
    "usd": 32.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ana-Abiyedh-59149.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "almizclado",
+     "atalcado",
+     "cítrico",
+     "vainilla",
+     "dulce",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "naranja"
+     ],
+     "middle": [
+      "vainilla",
+      "pera"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil almizclado, atalcado y cítrico. Abre con bergamota y naranja, su corazón tiene vainilla y pera y se asienta sobre almizcle y ámbar."
+   },
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -1101,6 +4045,35 @@
    "image": "img/ana-abiyedh-rouge-edp-60ml.webp",
    "usd": 33.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ana-Abiyedh-Rouge-63062.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2016,
+    "accords": [
+     "cítrico",
+     "ámbar",
+     "caramelo",
+     "animálico",
+     "aromático",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "pera nashi",
+      "kumquat",
+      "bergamota"
+     ],
+     "middle": [
+      "caramelo",
+      "geranio"
+     ],
+     "base": [
+      "ámbar gris",
+      "almizcle",
+      "musgo de roble"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2016. De perfil cítrico, ámbar y caramelo. Abre con pera nashi, kumquat y bergamota, su corazón tiene caramelo y geranio y se asienta sobre ámbar gris, almizcle y musgo de roble."
+   },
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -1111,6 +4084,37 @@
    "image": "img/angham-100ml-fem.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Angham-96768.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "dulce",
+     "lavanda",
+     "especiado fresco",
+     "atalcado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "jengibre",
+      "mandarina",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "lavanda",
+      "praliné",
+      "cacao",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lavanda. Abre con jengibre, mandarina y pimienta rosa, su corazón tiene lavanda, praliné y cacao y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1130,6 +4134,38 @@
    "image": "img/khamrah-qahwa.webp",
    "usd": 45.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Khamrah-Qahwa-88175.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "especiado cálido",
+     "dulce",
+     "vainilla",
+     "canela",
+     "café",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "canela",
+      "cardamomo",
+      "jengibre"
+     ],
+     "middle": [
+      "praliné",
+      "frutas confitadas",
+      "flores blancas"
+     ],
+     "base": [
+      "vainilla",
+      "café",
+      "haba tonka",
+      "benjuí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil especiado cálido, dulce y vainilla. Abre con canela, cardamomo y jengibre, su corazón tiene praliné, frutas confitadas y flores blancas y se asienta sobre vainilla, café y haba tonka."
+   },
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -1149,6 +4185,35 @@
    "image": "img/1070.webp",
    "usd": 45.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ansaam-Gold-82731.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "dulce",
+     "frutal",
+     "cítrico",
+     "almizclado",
+     "vainilla",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "pera"
+     ],
+     "middle": [
+      "notas dulces",
+      "jazmín",
+      "rosa"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla",
+      "frambuesa"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil dulce, frutal y cítrico. Abre con mandarina y pera, su corazón tiene notas dulces, jazmín y rosa y se asienta sobre almizcle, vainilla y frambuesa."
+   },
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -1168,6 +4233,37 @@
    "image": "img/1072.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Angham-96768.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "dulce",
+     "lavanda",
+     "especiado fresco",
+     "atalcado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "jengibre",
+      "mandarina",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "lavanda",
+      "praliné",
+      "cacao",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lavanda. Abre con jengibre, mandarina y pimienta rosa, su corazón tiene lavanda, praliné y cacao y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -1178,6 +4274,38 @@
    "image": "img/1073.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-72821.html",
+   "details": {
+    "gender": "men",
+    "year": 2021,
+    "accords": [
+     "ámbar",
+     "especiado fresco",
+     "amaderado",
+     "especiado cálido",
+     "vainilla",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "pimienta negra",
+      "tabaco",
+      "ananá"
+     ],
+     "middle": [
+      "pachulí",
+      "café",
+      "iris"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "madera seca",
+      "benjuí",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2021. De perfil ámbar, especiado fresco y amaderado. Abre con pimienta negra, tabaco y ananá, su corazón tiene pachulí, café y iris y se asienta sobre vainilla, ámbar y madera seca."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -1188,6 +4316,36 @@
    "image": "img/1074.webp",
    "usd": 57.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Bourbon-101124.html",
+   "details": {
+    "gender": "men",
+    "year": 2025,
+    "accords": [
+     "vainilla",
+     "cacao",
+     "dulce",
+     "lavanda",
+     "especiado fresco",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "ciruela mirabel",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "cacao",
+      "nuez moscada",
+      "davana"
+     ],
+     "base": [
+      "vainilla bourbon",
+      "ámbar",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2025. De perfil vainilla, cacao y dulce. Abre con lavanda, ciruela mirabel y pimienta rosa, su corazón tiene cacao, nuez moscada y davana y se asienta sobre vainilla bourbon, ámbar y vetiver."
+   },
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -1198,6 +4356,34 @@
    "image": "img/1075.webp",
    "usd": 38.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Zanzibar-90713.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "iris",
+     "atalcado",
+     "especiado fresco",
+     "lavanda",
+     "salado"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "pimienta negra"
+     ],
+     "middle": [
+      "agua de coco",
+      "iris",
+      "sal"
+     ],
+     "base": [
+      "vainilla",
+      "incienso"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil vainilla, iris y atalcado. Abre con lavanda y pimienta negra, su corazón tiene agua de coco, iris y sal y se asienta sobre vainilla y incienso."
+   },
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -1208,6 +4394,37 @@
    "image": "img/asad-zanzibar-limited-edition.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Asad-Zanzibar-Limited-Edition-122722.html",
+   "details": {
+    "gender": "men",
+    "year": 2025,
+    "accords": [
+     "aromático",
+     "marino",
+     "jabonoso",
+     "lavanda",
+     "amaderado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "notas marinas",
+      "lavanda",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "jabón",
+      "cashmeran",
+      "canela"
+     ],
+     "base": [
+      "ámbar",
+      "sándalo",
+      "cedro",
+      "haba tonka"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2025. De perfil aromático, marino y jabonoso. Abre con notas marinas, lavanda y pimienta rosa, su corazón tiene jabón, cashmeran y canela y se asienta sobre ámbar, sándalo y cedro."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1254,6 +4471,35 @@
    "image": "img/1078.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Amethyst-68214.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2021,
+    "accords": [
+     "rosa",
+     "oud",
+     "ámbar",
+     "especiado suave",
+     "floral",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "bergamota"
+     ],
+     "middle": [
+      "rosa turca",
+      "rosa búlgara",
+      "jazmín"
+     ],
+     "base": [
+      "oud",
+      "ámbar",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2021. De perfil rosa, oud y ámbar. Abre con pimienta rosa y bergamota, su corazón tiene rosa turca, rosa búlgara y jazmín y se asienta sobre oud, ámbar y vainilla."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -1264,6 +4510,35 @@
    "image": "img/1079.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Oud-for-Glory-64948.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2020,
+    "accords": [
+     "oud",
+     "especiado cálido",
+     "especiado fresco",
+     "pachulí",
+     "metálico",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "nuez moscada",
+      "lavanda"
+     ],
+     "middle": [
+      "oud",
+      "pachulí"
+     ],
+     "base": [
+      "oud",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2020. De perfil oud, especiado cálido y especiado fresco. Abre con azafrán, nuez moscada y lavanda, su corazón tiene oud y pachulí y se asienta sobre oud, pachulí y almizcle."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1274,6 +4549,37 @@
    "image": "img/1080.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Honor-Glory-84302.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "dulce",
+     "especiado cálido",
+     "frutal",
+     "vainilla",
+     "amaderado",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "crème brûlée"
+     ],
+     "middle": [
+      "canela",
+      "cúrcuma",
+      "pimienta negra",
+      "benjuí"
+     ],
+     "base": [
+      "vainilla",
+      "sándalo",
+      "cashmeran",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil dulce, especiado cálido y frutal. Abre con ananá y crème brûlée, su corazón tiene canela, cúrcuma y pimienta negra y se asienta sobre vainilla, sándalo y cashmeran."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1284,6 +4590,33 @@
    "image": "img/1081.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Badee-Al-Oud-Noble-Blush-122812.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "atalcado",
+     "vainilla",
+     "almendrado",
+     "amaderado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "leche de rosas"
+     ],
+     "middle": [
+      "merengue",
+      "almendrado"
+     ],
+     "base": [
+      "vainilla",
+      "sándalo",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil dulce, atalcado y vainilla. Abre con leche de rosas, su corazón tiene merengue y almendrado y se asienta sobre vainilla, sándalo y almizcle."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1294,6 +4627,35 @@
    "image": "img/1082.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Bade-e-Al-Oud-Sublime-83309.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "frutal",
+     "fresco",
+     "tropical",
+     "rosa",
+     "verde",
+     "terroso"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "lichi",
+      "rosa"
+     ],
+     "middle": [
+      "ciruela",
+      "jazmín"
+     ],
+     "base": [
+      "musgo",
+      "vainilla",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil frutal, fresco y tropical. Abre con manzana, lichi y rosa, su corazón tiene ciruela y jazmín y se asienta sobre musgo, vainilla y pachulí."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -1304,6 +4666,38 @@
    "image": "img/1083.webp",
    "usd": 38.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Confidential-Platinum-78549.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "especiado fresco",
+     "amaderado",
+     "aromático",
+     "ámbar",
+     "marino"
+    ],
+    "notes": {
+     "top": [
+      "cítricos",
+      "bergamota",
+      "ciprés",
+      "pimienta negra"
+     ],
+     "middle": [
+      "notas marinas",
+      "notas amaderadas",
+      "olíbano"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar gris",
+      "láudano",
+      "musgo"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, especiado fresco y amaderado. Abre con cítricos, bergamota y ciprés, su corazón tiene notas marinas, notas amaderadas y olíbano y se asienta sobre almizcle, ámbar gris y láudano."
+   },
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -1314,6 +4708,35 @@
    "image": "img/1084.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Eclaire-93628.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "vainilla",
+     "caramelo",
+     "lactónico",
+     "atalcado",
+     "miel"
+    ],
+    "notes": {
+     "top": [
+      "caramelo",
+      "leche",
+      "azúcar"
+     ],
+     "middle": [
+      "miel",
+      "flores blancas"
+     ],
+     "base": [
+      "vainilla",
+      "praliné",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil dulce, vainilla y caramelo. Abre con caramelo, leche y azúcar, su corazón tiene miel y flores blancas y se asienta sobre vainilla, praliné y almizcle."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -1324,6 +4747,39 @@
    "image": "img/1085.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Fakhar-Lattafa-30864.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2015,
+    "accords": [
+     "frutal",
+     "floral blanco",
+     "dulce",
+     "cítrico",
+     "amaderado",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "durazno",
+      "pera",
+      "naranja",
+      "manzana",
+      "grosella negra"
+     ],
+     "middle": [
+      "azahar",
+      "rosa",
+      "jazmín sambac"
+     ],
+     "base": [
+      "vainilla",
+      "pachulí",
+      "sándalo",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2015. De perfil frutal, floral blanco y dulce. Abre con durazno, pera y naranja, su corazón tiene azahar, rosa y jazmín sambac y se asienta sobre vainilla, pachulí y sándalo."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -1334,6 +4790,35 @@
    "image": "img/1086.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Fakhar-Gold-128690.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "ámbar",
+     "amaderado",
+     "nardo",
+     "floral blanco",
+     "atalcado",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "nardo",
+      "sal"
+     ],
+     "middle": [
+      "ámbar",
+      "cashmeran",
+      "haba tonka"
+     ],
+     "base": [
+      "cedro",
+      "vetiver",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil ámbar, amaderado y nardo. Abre con nardo y sal, su corazón tiene ámbar, cashmeran y haba tonka y se asienta sobre cedro, vetiver y láudano."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1353,6 +4838,37 @@
    "image": "img/liquid-brun-edp-100ml.webp",
    "usd": 65.0,
    "fragrantica": "https://www.fragrantica.com/perfume/French-Avenue/Liquid-Brun-94713.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "especiado cálido",
+     "vainilla",
+     "canela",
+     "floral blanco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "canela",
+      "azahar",
+      "cardamomo",
+      "bergamota"
+     ],
+     "middle": [
+      "vainilla bourbon",
+      "elemí"
+     ],
+     "base": [
+      "praliné",
+      "ambroxan",
+      "almizcle",
+      "madera de guayaco"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil dulce, especiado cálido y vainilla. Abre con canela, azahar y cardamomo, su corazón tiene vainilla bourbon y elemí y se asienta sobre praliné, ambroxan y almizcle."
+   },
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -1363,6 +4879,38 @@
    "image": "img/1088.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Haya-85031.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "floral blanco",
+     "dulce",
+     "champán",
+     "aldehídico"
+    ],
+    "notes": {
+     "top": [
+      "champán",
+      "frutilla",
+      "mandarina",
+      "naranja sanguina",
+      "rosa"
+     ],
+     "middle": [
+      "gardenia",
+      "jazmín",
+      "orquídea de vainilla"
+     ],
+     "base": [
+      "ámbar",
+      "sándalo",
+      "castaña"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, frutal y floral blanco. Abre con champán, frutilla y mandarina, su corazón tiene gardenia, jazmín y orquídea de vainilla y se asienta sobre ámbar, sándalo y castaña."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1373,6 +4921,38 @@
    "image": "img/1090.webp",
    "usd": 33.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-Al-Maleky-84306.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "ámbar",
+     "especiado fresco",
+     "almizclado",
+     "amaderado",
+     "cítrico",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "bergamota",
+      "jengibre",
+      "nuez moscada"
+     ],
+     "middle": [
+      "cedro",
+      "incienso",
+      "notas amaderadas",
+      "láudano"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar gris",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil ámbar, especiado fresco y almizclado. Abre con pimienta rosa, bergamota y jengibre, su corazón tiene cedro, incienso y notas amaderadas y se asienta sobre almizcle, ámbar gris y ámbar."
+   },
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -1383,6 +4963,28 @@
    "image": "img/1091.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-Florence-84769.html",
+   "details": {
+    "gender": "women",
+    "year": 2023,
+    "accords": [
+     "cítrico",
+     "dulce",
+     "floral",
+     "almizclado",
+     "fresco",
+     "especiado fresco"
+    ],
+    "notes": {
+     "notes": [
+      "notas florales",
+      "notas dulces",
+      "cítricos",
+      "pomelo rosado",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2023. De perfil cítrico, dulce y floral. Destacan notas florales, notas dulces, cítricos y pomelo rosado."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1393,6 +4995,37 @@
    "image": "img/1092.webp",
    "usd": 34.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-Gold-Elixir-76589.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "cuero",
+     "cítrico",
+     "animálico",
+     "vainilla",
+     "atalcado",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "pomelo",
+      "cassis"
+     ],
+     "middle": [
+      "cuero",
+      "azafrán",
+      "durazno"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil cuero, cítrico y animálico. Abre con bergamota, pomelo y cassis, su corazón tiene cuero, azafrán y durazno y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -1412,6 +5045,33 @@
    "image": "img/1089.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Hayaati-75902.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2020,
+    "accords": [
+     "frutal",
+     "almizclado",
+     "canela",
+     "atalcado",
+     "cítrico",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "bergamota"
+     ],
+     "middle": [
+      "canela",
+      "notas amaderadas"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2020. De perfil frutal, almizclado y canela. Abre con manzana y bergamota, su corazón tiene canela y notas amaderadas y se asienta sobre almizcle y vainilla."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1422,6 +5082,36 @@
    "image": "img/1093.webp",
    "usd": 52.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Her-Confession-96864.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "floral blanco",
+     "nardo",
+     "ámbar",
+     "almizclado",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "canela",
+      "mystikal"
+     ],
+     "middle": [
+      "nardo",
+      "jazmín",
+      "incienso",
+      "mahonial"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "haba tonka"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil vainilla, floral blanco y nardo. Abre con canela y mystikal, su corazón tiene nardo, jazmín y incienso y se asienta sobre vainilla, almizcle y haba tonka."
+   },
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -1432,6 +5122,36 @@
    "image": "img/1094.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Maahir-64950.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2019,
+    "accords": [
+     "atalcado",
+     "amaderado",
+     "vainilla",
+     "almizclado",
+     "floral blanco",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "frutos rojos",
+      "durazno",
+      "bergamota"
+     ],
+     "middle": [
+      "jazmín",
+      "peonía",
+      "lirio rojo"
+     ],
+     "base": [
+      "sándalo",
+      "flor de vainilla",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2019. De perfil atalcado, amaderado y vainilla. Abre con frutos rojos, durazno y bergamota, su corazón tiene jazmín, peonía y lirio rojo y se asienta sobre sándalo, flor de vainilla y almizcle."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1442,6 +5162,40 @@
    "image": "img/1095.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Maahir-Black-Edition-66564.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2020,
+    "accords": [
+     "amaderado",
+     "especiado fresco",
+     "cuero",
+     "aromático",
+     "especiado cálido",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "pimienta negra",
+      "pimienta rosa",
+      "azafrán"
+     ],
+     "middle": [
+      "aceite de cade",
+      "láudano",
+      "bálsamo de gurjun",
+      "ruibarbo"
+     ],
+     "base": [
+      "cuero",
+      "cedro",
+      "madera de guayaco",
+      "pachulí",
+      "musgo",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2020. De perfil amaderado, especiado fresco y cuero. Abre con pimienta negra, pimienta rosa y azafrán, su corazón tiene aceite de cade, láudano y bálsamo de gurjun y se asienta sobre cuero, cedro y madera de guayaco."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1452,6 +5206,34 @@
    "image": "img/1096.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Mayar-Cherry-Intense-99872.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cacao",
+     "dulce",
+     "especiado cálido",
+     "frutal",
+     "vainilla",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "frutilla",
+      "bergamota"
+     ],
+     "middle": [
+      "mermelada de cereza",
+      "cacao"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cacao, dulce y especiado cálido. Abre con frutilla y bergamota, su corazón tiene mermelada de cereza y cacao y se asienta sobre vainilla, ámbar y pachulí."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1462,6 +5244,38 @@
    "image": "img/1097.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Mayar-Natural-Intense-89759.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral",
+     "acuático",
+     "frutal",
+     "ozónico",
+     "cítrico",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina verde",
+      "higo",
+      "melón",
+      "agua de coco"
+     ],
+     "middle": [
+      "loto",
+      "nenúfar",
+      "jazmín"
+     ],
+     "base": [
+      "almizcle",
+      "ambroxan",
+      "sándalo",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral, acuático y frutal. Abre con mandarina verde, higo y melón, su corazón tiene loto, nenúfar y jazmín y se asienta sobre almizcle, ambroxan y sándalo."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1481,6 +5295,36 @@
    "image": "img/1098.webp",
    "usd": 31.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Mohra-Silky-Rose-78383.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "rosa",
+     "almizclado",
+     "frutal",
+     "tropical",
+     "atalcado",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "lichi",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "rosa",
+      "almizcle",
+      "muguet"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil rosa, almizclado y frutal. Abre con rosa, lichi y pimienta rosa, su corazón tiene rosa, almizcle y muguet y se asienta sobre almizcle, vainilla y pachulí."
+   },
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -1491,6 +5335,40 @@
    "image": "img/1099.webp",
    "usd": 64.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Niche-Emarati-Al-Dana-93903.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "dulce",
+     "frutal",
+     "pachulí"
+    ],
+    "notes": {
+     "top": [
+      "ananá",
+      "lima",
+      "bergamota",
+      "limón",
+      "pimienta"
+     ],
+     "middle": [
+      "muguet",
+      "incienso",
+      "jazmín"
+     ],
+     "base": [
+      "pachulí",
+      "notas amaderadas",
+      "humo",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, amaderado y especiado fresco. Abre con ananá, lima y bergamota, su corazón tiene muguet, incienso y jazmín y se asienta sobre pachulí, notas amaderadas y humo."
+   },
    "ars": 98560,
    "rateSource": "fila"
   },
@@ -1501,6 +5379,35 @@
    "image": "img/1100.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Niche-Emarati-Al-Jawhara-99144.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "especiado cálido",
+     "canela",
+     "ámbar",
+     "almizclado",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "davana"
+     ],
+     "middle": [
+      "ciruela",
+      "canela",
+      "osmanthus"
+     ],
+     "base": [
+      "láudano",
+      "pachulí",
+      "almizcle",
+      "ambroxan"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil frutal, especiado cálido y canela. Abre con davana, su corazón tiene ciruela, canela y osmanthus y se asienta sobre láudano, pachulí y almizcle."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -1511,6 +5418,37 @@
    "image": "img/1101.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Niche-Emarati-Khalid-91358.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "cuero",
+     "ámbar",
+     "especiado cálido",
+     "amaderado",
+     "oud",
+     "ahumado"
+    ],
+    "notes": {
+     "top": [
+      "cuero",
+      "láudano",
+      "azafrán"
+     ],
+     "middle": [
+      "abedul",
+      "aceite de cade",
+      "pachulí"
+     ],
+     "base": [
+      "cuero",
+      "oud",
+      "bálsamo de Tolú",
+      "benjuí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil cuero, ámbar y especiado cálido. Abre con cuero, láudano y azafrán, su corazón tiene abedul, aceite de cade y pachulí y se asienta sobre cuero, oud y bálsamo de Tolú."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -1521,6 +5459,34 @@
    "image": "img/1102.webp",
    "usd": 53.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Niche-Emarati-Toleen-100137.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "ámbar",
+     "rosa",
+     "almizclado",
+     "especiado fresco",
+     "fresco",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "jengibre",
+      "pera"
+     ],
+     "middle": [
+      "ambroxan",
+      "azahar"
+     ],
+     "base": [
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil ámbar, rosa y almizclado. Abre con rosa, jengibre y pera, su corazón tiene ambroxan y azahar y se asienta sobre ámbar y almizcle."
+   },
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -1540,6 +5506,36 @@
    "image": "img/1104.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Al-Qiam-Gold-82816.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cuero",
+     "oud",
+     "especiado cálido",
+     "ámbar",
+     "amaderado",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "frambuesa",
+      "azafrán"
+     ],
+     "middle": [
+      "cuero",
+      "pachulí"
+     ],
+     "base": [
+      "oud",
+      "ámbar",
+      "benjuí",
+      "madera de guayaco",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cuero, oud y especiado cálido. Abre con frambuesa y azafrán, su corazón tiene cuero y pachulí y se asienta sobre oud, ámbar y benjuí."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -1550,6 +5546,38 @@
    "image": "img/1105.webp",
    "usd": 49.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Art-of-Arabia-II-92424.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "amaderado",
+     "oud",
+     "atalcado",
+     "almendrado",
+     "especiado cálido",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "heliotropo",
+      "pimienta rosa",
+      "bergamota"
+     ],
+     "middle": [
+      "almendrado",
+      "jazmín",
+      "lavanda"
+     ],
+     "base": [
+      "oud",
+      "madera de guayaco",
+      "sándalo",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, oud y atalcado. Abre con cardamomo, heliotropo y pimienta rosa, su corazón tiene almendrado, jazmín y lavanda y se asienta sobre oud, madera de guayaco y sándalo."
+   },
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -1560,6 +5588,39 @@
    "image": "img/1106.webp",
    "usd": 55.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Art-of-Arabia-III-92425.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "ámbar",
+     "dulce",
+     "vainilla",
+     "especiado cálido",
+     "balsámico",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "olíbano",
+      "davana",
+      "bergamota"
+     ],
+     "middle": [
+      "dátiles",
+      "tabaco",
+      "sándalo",
+      "nardo"
+     ],
+     "base": [
+      "mirra",
+      "vainilla",
+      "haba tonka",
+      "láudano",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil ámbar, dulce y vainilla. Abre con olíbano, davana y bergamota, su corazón tiene dátiles, tabaco y sándalo y se asienta sobre mirra, vainilla y haba tonka."
+   },
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -1570,6 +5631,37 @@
    "image": "img/1107.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Gharam-110430.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "dulce",
+     "frutal",
+     "cítrico",
+     "floral",
+     "ámbar",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "pera",
+      "ananá",
+      "mandarina"
+     ],
+     "middle": [
+      "magnolia",
+      "jazmín sambac"
+     ],
+     "base": [
+      "praliné",
+      "ámbar",
+      "almizcle",
+      "madera de cachemira",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil dulce, frutal y cítrico. Abre con pera, ananá y mandarina, su corazón tiene magnolia y jazmín sambac y se asienta sobre praliné, ámbar y almizcle."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1580,6 +5672,35 @@
    "image": "img/1108.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ishq-Al-Shuyukh-Gold-81121.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cuero",
+     "vainilla",
+     "almizclado",
+     "atalcado",
+     "ámbar",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "caramelo",
+      "azafrán"
+     ],
+     "middle": [
+      "gamuza",
+      "cuero",
+      "haba tonka"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cuero, vainilla y almizclado. Abre con caramelo y azafrán, su corazón tiene gamuza, cuero y haba tonka y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1590,6 +5711,35 @@
    "image": "img/1109.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Ishq-Al-Shuyukh-Silver-81099.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "dulce",
+     "frutal",
+     "cítrico",
+     "amaderado",
+     "especiado fresco",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "bergamota"
+     ],
+     "middle": [
+      "ananá",
+      "pimienta negra"
+     ],
+     "base": [
+      "vainilla",
+      "madera de ámbar",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil dulce, frutal y cítrico. Abre con limón y bergamota, su corazón tiene ananá y pimienta negra y se asienta sobre vainilla, madera de ámbar y cedro."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1600,6 +5750,36 @@
    "image": "img/1110.webp",
    "usd": 49.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/La-Collection-d-antiquites-1505-92037.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "amaderado",
+     "cereza",
+     "ámbar",
+     "especiado cálido",
+     "especiado fresco",
+     "balsámico"
+    ],
+    "notes": {
+     "top": [
+      "cereza negra",
+      "azafrán"
+     ],
+     "middle": [
+      "incienso",
+      "osmanthus",
+      "amyris"
+     ],
+     "base": [
+      "notas balsámicas",
+      "madera de guayaco",
+      "estoraque",
+      "cypriol"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, cereza y ámbar. Abre con cereza negra y azafrán, su corazón tiene incienso, osmanthus y amyris y se asienta sobre notas balsámicas, madera de guayaco y estoraque."
+   },
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -1610,6 +5790,39 @@
    "image": "img/1111.webp",
    "usd": 58.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/La-Collection-D-antiquites-1886-92028.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "floral blanco",
+     "dulce",
+     "atalcado",
+     "vainilla",
+     "iris",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "mate"
+     ],
+     "middle": [
+      "raíz de iris",
+      "jazmín",
+      "haba tonka",
+      "canela",
+      "corteza"
+     ],
+     "base": [
+      "chocolate blanco",
+      "vainilla",
+      "tabaco blanco",
+      "almizcle blanco",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil floral blanco, dulce y atalcado. Abre con bergamota y mate, su corazón tiene raíz de iris, jazmín y haba tonka y se asienta sobre chocolate blanco, vainilla y tabaco blanco."
+   },
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -1620,6 +5833,36 @@
    "image": "img/1112.webp",
    "usd": 45.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Nebras-78560.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "vainilla",
+     "dulce",
+     "cacao",
+     "especiado cálido",
+     "ámbar",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "frutos rojos",
+      "mandarina"
+     ],
+     "middle": [
+      "vainilla",
+      "cacao",
+      "rosa"
+     ],
+     "base": [
+      "azúcar",
+      "haba tonka",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil vainilla, dulce y cacao. Abre con frutos rojos y mandarina, su corazón tiene vainilla, cacao y rosa y se asienta sobre azúcar, haba tonka y almizcle."
+   },
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -1630,6 +5873,32 @@
    "image": "img/1113.webp",
    "usd": 61.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Pisa-99140.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "amaderado",
+     "ámbar",
+     "aromático",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "limón",
+      "bergamota"
+     ],
+     "middle": [
+      "cedro"
+     ],
+     "base": [
+      "sándalo",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil cítrico, amaderado y ámbar. Abre con mandarina, limón y bergamota, su corazón tiene cedro y se asienta sobre sándalo y ámbar."
+   },
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -1640,6 +5909,34 @@
    "image": "img/1114.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Shaheen-Silver-82815.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "terroso",
+     "musgoso",
+     "amaderado",
+     "cítrico",
+     "pachulí",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "cassis"
+     ],
+     "middle": [
+      "pachulí",
+      "rosa"
+     ],
+     "base": [
+      "musgo de roble",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil terroso, musgoso y amaderado. Abre con bergamota y cassis, su corazón tiene pachulí y rosa y se asienta sobre musgo de roble, almizcle y ámbar."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1659,6 +5956,34 @@
    "image": "img/1115.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Tharwah-Gold-82004.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "cítrico",
+     "vainilla",
+     "lavanda",
+     "ámbar",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "bergamota"
+     ],
+     "middle": [
+      "azahar",
+      "jazmín egipcio"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, cítrico y vainilla. Abre con lavanda y bergamota, su corazón tiene azahar y jazmín egipcio y se asienta sobre vainilla, ámbar y vetiver."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -1669,6 +5994,34 @@
    "image": "img/1116.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Tharwah-Silver-82005.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "aromático",
+     "verde",
+     "especiado fresco",
+     "amaderado",
+     "lavanda",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "menta",
+      "bergamota"
+     ],
+     "middle": [
+      "salvia esclarea",
+      "lavanda"
+     ],
+     "base": [
+      "vetiver",
+      "almizcle",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil aromático, verde y especiado fresco. Abre con menta y bergamota, su corazón tiene salvia esclarea y lavanda y se asienta sobre vetiver, almizcle y cedro."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1679,6 +6032,37 @@
    "image": "img/1117.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qaed-Al-Fursan-Unlimited-82590.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "dulce",
+     "vainilla",
+     "coco",
+     "tropical",
+     "atalcado",
+     "floral"
+    ],
+    "notes": {
+     "top": [
+      "coco",
+      "ananá",
+      "cítricos"
+     ],
+     "middle": [
+      "ylang-ylang",
+      "frangipani",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "sándalo",
+      "notas dulces"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil dulce, vainilla y coco. Abre con coco, ananá y cítricos, su corazón tiene ylang-ylang, frangipani y jazmín y se asienta sobre vainilla, almizcle y sándalo."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1689,6 +6073,41 @@
    "image": "img/qaed-al-fursan-untamed-marron-90ml.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qaed-Al-Fursan-Untamed-105383.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "ámbar",
+     "aromático",
+     "especiado cálido",
+     "especiado fresco",
+     "amaderado",
+     "caramelo"
+    ],
+    "notes": {
+     "top": [
+      "canela",
+      "mandarina",
+      "cardamomo",
+      "nuez moscada"
+     ],
+     "middle": [
+      "caramelo",
+      "lavanda",
+      "salvia esclarea",
+      "geranio",
+      "ciprés"
+     ],
+     "base": [
+      "ámbar",
+      "cedro",
+      "olíbano",
+      "vetiver",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil ámbar, aromático y especiado cálido. Abre con canela, mandarina y cardamomo, su corazón tiene caramelo, lavanda y salvia esclarea y se asienta sobre ámbar, cedro y olíbano."
+   },
    "ars": 61600,
    "rateSource": "mediana"
   },
@@ -1699,6 +6118,37 @@
    "image": "img/1118.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qaed-Al-Fursan-Unlimited-82590.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "dulce",
+     "vainilla",
+     "coco",
+     "tropical",
+     "atalcado",
+     "floral"
+    ],
+    "notes": {
+     "top": [
+      "coco",
+      "ananá",
+      "cítricos"
+     ],
+     "middle": [
+      "ylang-ylang",
+      "frangipani",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "sándalo",
+      "notas dulces"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil dulce, vainilla y coco. Abre con coco, ananá y cítricos, su corazón tiene ylang-ylang, frangipani y jazmín y se asienta sobre vainilla, almizcle y sándalo."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1709,6 +6159,34 @@
    "image": "img/1119.webp",
    "usd": 34.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qimmah-for-Men-82792.html",
+   "details": {
+    "gender": "men",
+    "year": null,
+    "accords": [
+     "aromático",
+     "amaderado",
+     "lavanda",
+     "especiado fresco",
+     "herbal",
+     "pachulí"
+    ],
+    "notes": {
+     "top": [
+      "agarwood (oud)",
+      "cedro"
+     ],
+     "middle": [
+      "lavanda",
+      "salvia",
+      "romero"
+     ],
+     "base": [
+      "pachulí",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina. De perfil aromático, amaderado y lavanda. Abre con agarwood (oud) y cedro, su corazón tiene lavanda, salvia y romero y se asienta sobre pachulí y vetiver."
+   },
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -1719,6 +6197,35 @@
    "image": "img/1120.webp",
    "usd": 39.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Qimmah-for-Women-82793.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "vainilla",
+     "almendrado",
+     "dulce",
+     "especiado cálido",
+     "nardo"
+    ],
+    "notes": {
+     "top": [
+      "almendrado",
+      "café"
+     ],
+     "middle": [
+      "jazmín",
+      "nardo",
+      "haba tonka"
+     ],
+     "base": [
+      "vainilla",
+      "cacao",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, vainilla y almendrado. Abre con almendrado y café, su corazón tiene jazmín, nardo y haba tonka y se asienta sobre vainilla, cacao y sándalo."
+   },
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -1729,6 +6236,40 @@
    "image": "img/1121.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Teriaq-89850.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "caramelo",
+     "frutal",
+     "miel",
+     "cuero",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "caramelo",
+      "almendra amarga",
+      "damasco",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "miel",
+      "ruibarbo",
+      "flores blancas",
+      "rosa"
+     ],
+     "base": [
+      "cuero",
+      "vainilla",
+      "almizcle",
+      "láudano",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, caramelo y frutal. Abre con caramelo, almendra amarga y damasco, su corazón tiene miel, ruibarbo y flores blancas y se asienta sobre cuero, vainilla y almizcle."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -1739,6 +6280,34 @@
    "image": "img/1122.webp",
    "usd": 49.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Teriaq-Intense-99586.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "ámbar",
+     "especiado cálido",
+     "frutal",
+     "aromático",
+     "canela",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "bergamota"
+     ],
+     "middle": [
+      "licor de ciruela",
+      "canela"
+     ],
+     "base": [
+      "ámbar",
+      "haba tonka",
+      "benjuí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil ámbar, especiado cálido y frutal. Abre con azafrán y bergamota, su corazón tiene licor de ciruela y canela y se asienta sobre ámbar, haba tonka y benjuí."
+   },
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -1749,6 +6318,37 @@
    "image": "img/1123.webp",
    "usd": 43.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/The-Kingdom-For-Women-98648.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "frutal",
+     "fresco",
+     "vainilla",
+     "floral",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "pera",
+      "peonía",
+      "cassis"
+     ],
+     "middle": [
+      "praliné",
+      "jazmín",
+      "haba tonka"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "sándalo",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil dulce, frutal y fresco. Abre con pera, peonía y cassis, su corazón tiene praliné, jazmín y haba tonka y se asienta sobre vainilla, almizcle y sándalo."
+   },
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1759,6 +6359,36 @@
    "image": "img/the-kingdom-edp-100ml-men.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/The-Kingdom-For-Men-97995.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "aromático",
+     "dulce",
+     "ámbar",
+     "lavanda",
+     "verde"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "menta",
+      "salvia"
+     ],
+     "middle": [
+      "vainilla",
+      "tabaco",
+      "azahar"
+     ],
+     "base": [
+      "haba tonka",
+      "benjuí",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil vainilla, aromático y dulce. Abre con lavanda, menta y salvia, su corazón tiene vainilla, tabaco y azahar y se asienta sobre haba tonka, benjuí y láudano."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -1778,6 +6408,35 @@
    "image": "img/1125.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Candy-95752.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "vainilla",
+     "frutal",
+     "atalcado",
+     "cítrico",
+     "aromático",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "grosella negra",
+      "mandarina verde"
+     ],
+     "middle": [
+      "caramelo efervescente de frutilla",
+      "gardenia"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "ámbar",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil vainilla, frutal y atalcado. Abre con grosella negra y mandarina verde, su corazón tiene caramelo efervescente de frutilla y gardenia y se asienta sobre vainilla, almizcle y ámbar."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1788,6 +6447,36 @@
    "image": "img/1126.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Tous-83320.html",
+   "details": {
+    "gender": "women",
+    "year": 2023,
+    "accords": [
+     "tropical",
+     "dulce",
+     "floral blanco",
+     "vainilla",
+     "frutal",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "mango",
+      "coco",
+      "maracuyá"
+     ],
+     "middle": [
+      "jazmín",
+      "azahar",
+      "heliotropo"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "cashmeran"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2023. De perfil tropical, dulce y floral blanco. Abre con mango, coco y maracuyá, su corazón tiene jazmín, azahar y heliotropo y se asienta sobre vainilla, almizcle y cashmeran."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1798,6 +6487,33 @@
    "image": "img/1127.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Yara-Moi-80722.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "floral blanco",
+     "pachulí",
+     "especiado cálido",
+     "caramelo",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "jazmín",
+      "durazno"
+     ],
+     "middle": [
+      "caramelo",
+      "ámbar"
+     ],
+     "base": [
+      "pachulí",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil amaderado, floral blanco y pachulí. Abre con jazmín y durazno, su corazón tiene caramelo y ámbar y se asienta sobre pachulí y sándalo."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1817,6 +6533,37 @@
    "image": "img/1128.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Lattafa-Perfumes/Emaan-85091.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "nardo",
+     "cítrico",
+     "amaderado",
+     "animálico",
+     "frutal"
+    ],
+    "notes": {
+     "top": [
+      "azahar",
+      "grosella negra",
+      "bergamota"
+     ],
+     "middle": [
+      "nardo",
+      "jazmín",
+      "caléndula"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla",
+      "cedro",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y cítrico. Abre con azahar, grosella negra y bergamota, su corazón tiene nardo, jazmín y caléndula y se asienta sobre almizcle, vainilla y cedro."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -1827,6 +6574,31 @@
    "image": "img/chic-velvet-pink-secret-edp-100ml.webp",
    "usd": 33.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Chic-Velvet-Pink-Secret-96833.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "aromático",
+     "floral",
+     "atalcado",
+     "especiado fresco",
+     "frutal",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "enebro"
+     ],
+     "middle": [
+      "damasco",
+      "flor de damasco"
+     ],
+     "base": [
+      "flor de algodón"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil aromático, floral y atalcado. Abre con enebro, su corazón tiene damasco y flor de damasco y se asienta sobre flor de algodón."
+   },
    "ars": 50820,
    "rateSource": "mediana"
   },
@@ -1837,6 +6609,35 @@
    "image": "img/alive-now-30ml.webp",
    "usd": 25.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Alive-Now-111234.html",
+   "details": {
+    "gender": "women",
+    "year": 2023,
+    "accords": [
+     "frutal",
+     "rosa",
+     "dulce",
+     "fresco",
+     "floral",
+     "tropical"
+    ],
+    "notes": {
+     "top": [
+      "frambuesa",
+      "lichi",
+      "hoja de violeta"
+     ],
+     "middle": [
+      "rosa",
+      "peonía",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2023. De perfil frutal, rosa y dulce. Abre con frambuesa, lichi y hoja de violeta, su corazón tiene rosa, peonía y jazmín y se asienta sobre vainilla y almizcle."
+   },
    "ars": 38500,
    "rateSource": "fila"
   },
@@ -1847,6 +6648,44 @@
    "image": "img/maison-alhambra-anarch-100ml.webp",
    "usd": 65.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Anarch-82382.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2021,
+    "accords": [
+     "amaderado",
+     "vainilla",
+     "floral blanco",
+     "dulce",
+     "floral",
+     "verde"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "pasto",
+      "ylang-ylang",
+      "jazmín"
+     ],
+     "middle": [
+      "durazno",
+      "lirio",
+      "flor de pera",
+      "heliotropo",
+      "hojas de violeta",
+      "rosa damascena"
+     ],
+     "base": [
+      "madera de cachemira",
+      "ébano",
+      "vainilla",
+      "ámbar",
+      "azúcar",
+      "haba tonka",
+      "coco"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2021. De perfil amaderado, vainilla y floral blanco. Abre con bergamota, pasto y ylang-ylang, su corazón tiene durazno, lirio y flor de pera y se asienta sobre madera de cachemira, ébano y vainilla."
+   },
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -1857,6 +6696,36 @@
    "image": "img/1129.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Alpine-Homme-Sport-83311.html",
+   "details": {
+    "gender": "men",
+    "year": null,
+    "accords": [
+     "aromático",
+     "cítrico",
+     "amaderado",
+     "verde",
+     "especiado fresco",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "menta",
+      "ciprés",
+      "salvia"
+     ],
+     "middle": [
+      "cedro",
+      "pimienta"
+     ],
+     "base": [
+      "haba tonka",
+      "almizcle",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia masculina. De perfil aromático, cítrico y amaderado. Abre con mandarina, menta y ciprés, su corazón tiene cedro y pimienta y se asienta sobre haba tonka, almizcle y sándalo."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1867,6 +6736,47 @@
    "image": "img/1130.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/B-A-D-Femme-92517.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "dulce",
+     "amaderado",
+     "especiado cálido",
+     "cítrico",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "almendrado",
+      "café",
+      "limón"
+     ],
+     "middle": [
+      "nardo",
+      "azahar",
+      "jazmín sambac",
+      "rosa búlgara",
+      "raíz de iris"
+     ],
+     "base": [
+      "haba tonka",
+      "vainilla",
+      "almizcle",
+      "cacao",
+      "praliné",
+      "sándalo",
+      "madera de cachemira",
+      "ámbar",
+      "pachulí",
+      "cedro",
+      "canela"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, dulce y amaderado. Abre con bergamota, almendrado y café, su corazón tiene nardo, azahar y jazmín sambac y se asienta sobre haba tonka, vainilla y almizcle."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -1877,6 +6787,37 @@
    "image": "img/1131.webp",
    "usd": 32.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Chants-Tenderina-89034.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "floral blanco",
+     "atalcado",
+     "almizclado",
+     "rosa",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "flor de pomelo",
+      "durazno"
+     ],
+     "middle": [
+      "rosa",
+      "jazmín",
+      "iris"
+     ],
+     "base": [
+      "almizcle blanco",
+      "vainilla",
+      "vetiver",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, floral blanco y atalcado. Abre con bergamota, flor de pomelo y durazno, su corazón tiene rosa, jazmín y iris y se asienta sobre almizcle blanco, vainilla y vetiver."
+   },
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -1887,6 +6828,41 @@
    "image": "img/1132.webp",
    "usd": 31.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Como-Moiselle-95510.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "amaderado",
+     "dulce",
+     "floral blanco",
+     "pachulí",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "bergamota",
+      "naranja",
+      "azahar",
+      "mandarina"
+     ],
+     "middle": [
+      "rosa turca",
+      "jazmín",
+      "mimosa",
+      "ylang-ylang"
+     ],
+     "base": [
+      "pachulí",
+      "vetiver",
+      "vainilla",
+      "almizcle blanco",
+      "haba tonka",
+      "opopónaco"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, amaderado y dulce. Abre con bergamota, naranja y azahar, su corazón tiene rosa turca, jazmín y mimosa y se asienta sobre pachulí, vetiver y vainilla."
+   },
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -1897,6 +6873,36 @@
    "image": "img/1133.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Delilah-90273.html",
+   "details": {
+    "gender": "women",
+    "year": 2023,
+    "accords": [
+     "rosa",
+     "floral",
+     "frutal",
+     "almizclado",
+     "fresco",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "ruibarbo",
+      "lichi",
+      "bergamota"
+     ],
+     "middle": [
+      "rosa turca",
+      "peonía",
+      "lirio"
+     ],
+     "base": [
+      "almizcle blanco",
+      "cashmeran",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2023. De perfil rosa, floral y frutal. Abre con ruibarbo, lichi y bergamota, su corazón tiene rosa turca, peonía y lirio y se asienta sobre almizcle blanco, cashmeran y vainilla."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1916,6 +6922,34 @@
    "image": "img/1134.webp",
    "usd": 31.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Infini-Oud-93814.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "oud",
+     "especiado fresco",
+     "pachulí",
+     "almizclado",
+     "lavanda",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "nuez moscada",
+      "lavanda"
+     ],
+     "middle": [
+      "agarwood (oud)",
+      "pachulí"
+     ],
+     "base": [
+      "agarwood (oud)",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil oud, especiado fresco y pachulí. Abre con nuez moscada y lavanda, su corazón tiene agarwood (oud) y pachulí y se asienta sobre agarwood (oud), pachulí y almizcle."
+   },
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -1935,6 +6969,35 @@
    "image": "img/1136.webp",
    "usd": 32.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Infini-Rose-83513.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2023,
+    "accords": [
+     "rosa",
+     "floral",
+     "ámbar",
+     "cítrico",
+     "especiado suave",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "pimienta rosa",
+      "bergamota",
+      "hedione"
+     ],
+     "middle": [
+      "rosa búlgara",
+      "rosa turca",
+      "jazmín egipcio"
+     ],
+     "base": [
+      "ámbar",
+      "vainilla de Madagascar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2023. De perfil rosa, floral y ámbar. Abre con pimienta rosa, bergamota y hedione, su corazón tiene rosa búlgara, rosa turca y jazmín egipcio y se asienta sobre ámbar y vainilla de Madagascar."
+   },
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -1954,6 +7017,37 @@
    "image": "img/1138.webp",
    "usd": 42.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Jean-Lowe-Immortal-83666.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "especiado fresco",
+     "cítrico",
+     "aromático",
+     "ámbar",
+     "fresco",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "jengibre",
+      "pomelo",
+      "bergamota"
+     ],
+     "middle": [
+      "romero",
+      "notas acuáticas",
+      "salvia",
+      "geranio"
+     ],
+     "base": [
+      "ambroxan",
+      "ámbar",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil especiado fresco, cítrico y aromático. Abre con jengibre, pomelo y bergamota, su corazón tiene romero, notas acuáticas y salvia y se asienta sobre ambroxan, ámbar y láudano."
+   },
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -1964,6 +7058,34 @@
    "image": "img/1139.webp",
    "usd": 31.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Jean-Lowe-Matiere-94060.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "rosa",
+     "oud",
+     "pachulí",
+     "floral",
+     "ámbar",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "narciso",
+      "jazmín"
+     ],
+     "middle": [
+      "rosa",
+      "ciclamen"
+     ],
+     "base": [
+      "oud",
+      "pachulí",
+      "incienso"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil rosa, oud y pachulí. Abre con narciso y jazmín, su corazón tiene rosa y ciclamen y se asienta sobre oud, pachulí y incienso."
+   },
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -1974,6 +7096,36 @@
    "image": "img/1140.webp",
    "usd": 40.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Jean-Lowe-Noir-95137.html",
+   "details": {
+    "gender": "women and men",
+    "year": null,
+    "accords": [
+     "ámbar",
+     "oud",
+     "rosa",
+     "ahumado",
+     "especiado cálido",
+     "balsámico"
+    ],
+    "notes": {
+     "top": [
+      "oud",
+      "incienso"
+     ],
+     "middle": [
+      "rosa",
+      "frambuesa",
+      "azafrán",
+      "abedul"
+     ],
+     "base": [
+      "ámbar",
+      "benjuí",
+      "geranio"
+     ]
+    },
+    "description": "Fragancia unisex. De perfil ámbar, oud y rosa. Abre con oud y incienso, su corazón tiene rosa, frambuesa y azafrán y se asienta sobre ámbar, benjuí y geranio."
+   },
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -1993,6 +7145,36 @@
    "image": "img/1142.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/L-Intrude-93651.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "nardo",
+     "amaderado",
+     "dulce",
+     "cítrico",
+     "pachulí"
+    ],
+    "notes": {
+     "top": [
+      "pera",
+      "bergamota"
+     ],
+     "middle": [
+      "nardo",
+      "azahar",
+      "jazmín sambac"
+     ],
+     "base": [
+      "pachulí",
+      "ambroxan",
+      "vainilla",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y amaderado. Abre con pera y bergamota, su corazón tiene nardo, azahar y jazmín sambac y se asienta sobre pachulí, ambroxan y vainilla."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -2021,6 +7203,38 @@
    "image": "img/1145.webp",
    "usd": 33.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Leonie-95881.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "cítrico",
+     "lavanda",
+     "almizclado",
+     "aromático",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "mandarina",
+      "petitgrain",
+      "grosella negra"
+     ],
+     "middle": [
+      "lavanda",
+      "azahar",
+      "jazmín"
+     ],
+     "base": [
+      "almizcle",
+      "vainilla",
+      "cedro",
+      "ámbar gris"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, cítrico y lavanda. Abre con lavanda, mandarina y petitgrain, su corazón tiene lavanda, azahar y jazmín y se asienta sobre almizcle, vainilla y cedro."
+   },
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -2031,6 +7245,38 @@
    "image": "img/1146.webp",
    "usd": 34.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Leonie-Intense-102570.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "vainilla",
+     "cítrico",
+     "lavanda",
+     "ámbar",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "mandarina",
+      "grosella negra",
+      "petitgrain"
+     ],
+     "middle": [
+      "lavanda",
+      "jazmín",
+      "azahar"
+     ],
+     "base": [
+      "vainilla de Madagascar",
+      "ámbar",
+      "cedro",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, vainilla y cítrico. Abre con lavanda, mandarina y grosella negra, su corazón tiene lavanda, jazmín y azahar y se asienta sobre vainilla de Madagascar, ámbar y cedro."
+   },
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -2041,6 +7287,43 @@
    "image": "img/1147.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Maitre-de-Blue-95880.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "especiado fresco",
+     "ámbar",
+     "aromático",
+     "fresco",
+     "amaderado"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "aldehídos",
+      "limón",
+      "menta",
+      "bergamota",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "jengibre",
+      "jazmín",
+      "nuez moscada",
+      "melón"
+     ],
+     "base": [
+      "ámbar",
+      "pachulí",
+      "láudano",
+      "sándalo",
+      "incienso",
+      "agarwood (oud)"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, especiado fresco y ámbar. Abre con pomelo, aldehídos y limón, su corazón tiene jengibre, jazmín y nuez moscada y se asienta sobre ámbar, pachulí y láudano."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2051,6 +7334,39 @@
    "image": "img/1148.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Pacific-Blue-109952.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2025,
+    "accords": [
+     "cítrico",
+     "floral blanco",
+     "aromático",
+     "especiado fresco",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "limón",
+      "mandarina",
+      "bergamota",
+      "naranja amarga",
+      "romero",
+      "lavanda",
+      "mirto"
+     ],
+     "middle": [
+      "neroli",
+      "azahar",
+      "jazmín"
+     ],
+     "base": [
+      "angélica",
+      "ámbar",
+      "ambreta"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2025. De perfil cítrico, floral blanco y aromático. Abre con limón, mandarina y bergamota, su corazón tiene neroli, azahar y jazmín y se asienta sobre angélica, ámbar y ambreta."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -2061,6 +7377,36 @@
    "image": "img/1149.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Perseus-88603.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "vainilla",
+     "almendrado",
+     "atalcado",
+     "especiado fresco",
+     "avellanado",
+     "lavanda"
+    ],
+    "notes": {
+     "top": [
+      "heliotropo",
+      "comino",
+      "bergamota"
+     ],
+     "middle": [
+      "almendrado",
+      "lavanda",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil vainilla, almendrado y atalcado. Abre con heliotropo, comino y bergamota, su corazón tiene almendrado, lavanda y jazmín y se asienta sobre vainilla, ámbar y sándalo."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2071,6 +7417,39 @@
    "image": "img/1150.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Perseus-Exclusif-91885.html",
+   "details": {
+    "gender": "men",
+    "year": 2023,
+    "accords": [
+     "almendrado",
+     "amaderado",
+     "especiado cálido",
+     "vainilla",
+     "atalcado",
+     "avellanado"
+    ],
+    "notes": {
+     "top": [
+      "cardamomo",
+      "heliotropo",
+      "pimienta roja",
+      "bergamota"
+     ],
+     "middle": [
+      "almendrado",
+      "lavanda",
+      "jazmín",
+      "geranio"
+     ],
+     "base": [
+      "vainilla",
+      "madera de guayaco",
+      "sándalo",
+      "ámbar gris"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2023. De perfil almendrado, amaderado y especiado cálido. Abre con cardamomo, heliotropo y pimienta roja, su corazón tiene almendrado, lavanda y jazmín y se asienta sobre vainilla, madera de guayaco y sándalo."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -2081,6 +7460,38 @@
    "image": "img/1151.webp",
    "usd": 48.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Philos-Opus-Noir-93821.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "amaderado",
+     "dulce",
+     "floral amarillo",
+     "cuero",
+     "frutal",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "frutas",
+      "rosa turca"
+     ],
+     "middle": [
+      "ylang-ylang",
+      "cuero",
+      "nuez moscada",
+      "ámbar"
+     ],
+     "base": [
+      "pachulí",
+      "vainilla",
+      "vetiver",
+      "almizcle",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, dulce y floral amarillo. Abre con frutas y rosa turca, su corazón tiene ylang-ylang, cuero y nuez moscada y se asienta sobre pachulí, vainilla y vetiver."
+   },
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -2091,6 +7502,34 @@
    "image": "img/1152.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Philos-Pura-95874.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "dulce",
+     "vainilla",
+     "almizclado",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "naranja",
+      "bergamota",
+      "limón"
+     ],
+     "middle": [
+      "frutas"
+     ],
+     "base": [
+      "almizcle blanco",
+      "vainilla de Madagascar",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene frutas y se asienta sobre almizcle blanco, vainilla de Madagascar y ámbar."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2101,6 +7540,34 @@
    "image": "img/1153.webp",
    "usd": 33.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Philos-Rosso-93808.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "frutal",
+     "dulce",
+     "rosa",
+     "ámbar",
+     "vainilla",
+     "floral blanco"
+    ],
+    "notes": {
+     "top": [
+      "frambuesa",
+      "limón siciliano"
+     ],
+     "middle": [
+      "jazmín",
+      "rosa"
+     ],
+     "base": [
+      "ámbar",
+      "vainilla",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil frutal, dulce y rosa. Abre con frambuesa y limón siciliano, su corazón tiene jazmín y rosa y se asienta sobre ámbar, vainilla y almizcle."
+   },
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -2120,6 +7587,36 @@
    "image": "img/1154.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Rose-Origami-110398.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "especiado cálido",
+     "amaderado",
+     "rosa",
+     "aromático",
+     "pachulí",
+     "ámbar"
+    ],
+    "notes": {
+     "top": [
+      "rosa turca",
+      "café"
+     ],
+     "middle": [
+      "rosa búlgara",
+      "pachulí",
+      "cilantro",
+      "cardamomo",
+      "ylang-ylang"
+     ],
+     "base": [
+      "sándalo",
+      "olíbano"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil especiado cálido, amaderado y rosa. Abre con rosa turca y café, su corazón tiene rosa búlgara, pachulí y cilantro y se asienta sobre sándalo y olíbano."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -2130,6 +7627,34 @@
    "image": "img/1155.webp",
    "usd": 39.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Salvo-93538.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "especiado fresco",
+     "cítrico",
+     "ámbar",
+     "lavanda",
+     "aromático",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "bergamota"
+     ],
+     "middle": [
+      "lavanda",
+      "pimienta de Sichuan",
+      "anís estrellado",
+      "nuez moscada"
+     ],
+     "base": [
+      "ambroxan",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil especiado fresco, cítrico y ámbar. Abre con bergamota, su corazón tiene lavanda, pimienta de Sichuan y anís estrellado y se asienta sobre ambroxan y vainilla."
+   },
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -2140,6 +7665,38 @@
    "image": "img/1156.webp",
    "usd": 38.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Salvo-Elixir-94166.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "ámbar",
+     "amaderado",
+     "especiado fresco",
+     "especiado cálido",
+     "tabaco",
+     "dulce"
+    ],
+    "notes": {
+     "top": [
+      "pimienta negra",
+      "tabaco",
+      "ananá"
+     ],
+     "middle": [
+      "pachulí",
+      "iris",
+      "café"
+     ],
+     "base": [
+      "notas amaderadas",
+      "ámbar",
+      "vainilla",
+      "benjuí",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, amaderado y especiado fresco. Abre con pimienta negra, tabaco y ananá, su corazón tiene pachulí, iris y café y se asienta sobre notas amaderadas, ámbar y vainilla."
+   },
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -2150,6 +7707,34 @@
    "image": "img/1157.webp",
    "usd": 39.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Salvo-Intense-96001.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "especiado fresco",
+     "cítrico",
+     "ámbar",
+     "lavanda",
+     "almizclado",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "bergamota"
+     ],
+     "middle": [
+      "lavanda",
+      "pimienta de Sichuan",
+      "anís estrellado",
+      "nuez moscada"
+     ],
+     "base": [
+      "ambroxan",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil especiado fresco, cítrico y ámbar. Abre con bergamota, su corazón tiene lavanda, pimienta de Sichuan y anís estrellado y se asienta sobre ambroxan y vainilla."
+   },
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -2160,6 +7745,29 @@
    "image": "img/1158.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Sceptre-Bronzite-95133.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "ámbar",
+     "especiado fresco",
+     "almizclado",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "pomelo"
+     ],
+     "middle": [
+      "jengibre indio"
+     ],
+     "base": [
+      "ambroxan"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, ámbar y especiado fresco. Abre con pomelo, su corazón tiene jengibre indio y se asienta sobre ambroxan."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2170,6 +7778,39 @@
    "image": "img/sceptre-malachite-100ml.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Sceptre-Malachite-94163.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2022,
+    "accords": [
+     "cítrico",
+     "aromático",
+     "amaderado",
+     "especiado fresco",
+     "frutal",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "mandarina verde",
+      "bergamota",
+      "grosella negra"
+     ],
+     "middle": [
+      "notas aromáticas",
+      "notas especiadas",
+      "lavanda",
+      "jazmín",
+      "pimienta rosa"
+     ],
+     "base": [
+      "ámbar",
+      "almizcle",
+      "notas amaderadas",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, aromático y amaderado. Abre con mandarina verde, bergamota y grosella negra, su corazón tiene notas aromáticas, notas especiadas y lavanda y se asienta sobre ámbar, almizcle y notas amaderadas."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -2180,6 +7821,30 @@
    "image": "img/1159.webp",
    "usd": 35.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Sceptre-Oceana-96820.html",
+   "details": {
+    "gender": "men",
+    "year": 2022,
+    "accords": [
+     "vainilla",
+     "oud",
+     "ámbar",
+     "especiado cálido",
+     "balsámico",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "vainilla bourbon"
+     ],
+     "middle": [
+      "benjuí de Siam"
+     ],
+     "base": [
+      "agarwood (oud)"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2022. De perfil vainilla, oud y ámbar. Abre con vainilla bourbon, su corazón tiene benjuí de Siam y se asienta sobre agarwood (oud)."
+   },
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -2190,6 +7855,30 @@
    "image": "img/1160.webp",
    "usd": 37.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/So-Candid-94072.html",
+   "details": {
+    "gender": "women",
+    "year": 2022,
+    "accords": [
+     "floral blanco",
+     "nardo",
+     "animálico",
+     "lactónico",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "azahar"
+     ],
+     "middle": [
+      "nardo",
+      "jazmín"
+     ],
+     "base": [
+      "leche"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y animálico. Abre con azahar, su corazón tiene nardo y jazmín y se asienta sobre leche."
+   },
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -2200,6 +7889,32 @@
    "image": "img/1161.webp",
    "usd": 41.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/So-Candid-Pour-Homme-136836.html",
+   "details": {
+    "gender": "men",
+    "year": 2025,
+    "accords": [
+     "aromático",
+     "caramelo",
+     "dulce",
+     "cítrico",
+     "vainilla",
+     "especiado suave"
+    ],
+    "notes": {
+     "top": [
+      "salvia esclarea",
+      "mandarina"
+     ],
+     "middle": [
+      "haba tonka",
+      "caramelo"
+     ],
+     "base": [
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2025. De perfil aromático, caramelo y dulce. Abre con salvia esclarea y mandarina, su corazón tiene haba tonka y caramelo y se asienta sobre vetiver."
+   },
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2210,6 +7925,36 @@
    "image": "img/1162.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Summer-Forever-118213.html",
+   "details": {
+    "gender": "women",
+    "year": null,
+    "accords": [
+     "frutal",
+     "ámbar",
+     "dulce",
+     "floral blanco",
+     "balsámico",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "ciruela",
+      "flores blancas"
+     ],
+     "middle": [
+      "láudano",
+      "jazmín",
+      "davana"
+     ],
+     "base": [
+      "frambuesa",
+      "ámbar",
+      "benjuí",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina. De perfil frutal, ámbar y dulce. Abre con ciruela y flores blancas, su corazón tiene láudano, jazmín y davana y se asienta sobre frambuesa, ámbar y benjuí."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2229,6 +7974,38 @@
    "image": "img/1164.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Vogue-Night-100476.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "caramelo",
+     "frutal",
+     "vainilla",
+     "cítrico",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "mandarina",
+      "notas acuáticas",
+      "bergamota"
+     ],
+     "middle": [
+      "caramelo",
+      "haba tonka",
+      "pachulí",
+      "jazmín"
+     ],
+     "base": [
+      "frambuesa",
+      "vainilla",
+      "almizcle",
+      "ámbar gris"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil dulce, caramelo y frutal. Abre con mandarina, notas acuáticas y bergamota, su corazón tiene caramelo, haba tonka y pachulí y se asienta sobre frambuesa, vainilla y almizcle."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2239,6 +8016,36 @@
    "image": "img/1165.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Vogue-Party-100475.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "dulce",
+     "vainilla",
+     "rosa",
+     "almendrado",
+     "cereza",
+     "avellanado"
+    ],
+    "notes": {
+     "top": [
+      "cereza",
+      "almendrado"
+     ],
+     "middle": [
+      "agua de rosas",
+      "lirio",
+      "ambreta"
+     ],
+     "base": [
+      "haba tonka",
+      "vainilla",
+      "musgo de roble",
+      "vetiver"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil dulce, vainilla y rosa. Abre con cereza y almendrado, su corazón tiene agua de rosas, lirio y ambreta y se asienta sobre haba tonka, vainilla y musgo de roble."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2249,6 +8056,35 @@
    "image": "img/1166.webp",
    "usd": 36.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Maison-Alhambra/Vogue-Rouge-100474.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "atalcado",
+     "violeta",
+     "floral blanco",
+     "cítrico",
+     "fresco",
+     "vainilla"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "limón"
+     ],
+     "middle": [
+      "violeta",
+      "azahar",
+      "jazmín"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil atalcado, violeta y floral blanco. Abre con manzana y limón, su corazón tiene violeta, azahar y jazmín y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -2259,6 +8095,39 @@
    "image": "img/1167.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Fada-106685.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "especiado fresco",
+     "especiado cálido",
+     "ámbar",
+     "aromático",
+     "lavanda",
+     "especiado suave"
+    ],
+    "notes": {
+     "top": [
+      "nuez moscada",
+      "canela",
+      "cardamomo",
+      "pomelo"
+     ],
+     "middle": [
+      "lavanda",
+      "regaliz",
+      "nuez moscada",
+      "olíbano"
+     ],
+     "base": [
+      "ámbar",
+      "sándalo",
+      "vetiver",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil especiado fresco, especiado cálido y ámbar. Abre con nuez moscada, canela y cardamomo, su corazón tiene lavanda, regaliz y nuez moscada y se asienta sobre ámbar, sándalo y vetiver."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -2269,6 +8138,38 @@
    "image": "img/1168.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Shams-106684.html",
+   "details": {
+    "gender": "men",
+    "year": 2024,
+    "accords": [
+     "especiado fresco",
+     "amaderado",
+     "especiado cálido",
+     "cuero",
+     "oud",
+     "atalcado"
+    ],
+    "notes": {
+     "top": [
+      "pimienta negra",
+      "bergamota",
+      "azafrán",
+      "nuez moscada"
+     ],
+     "middle": [
+      "cuero",
+      "bálsamo de gurjun",
+      "pachulí"
+     ],
+     "base": [
+      "oud",
+      "sándalo",
+      "cedro",
+      "láudano"
+     ]
+    },
+    "description": "Fragancia masculina lanzada en 2024. De perfil especiado fresco, amaderado y especiado cálido. Abre con pimienta negra, bergamota y azafrán, su corazón tiene cuero, bálsamo de gurjun y pachulí y se asienta sobre oud, sándalo y cedro."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2279,6 +8180,37 @@
    "image": "img/1169.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Zuhoor-106683.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "dulce",
+     "cítrico",
+     "miel",
+     "caramelo",
+     "especiado suave"
+    ],
+    "notes": {
+     "top": [
+      "naranja sanguina",
+      "mandarina"
+     ],
+     "middle": [
+      "miel",
+      "azahar",
+      "gardenia",
+      "jazmín",
+      "durazno"
+     ],
+     "base": [
+      "caramelo",
+      "regaliz",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, dulce y cítrico. Abre con naranja sanguina y mandarina, su corazón tiene miel, azahar y gardenia y se asienta sobre caramelo, regaliz y pachulí."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2289,6 +8221,35 @@
    "image": "img/1170.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Basir-106597.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "nardo",
+     "cacao",
+     "animálico",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "jazmín",
+      "azahar",
+      "neroli"
+     ],
+     "middle": [
+      "nardo",
+      "vaina de cacao",
+      "tabaco"
+     ],
+     "base": [
+      "nardo",
+      "vaina de cacao",
+      "tabaco"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, nardo y cacao. Abre con jazmín, azahar y neroli, su corazón tiene nardo, vaina de cacao y tabaco y se asienta sobre nardo, vaina de cacao y tabaco."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2299,6 +8260,37 @@
    "image": "img/1171.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Halem-106596.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "floral",
+     "ámbar",
+     "atalcado",
+     "dulce",
+     "almizclado",
+     "balsámico"
+    ],
+    "notes": {
+     "top": [
+      "espino blanco",
+      "grosella negra",
+      "rosa damascena",
+      "mandarina"
+     ],
+     "middle": [
+      "opopónaco",
+      "jazmín",
+      "violeta"
+     ],
+     "base": [
+      "almizcle blanco",
+      "incienso",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil floral, ámbar y atalcado. Abre con espino blanco, grosella negra y rosa damascena, su corazón tiene opopónaco, jazmín y violeta y se asienta sobre almizcle blanco, incienso y vainilla."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2309,6 +8301,37 @@
    "image": "img/1172.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Saher-106595.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "especiado cálido",
+     "especiado fresco",
+     "herbal",
+     "metálico",
+     "atalcado",
+     "cuero"
+    ],
+    "notes": {
+     "top": [
+      "azafrán",
+      "lavanda",
+      "mandarina"
+     ],
+     "middle": [
+      "nuez moscada",
+      "violeta",
+      "osmanthus"
+     ],
+     "base": [
+      "siempreviva",
+      "almizcle",
+      "pachulí",
+      "oud"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil especiado cálido, especiado fresco y herbal. Abre con azafrán, lavanda y mandarina, su corazón tiene nuez moscada, violeta y osmanthus y se asienta sobre siempreviva, almizcle y pachulí."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2319,6 +8342,44 @@
    "image": "img/1173.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Jawhar-106682.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "aromático",
+     "especiado fresco",
+     "floral blanco",
+     "atalcado",
+     "ámbar",
+     "violeta"
+    ],
+    "notes": {
+     "top": [
+      "miel",
+      "elemí",
+      "bergamota",
+      "jacinto",
+      "rosa"
+     ],
+     "middle": [
+      "muguet",
+      "violeta",
+      "geranio africano",
+      "azahar",
+      "gardenia",
+      "jazmín"
+     ],
+     "base": [
+      "ámbar",
+      "almizcle",
+      "olíbano",
+      "pachulí",
+      "oud",
+      "vainilla de Madagascar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil aromático, especiado fresco y floral blanco. Abre con miel, elemí y bergamota, su corazón tiene muguet, violeta y geranio africano y se asienta sobre ámbar, almizcle y olíbano."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2329,6 +8390,39 @@
    "image": "img/1174.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Jinan-106680.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "especiado fresco",
+     "ozónico",
+     "verde",
+     "acuático"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "mandarina",
+      "bergamota"
+     ],
+     "middle": [
+      "hojas de violeta",
+      "zanahoria",
+      "azahar",
+      "nuez moscada",
+      "geranio"
+     ],
+     "base": [
+      "vainilla",
+      "cardamomo",
+      "sándalo",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil cítrico, frutal y especiado fresco. Abre con manzana, mandarina y bergamota, su corazón tiene hojas de violeta, zanahoria y azahar y se asienta sobre vainilla, cardamomo y sándalo."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2339,6 +8433,45 @@
    "image": "img/1175.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Sabeel-106681.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "aromático",
+     "especiado fresco",
+     "violeta",
+     "rosa",
+     "amaderado",
+     "pachulí"
+    ],
+    "notes": {
+     "top": [
+      "baya de enebro",
+      "pera",
+      "olíbano",
+      "azafrán",
+      "cilantro",
+      "bergamota",
+      "artemisa"
+     ],
+     "middle": [
+      "salvia esclarea",
+      "violeta",
+      "rosa",
+      "nuez moscada",
+      "canela",
+      "jazmín"
+     ],
+     "base": [
+      "pachulí",
+      "ámbar",
+      "sándalo",
+      "vainilla",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil aromático, especiado fresco y violeta. Abre con baya de enebro, pera y olíbano, su corazón tiene salvia esclarea, violeta y rosa y se asienta sobre pachulí, ámbar y sándalo."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2349,6 +8482,42 @@
    "image": "img/1176.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Bidaya-106594.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "rosa",
+     "ámbar",
+     "ahumado",
+     "especiado fresco",
+     "cítrico"
+    ],
+    "notes": {
+     "top": [
+      "rosa",
+      "azahar",
+      "bergamota",
+      "jacinto"
+     ],
+     "middle": [
+      "gardenia",
+      "geranio",
+      "jazmín",
+      "pachulí",
+      "muguet"
+     ],
+     "base": [
+      "incienso",
+      "almizcle",
+      "cuero",
+      "oud",
+      "ámbar",
+      "vainilla"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, rosa y ámbar. Abre con rosa, azahar y bergamota, su corazón tiene gardenia, geranio y jazmín y se asienta sobre incienso, almizcle y cuero."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2359,6 +8528,41 @@
    "image": "img/1177.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Janah-106592.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "especiado fresco",
+     "aromático",
+     "amaderado",
+     "lavanda",
+     "frutal",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "manzana",
+      "lavanda",
+      "mandarina",
+      "bergamota"
+     ],
+     "middle": [
+      "geranio",
+      "violeta",
+      "jazmín"
+     ],
+     "base": [
+      "pimienta rosa",
+      "vainilla",
+      "madera de guayaco",
+      "sándalo",
+      "cardamomo",
+      "ámbar",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil especiado fresco, aromático y amaderado. Abre con manzana, lavanda y mandarina, su corazón tiene geranio, violeta y jazmín y se asienta sobre pimienta rosa, vainilla y madera de guayaco."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2369,6 +8573,43 @@
    "image": "img/1178.webp",
    "usd": 44.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Turab-106593.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "especiado fresco",
+     "cítrico",
+     "amaderado",
+     "ámbar",
+     "aromático",
+     "especiado cálido"
+    ],
+    "notes": {
+     "top": [
+      "naranja amarga",
+      "bergamota",
+      "baya de enebro",
+      "artemisa",
+      "azafrán"
+     ],
+     "middle": [
+      "hojas de violeta",
+      "geranio",
+      "canela",
+      "nuez moscada",
+      "rosa"
+     ],
+     "base": [
+      "cedro",
+      "olíbano",
+      "ámbar",
+      "sándalo",
+      "pachulí",
+      "cuero"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil especiado fresco, cítrico y amaderado. Abre con naranja amarga, bergamota y baya de enebro, su corazón tiene hojas de violeta, geranio y canela y se asienta sobre cedro, olíbano y ámbar."
+   },
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -2379,6 +8620,36 @@
    "image": "img/1179.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Abadeya-106590.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "vainilla",
+     "cítrico",
+     "floral",
+     "dulce",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "bergamota",
+      "mandarina"
+     ],
+     "middle": [
+      "jazmín",
+      "orquídea",
+      "naranja"
+     ],
+     "base": [
+      "vainilla",
+      "vetiver",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, vainilla y cítrico. Abre con lavanda, bergamota y mandarina, su corazón tiene jazmín, orquídea y naranja y se asienta sobre vainilla, vetiver y ámbar."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2389,6 +8660,40 @@
    "image": "img/1180.webp",
    "usd": 46.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Hawa-106589.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "amaderado",
+     "aromático",
+     "cítrico",
+     "atalcado",
+     "marino",
+     "iris"
+    ],
+    "notes": {
+     "top": [
+      "pomelo",
+      "notas marinas",
+      "durazno",
+      "bergamota"
+     ],
+     "middle": [
+      "raíz de iris",
+      "jazmín",
+      "lichi",
+      "rosa"
+     ],
+     "base": [
+      "sándalo",
+      "vetiver",
+      "vainilla",
+      "pachulí",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil amaderado, aromático y cítrico. Abre con pomelo, notas marinas y durazno, su corazón tiene raíz de iris, jazmín y lichi y se asienta sobre sándalo, vetiver y vainilla."
+   },
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -2399,6 +8704,35 @@
    "image": "img/1181.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Hiyam-106588.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "aromático",
+     "lavanda",
+     "vainilla",
+     "especiado suave",
+     "almizclado",
+     "cuero"
+    ],
+    "notes": {
+     "top": [
+      "absenta",
+      "anís",
+      "hinojo"
+     ],
+     "middle": [
+      "lavanda",
+      "cuero"
+     ],
+     "base": [
+      "vainilla",
+      "almizcle",
+      "ámbar"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil aromático, lavanda y vainilla. Abre con absenta, anís y hinojo, su corazón tiene lavanda y cuero y se asienta sobre vainilla, almizcle y ámbar."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -2409,6 +8743,41 @@
    "image": "img/1182.webp",
    "usd": 50.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Mashaer-106688.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral blanco",
+     "fresco",
+     "verde",
+     "aldehídico",
+     "cítrico",
+     "floral"
+    ],
+    "notes": {
+     "top": [
+      "aldehídos",
+      "ylang-ylang",
+      "notas verdes",
+      "mandarina"
+     ],
+     "middle": [
+      "muguet",
+      "jazmín",
+      "neroli",
+      "nardo",
+      "violeta",
+      "rosa damascena"
+     ],
+     "base": [
+      "sándalo",
+      "cedro",
+      "ciruela",
+      "almizcle"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, fresco y verde. Abre con aldehídos, ylang-ylang y notas verdes, su corazón tiene muguet, jazmín y neroli y se asienta sobre sándalo, cedro y ciruela."
+   },
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -2419,6 +8788,36 @@
    "image": "img/1183.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Nour-106686.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "frutal",
+     "fresco",
+     "amaderado",
+     "verde",
+     "almizclado"
+    ],
+    "notes": {
+     "top": [
+      "limón siciliano",
+      "manzana",
+      "jacinto"
+     ],
+     "middle": [
+      "bambú",
+      "rosa blanca",
+      "jazmín"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil cítrico, frutal y fresco. Abre con limón siciliano, manzana y jacinto, su corazón tiene bambú, rosa blanca y jazmín y se asienta sobre almizcle, ámbar y cedro."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -2429,6 +8828,35 @@
    "image": "img/1184.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Sitar-106690.html",
+   "details": {
+    "gender": "women",
+    "year": 2024,
+    "accords": [
+     "floral",
+     "rosa",
+     "frutal",
+     "almizclado",
+     "tropical",
+     "fresco"
+    ],
+    "notes": {
+     "top": [
+      "lichi",
+      "pimienta rosa"
+     ],
+     "middle": [
+      "rosa",
+      "flor de durazno",
+      "fresia"
+     ],
+     "base": [
+      "almizcle",
+      "ámbar",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia femenina lanzada en 2024. De perfil floral, rosa y frutal. Abre con lichi y pimienta rosa, su corazón tiene rosa, flor de durazno y fresia y se asienta sobre almizcle, ámbar y sándalo."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -2439,6 +8867,40 @@
    "image": "img/1185.webp",
    "usd": 48.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Alkawn-106600.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "aromático",
+     "amaderado",
+     "lavanda",
+     "atalcado",
+     "cítrico",
+     "especiado fresco"
+    ],
+    "notes": {
+     "top": [
+      "lavanda",
+      "romero",
+      "mandarina",
+      "bergamota"
+     ],
+     "middle": [
+      "amyris",
+      "canela",
+      "salvia esclarea",
+      "naranja"
+     ],
+     "base": [
+      "vainilla",
+      "ámbar",
+      "almizcle",
+      "sándalo",
+      "cedro"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil aromático, amaderado y lavanda. Abre con lavanda, romero y mandarina, su corazón tiene amyris, canela y salvia esclarea y se asienta sobre vainilla, ámbar y almizcle."
+   },
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -2449,6 +8911,36 @@
    "image": "img/1186.webp",
    "usd": 47.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Najma-106599.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "cítrico",
+     "especiado fresco",
+     "almizclado",
+     "amaderado",
+     "ámbar",
+     "aromático"
+    ],
+    "notes": {
+     "top": [
+      "jengibre",
+      "pomelo",
+      "bergamota"
+     ],
+     "middle": [
+      "ambroxan",
+      "jazmín"
+     ],
+     "base": [
+      "almizcle",
+      "vetiver",
+      "sándalo",
+      "pachulí"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, especiado fresco y almizclado. Abre con jengibre, pomelo y bergamota, su corazón tiene ambroxan y jazmín y se asienta sobre almizcle, vetiver y sándalo."
+   },
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -2459,6 +8951,45 @@
    "image": "img/1187.webp",
    "usd": 51.0,
    "fragrantica": "https://www.fragrantica.com/perfume/Mawwal-Arabia/Sama-106598.html",
+   "details": {
+    "gender": "women and men",
+    "year": 2024,
+    "accords": [
+     "frutal",
+     "aromático",
+     "especiado fresco",
+     "cítrico",
+     "amaderado",
+     "verde"
+    ],
+    "notes": {
+     "top": [
+      "hojas de violeta",
+      "pomelo",
+      "pera",
+      "grosella negra",
+      "bergamota",
+      "albahaca"
+     ],
+     "middle": [
+      "cardamomo",
+      "jengibre",
+      "durazno",
+      "muguet",
+      "canela"
+     ],
+     "base": [
+      "vetiver",
+      "cedro",
+      "almizcle",
+      "pachulí",
+      "ámbar",
+      "vainilla",
+      "sándalo"
+     ]
+    },
+    "description": "Fragancia unisex lanzada en 2024. De perfil frutal, aromático y especiado fresco. Abre con hojas de violeta, pomelo y pera, su corazón tiene cardamomo, jengibre y durazno y se asienta sobre vetiver, cedro y almizcle."
+   },
    "ars": 78540,
    "rateSource": "fila"
   },

@@ -6,3 +6,6 @@ Sitio estático (public/). Datos: `python3 scripts/build_data.py` regenera publi
 
 ## Carrito
 `public/cart.js` (lógica pura: totales y mensaje de WhatsApp) + `public/app.js`; se guarda en localStorage.
+
+## Notas olfativas
+`python3 scripts/fetch_details.py` scrapea Fragrantica solo para entradas del mapa (match confiable) que aún no estén en `data/fragrantica_details.json` (traducciones en `data/es_terms.txt`). build_data.py las incorpora a products.json.

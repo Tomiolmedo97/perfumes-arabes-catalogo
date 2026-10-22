@@ -51,7 +51,8 @@ def describe(g, y, acc, notes):
 if __name__ == "__main__":
     M = json.load(open("data/fragrantica_map.json"))
     out_p = "data/fragrantica_details.json"
-    D = json.load(open(out_p)) if os.path.exists(out_p) and "--all" not in sys.argv else {}
+    OLD = json.load(open(out_p)) if os.path.exists(out_p) else {}
+    D = OLD if "--all" not in sys.argv else {}
     for k, v in M.items():
         if k in D: continue
         try:
@@ -66,6 +67,7 @@ if __name__ == "__main__":
         accs = [tr(a) for a in acc]
         if not notes and not accs: print("SIN DATOS", k); continue
         D[k] = {"url": v["url"], "gender": g, "year": y, "accords": accs, "notes": notes, "description": describe(g, y, accs, notes)}
+        if OLD.get(k, {}).get("similar"): D[k]["similar"] = OLD[k]["similar"]  # conservar "Similar a"
     json.dump(D, open(out_p, "w"), ensure_ascii=False, indent=1)
     print(len(D), "entradas;", sum(bool(d["notes"]) for d in D.values()), "con notas")
     missing = sorted({n for d in D.values() for ns in d["notes"].values() for n in ns if n.lower() not in {x.lower() for x in ES.values()}})

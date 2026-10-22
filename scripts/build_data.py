@@ -6,6 +6,20 @@ import csv, io, json, re, sys, urllib.request, statistics
 SHEET = "1Y0D_KSvSZikmsiYq0hFwygfP6-1xeXAuEd5dwwfGe-g"
 URL = f"https://docs.google.com/spreadsheets/d/{SHEET}/gviz/tq?tqx=out:csv&sheet=Perfumes%20Arabes"
 MARKUP = 15
+# Familias olfativas a partir de los acordes principales (traducidos) de Fragrantica
+FAMILIES = {}
+for fam, accs in {
+    "Dulce/Gourmand": "dulce caramelo vainilla chocolate cacao miel café almendrado avellanado lactónico coco",
+    "Amaderado": "amaderado musgoso terroso ahumado",
+    "Floral": "floral|floral blanco|floral amarillo|rosa|nardo|iris|violeta|atalcado",
+    "Fresco/Cítrico": "cítrico fresco verde aromático herbal lavanda",
+    "Especiado": "especiado cálido|especiado fresco|especiado suave|canela",
+    "Oriental/Ámbar": "ámbar balsámico cuero almizclado animálico tabaco",
+    "Oud": "oud",
+    "Frutal": "frutal tropical cereza",
+    "Acuático": "acuático marino salado ozónico",
+}.items():
+    for a in (accs.split("|") if "|" in accs else accs.split()): FAMILIES[a] = fam
 def num(s):
     s = re.sub(r"[^\d,]", "", s or "").replace(",", ".")
     return float(s) if s else None
@@ -44,6 +58,19 @@ DET_CI = {k.upper(): v for k, v in DET.items()}
 for p in products:
     d = DET_CI.get((p["id"] or p["name"]).upper())
     if d: p["details"] = {k: d[k] for k in ("gender", "year", "accords", "notes", "description")}
+    if d and d.get("similar"): p["similar"] = d["similar"]
+    g = {"women": "mujer", "men": "hombre", "women and men": "unisex"}.get((d or {}).get("gender"))
+    if not g:
+        n = " " + re.sub(r"[^A-Z]", " ", p["name"]) + " "
+        fem = re.search(r" (FEM|FEMA|FEMME|FEMININO|FEMENINO|WOMEN|WOMAN) ", n); mas = re.search(r" (MASC|MASCULINO|MEN|HOMME|MAN) ", n)
+        g = "mujer" if fem and not mas else "hombre" if mas and not fem else None
+        if g: p["genderSource"] = "nombre"
+    if g: p["gender"] = g
+    fams = []
+    for a in ((d or {}).get("accords") or [])[:3]:
+        f = FAMILIES.get(a)
+        if f and f not in fams: fams.append(f)
+    if fams: p["families"] = fams
 for p in products:
     rate_src = "fila" if p["rate"] else "mediana"
     rate = p.pop("rate") or fallback

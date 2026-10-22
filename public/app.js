@@ -37,8 +37,8 @@ fetch("products.json").then(r=>r.json()).then(({products})=>{
   for(const p of products){p.name=p.name.toUpperCase();p.brand=p.brand.toUpperCase();p.key=p.id||p.name;byKey[p.key]=p;let b=brands.find(x=>x.name===p.brand);if(!b)brands.push(b={name:p.brand,items:[]});b.items.push(p)}
   main.innerHTML=brands.map(b=>`<section><h2>${esc(b.name)}</h2><div class="grid">${b.items.map(p=>{
     const msg=encodeURIComponent(`Hola! Quiero pedir el perfume ${p.brand} - ${p.name} (${ars(p.ars)}).`);
-    return `<article class="card" tabindex="0" data-k="${esc(p.key)}" data-n="${esc(norm(p.name+" "+p.brand))}"><div class="img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:"<span>✦</span>"}</div>
-    <div class="body"><div class="name">${esc(p.name)}</div><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div>
+    return `<article class="card" tabindex="0" data-k="${esc(p.key)}" data-n="${esc(norm(p.name+" "+p.brand+" "+(p.similar||[]).map(s=>s.name+" "+s.brand).join(" ")))}" data-g="${p.gender||""}" data-f="${esc((p.families||[]).join("|"))}"><div class="img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}" loading="lazy">`:"<span>✦</span>"}</div>
+    <div class="body"><div class="name">${esc(p.name)}</div>${p.similar&&p.similar.length?`<div class="sim">Similar a: ${esc(simTxt(p.similar.slice(0,1)))}</div>`:""}<div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div>
     <div class="actions"><div class="qty sm"><button data-s="-1" aria-label="Menos">−</button><input type="number" min="1" value="1" inputmode="numeric" aria-label="Cantidad"><button data-s="1" aria-label="Más">+</button></div>
     <button class="add" data-add="${esc(p.key)}">Agregar</button></div>
     <a class="pedir" href="${WA}?text=${msg}" target="_blank" rel="noopener">Pedir por WhatsApp</a></div></article>`}).join("")}</div></section>`).join("");
@@ -48,13 +48,32 @@ fetch("products.json").then(r=>r.json()).then(({products})=>{
     if(b.dataset.add){add(b.dataset.add,Math.max(1,parseInt(inp.value)||1));inp.value=1}};
   main.onkeydown=e=>{if(e.key==="Enter"&&e.target.classList.contains("card"))openModal(e.target.dataset.k)};
   const q=$("q"),none=$("none");
-  q.addEventListener("input",()=>{const t=norm(q.value.trim());let any=false;
-    main.querySelectorAll("section").forEach(s=>{let v=0;s.querySelectorAll(".card").forEach(c=>{const ok=!t||c.dataset.n.includes(t);c.hidden=!ok;v+=ok});s.hidden=!v;any||=v>0});
-    none.hidden=any});
+  q.addEventListener("input",applyFilters);
+  buildChips(products);applyFilters();
   render();
 });
 render();
 
+const simTxt=xs=>xs.map(s=>`${s.name} (${s.brand})`).join(" · ");
+const FAM=["Dulce/Gourmand","Amaderado","Floral","Fresco/Cítrico","Especiado","Oriental/Ámbar","Oud","Frutal","Acuático"];
+const flt={g:"",f:new Set()};
+function buildChips(products){
+  const gc=g=>products.filter(p=>!g||p.gender===g).length, fc=f=>products.filter(p=>(p.families||[]).includes(f)).length;
+  $("fg").innerHTML=[["","Todos"],["mujer","Mujer"],["hombre","Hombre"],["unisex","Unisex"]].map(([v,l])=>`<button class="chip${v===flt.g?" on":""}" data-g="${v}">${l}</button>`).join("");
+  $("ff").innerHTML=FAM.filter(fc).map(f=>`<button class="chip" data-f="${f}">${f}</button>`).join("");
+  $("fg").onclick=e=>{const b=e.target.closest("button");if(!b)return;flt.g=b.dataset.g;$("fg").querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",c===b));applyFilters()};
+  $("ff").onclick=e=>{const b=e.target.closest("button");if(!b)return;const f=b.dataset.f;flt.f.has(f)?flt.f.delete(f):flt.f.add(f);b.classList.toggle("on",flt.f.has(f));applyFilters()};
+  $("fclear").onclick=e=>{e.preventDefault();flt.g="";flt.f.clear();$("q").value="";$("fg").querySelectorAll(".chip").forEach(c=>c.classList.toggle("on",!c.dataset.g));$("ff").querySelectorAll(".chip").forEach(c=>c.classList.remove("on"));applyFilters()};
+}
+function applyFilters(){
+  const t=norm($("q").value.trim()),main=$("catalog");let n=0;
+  main.querySelectorAll("section").forEach(s=>{let v=0;s.querySelectorAll(".card").forEach(c=>{
+    const fs=c.dataset.f?c.dataset.f.split("|"):[];
+    const ok=(!t||c.dataset.n.includes(t))&&(!flt.g||c.dataset.g===flt.g)&&(!flt.f.size||fs.some(f=>flt.f.has(f)));
+    c.hidden=!ok;v+=ok});s.hidden=!v;n+=v});
+  $("none").hidden=n>0;const active=t||flt.g||flt.f.size;
+  $("fcount").textContent=`${n} ${n===1?"perfume":"perfumes"}`;$("fclear").hidden=!active;
+}
 const GEN={women:"Femenino",men:"Masculino","women and men":"Unisex"};
 let lastFocus;
 function openModal(k){const p=byKey[k];if(!p)return;const d=p.details;lastFocus=document.activeElement;
@@ -65,6 +84,7 @@ function openModal(k){const p=byKey[k];if(!p)return;const d=p.details;lastFocus=
     info=`<p class="desc">${esc(d.description)}</p>${d.accords.length?`<h4>Acordes principales</h4><div class="chips">${chips(d.accords)}</div>`:""}
     ${rows.map(([t,xs])=>`<h4>${t}</h4><div class="chips light">${chips(xs)}</div>`).join("")}<p class="src">Notas: Fragrantica</p>`}
   else info=`<p class="desc">Consultanos por WhatsApp por las notas de este perfume.</p>`;
+  info+=`${p.similar&&p.similar.length?`<h4>Similar a</h4><p class="msim">${esc(simTxt(p.similar))}</p><p class="src">Según votos de usuarios de Fragrantica</p>`:""}`;
   $("mbody").innerHTML=`<div class="m-img">${p.image?`<img src="${esc(p.image)}" alt="${esc(p.name)}">`:"<span>✦</span>"}</div>
    <div class="m-head"><small class="m-brand">${esc(p.brand)}${d&&GEN[d.gender]?" · "+GEN[d.gender]:""}${d&&d.year?" · "+d.year:""}</small>
    <h3 id="mtitle">${esc(p.name)}</h3><div class="price">${ars(p.ars)}<span class="usd">USD ${p.usd}</span></div></div>

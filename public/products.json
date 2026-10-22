@@ -36,6 +36,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, frutal y dulce. Abre con pomelo, mandarina y bergamota, su corazón tiene frambuesa y grosella negra y se asienta sobre almizcle, ámbar y naranja."
    },
+   "similar": [
+    {
+     "name": "My Way",
+     "brand": "Armani",
+     "up": 78,
+     "down": 49
+    },
+    {
+     "name": "Very Hollywood",
+     "brand": "Michael Kors",
+     "up": 12,
+     "down": 5
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Dulce/Gourmand"
+   ],
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -78,6 +98,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil frutal, verde y amaderado. Abre con limón, menta y grosella negra, su corazón tiene manzana, cedro y incienso y se asienta sobre jengibre, sándalo y pachulí."
    },
+   "similar": [
+    {
+     "name": "Yves Saint Laurent Y",
+     "brand": "YSL",
+     "up": 322,
+     "down": 126
+    },
+    {
+     "name": "Y Eau de Parfum",
+     "brand": "YSL",
+     "up": 212,
+     "down": 193
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -119,6 +159,12 @@
     },
     "description": "Fragancia masculina lanzada en 2020. De perfil vainilla, ámbar y especiado cálido. Abre con manzana, canela y lavanda silvestre, su corazón tiene azahar y muguet y se asienta sobre vainilla, haba tonka y ámbar."
    },
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -162,6 +208,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil amaderado, frutal y rosa. Abre con frambuesa, violeta y manzana, su corazón tiene rosa, peonía y iris y se asienta sobre ciprés, pino y cedro."
    },
+   "similar": [
+    {
+     "name": "Flamenco",
+     "brand": "Ramon Monegal",
+     "up": 54,
+     "down": 26
+    },
+    {
+     "name": "Angel Nova",
+     "brand": "Mugler",
+     "up": 32,
+     "down": 31
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Amaderado",
+    "Frutal",
+    "Floral"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -212,6 +278,20 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil dulce, amaderado y frutal. Abre con helado, pistacho y bergamota, su corazón tiene pera, durazno blanco y jazmín y se asienta sobre sándalo, haba tonka y cedro."
    },
+   "similar": [
+    {
+     "name": "Yum Pistachio Gelato | 33",
+     "brand": "Kayali",
+     "up": 56,
+     "down": 15
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Amaderado",
+    "Frutal"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -252,6 +332,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil especiado cálido, almizclado y ámbar. Abre con azafrán, su corazón tiene maracuyá, pachulí y agarwood (oud) y se asienta sobre vainilla de Madagascar, almizcle y incienso."
    },
+   "similar": [
+    {
+     "name": "Queen of Silk",
+     "brand": "Creed",
+     "up": 80,
+     "down": 32
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 92400,
    "rateSource": "fila"
   },
@@ -293,6 +386,25 @@
     },
     "description": "Fragancia femenina lanzada en 2020. De perfil rosa, almizclado y floral. Abre con lichi, ruibarbo y bergamota, su corazón tiene rosa, peonía y vainilla y se asienta sobre almizcle, ámbar y madera de cachemira."
    },
+   "similar": [
+    {
+     "name": "Delina",
+     "brand": "Parfums de Marly",
+     "up": 232,
+     "down": 60
+    },
+    {
+     "name": "Delina Exclusif",
+     "brand": "Parfums de Marly",
+     "up": 72,
+     "down": 63
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -334,6 +446,26 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil frutal, dulce y floral blanco. Abre con ananá, bergamota y flores blancas, su corazón tiene azahar, abedul y ámbar y se asienta sobre musgo de roble, almizcle y ámbar gris."
    },
+   "similar": [
+    {
+     "name": "Absolu Aventus",
+     "brand": "Creed",
+     "up": 378,
+     "down": 163
+    },
+    {
+     "name": "Explorer Extreme",
+     "brand": "Montblanc",
+     "up": 260,
+     "down": 146
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -343,6 +475,8 @@
    "name": "SUPREMACY POUR HOMME EDP 150ML",
    "image": "",
    "usd": 48.0,
+   "genderSource": "nombre",
+   "gender": "hombre",
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -384,6 +518,12 @@
     },
     "description": "Fragancia unisex lanzada en 2013. De perfil ámbar, atalcado y especiado fresco. Abre con nuez moscada, violeta y flor de durazno, su corazón tiene iris y pachulí y se asienta sobre ámbar, vainilla y oud."
    },
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Floral",
+    "Especiado"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -422,6 +562,11 @@
     },
     "description": "Fragancia femenina. De perfil rosa, floral y fresco. Abre con pimienta rosa y violeta, su corazón tiene rosa, peonía y muguet y se asienta sobre almizcle y ámbar."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -459,6 +604,26 @@
     },
     "description": "Fragancia femenina. De perfil frutal, almizclado y dulce. Abre con frutas y cítricos, su corazón tiene almizcle y ámbar y se asienta sobre almizcle y vainilla."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 70,
+     "down": 2
+    },
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 48,
+     "down": 13
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Oriental/Ámbar",
+    "Dulce/Gourmand"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -496,6 +661,20 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, almizclado y amaderado. Abre con cítricos, su corazón tiene notas amaderadas y ámbar y se asienta sobre almizcle, especias y pachulí."
    },
+   "similar": [
+    {
+     "name": "Ingenious Ginger",
+     "brand": "Goldfield & Banks",
+     "up": 258,
+     "down": 169
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar",
+    "Amaderado"
+   ],
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -536,6 +715,11 @@
     },
     "description": "Fragancia femenina lanzada en 2023. De perfil floral, rosa y fresco. Abre con rosa, almizcle y notas florales, su corazón tiene rosa, jazmín y notas amaderadas y se asienta sobre peonía, almizcle y damasco."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -579,6 +763,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil especiado fresco, cítrico y aromático. Abre con pomelo, pimienta rosa y enebro, su corazón tiene bergamota de Calabria, cedro y nuez moscada y se asienta sobre ámbar gris, manzana y almizcle."
    },
+   "similar": [
+    {
+     "name": "Versace Pour Homme Dylan Blue",
+     "brand": "Versace",
+     "up": 153,
+     "down": 77
+    },
+    {
+     "name": "Bleu de Chanel Eau de Parfum",
+     "brand": "Chanel",
+     "up": 118,
+     "down": 69
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -639,6 +842,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, verde y almizclado. Abre con notas verdes, bergamota y mandarina, su corazón tiene melón, ámbar y grosella negra y se asienta sobre almizcle, petitgrain y gálbano."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 120120,
    "rateSource": "fila"
   },
@@ -681,6 +889,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, amaderado y especiado fresco. Abre con pomelo, limón y menta, su corazón tiene jengibre, vetiver y jazmín y se asienta sobre olíbano, sándalo y cedro."
    },
+   "similar": [
+    {
+     "name": "Bleu de Chanel",
+     "brand": "Chanel",
+     "up": 167,
+     "down": 34
+    },
+    {
+     "name": "Bleu de Chanel Eau de Parfum",
+     "brand": "Chanel",
+     "up": 68,
+     "down": 60
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 123200,
    "rateSource": "fila"
   },
@@ -722,6 +950,20 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil ámbar, especiado cálido y rosa. Abre con azafrán, bergamota y elemí, su corazón tiene rosa búlgara, agarwood (oud) y muguet y se asienta sobre haba tonka, ámbar y almizcle blanco."
    },
+   "similar": [
+    {
+     "name": "Arabians Tonka",
+     "brand": "Montale",
+     "up": 258,
+     "down": 84
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado",
+    "Floral"
+   ],
    "ars": 103180,
    "rateSource": "fila"
   },
@@ -763,6 +1005,20 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil ámbar, especiado cálido y rosa. Abre con azafrán, bergamota y elemí, su corazón tiene rosa búlgara, agarwood (oud) y muguet y se asienta sobre haba tonka, ámbar y almizcle blanco."
    },
+   "similar": [
+    {
+     "name": "Arabians Tonka",
+     "brand": "Montale",
+     "up": 258,
+     "down": 84
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado",
+    "Floral"
+   ],
    "ars": 118580,
    "rateSource": "fila"
   },
@@ -808,6 +1064,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, dulce y ámbar. Abre con naranja, bergamota y limón, su corazón tiene caramelo, melón y manzana verde y se asienta sobre ámbar, vainilla y pachulí."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 18,
+     "down": 1
+    },
+    {
+     "name": "Erba Gold",
+     "brand": "Xerjoff",
+     "up": 14,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand",
+    "Oriental/Ámbar"
+   ],
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -848,6 +1124,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, frutal y ozónico. Abre con bergamota y notas verdes, su corazón tiene melón, ananá y ámbar y se asienta sobre vainilla, almizcle y notas amaderadas."
    },
+   "similar": [
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 381,
+     "down": 132
+    },
+    {
+     "name": "Jardin Exclusif",
+     "brand": "Mancera",
+     "up": 132,
+     "down": 43
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Acuático"
+   ],
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -888,6 +1184,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, frutal y ozónico. Abre con bergamota y notas verdes, su corazón tiene melón, ananá y ámbar y se asienta sobre vainilla, almizcle y notas amaderadas."
    },
+   "similar": [
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 381,
+     "down": 132
+    },
+    {
+     "name": "Jardin Exclusif",
+     "brand": "Mancera",
+     "up": 132,
+     "down": 43
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Acuático"
+   ],
    "ars": 101640,
    "rateSource": "fila"
   },
@@ -926,6 +1242,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, especiado cálido y ámbar. Abre con azafrán y almendra amarga, su corazón tiene cedro y jazmín egipcio y se asienta sobre ámbar gris, notas amaderadas y almizcle."
    },
+   "similar": [
+    {
+     "name": "Baccarat Rouge 540 Extrait de Parfum",
+     "brand": "MFK",
+     "up": 284,
+     "down": 72
+    },
+    {
+     "name": "Baccarat Rouge 540",
+     "brand": "MFK",
+     "up": 101,
+     "down": 27
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 124740,
    "rateSource": "fila"
   },
@@ -965,6 +1301,24 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, nardo y rosa. Abre con rosa, jengibre y bergamota, su corazón tiene nardo, jazmín y flores blancas y se asienta sobre roble, almizcle y pachulí."
    },
+   "similar": [
+    {
+     "name": "L'Interdit Eau de Parfum Rouge",
+     "brand": "Givenchy",
+     "up": 28,
+     "down": 23
+    },
+    {
+     "name": "Gucci Bloom",
+     "brand": "Gucci",
+     "up": 14,
+     "down": 5
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral"
+   ],
    "ars": 175560,
    "rateSource": "fila"
   },
@@ -1006,6 +1360,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, floral y floral blanco. Abre con bergamota y naranja, su corazón tiene jazmín, rosa y fresia y se asienta sobre pachulí, almizcle y vetiver."
    },
+   "similar": [
+    {
+     "name": "Coco Mademoiselle Eau de Toilette",
+     "brand": "Chanel",
+     "up": 41,
+     "down": 4
+    },
+    {
+     "name": "Coco Mademoiselle",
+     "brand": "Chanel",
+     "up": 34,
+     "down": 3
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral"
+   ],
    "ars": 97020,
    "rateSource": "fila"
   },
@@ -1046,6 +1419,25 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, rosa y cítrico. Abre con rosa, bergamota y jengibre, su corazón tiene jazmín, flores blancas y nardo y se asienta sobre almizcle, roble y pachulí."
    },
+   "similar": [
+    {
+     "name": "Flora Gorgeous Gardenia",
+     "brand": "Gucci",
+     "up": 12,
+     "down": 6
+    },
+    {
+     "name": "Gucci Bloom",
+     "brand": "Gucci",
+     "up": 5,
+     "down": 0
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -1086,6 +1478,25 @@
     },
     "description": "Fragancia masculina lanzada en 2016. De perfil cítrico, aromático y amaderado. Abre con limón, bergamota y elemí, su corazón tiene notas amaderadas, jazmín y muguet y se asienta sobre almizcle, pachulí y ámbar."
    },
+   "similar": [
+    {
+     "name": "Explorer",
+     "brand": "Montblanc",
+     "up": 489,
+     "down": 137
+    },
+    {
+     "name": "Esencia pour Homme Eau de Parfum",
+     "brand": "Loewe",
+     "up": 54,
+     "down": 23
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -1131,6 +1542,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil rosa, amaderado y atalcado. Abre con rosa búlgara, lichi y notas amaderadas, su corazón tiene rosa, flores blancas y sándalo y se asienta sobre almizcle, cedro y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Amaderado"
+   ],
    "ars": 104720,
    "rateSource": "fila"
   },
@@ -1172,6 +1588,20 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil floral blanco, cítrico y ámbar. Abre con pomelo, pera y mandarina, su corazón tiene azahar, jazmín y muguet y se asienta sobre ámbar, sándalo y cuero."
    },
+   "similar": [
+    {
+     "name": "Gabrielle",
+     "brand": "Chanel",
+     "up": 5,
+     "down": 4
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 133980,
    "rateSource": "fila"
   },
@@ -1210,6 +1640,20 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil cítrico, especiado fresco y floral blanco. Abre con mandarina, bergamota y naranja, su corazón tiene pomelo, jengibre y iris y se asienta sobre muguet y almizcle."
    },
+   "similar": [
+    {
+     "name": "Dior Homme Cologne 2022",
+     "brand": "Dior",
+     "up": 9,
+     "down": 8
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Floral"
+   ],
    "ars": 133980,
    "rateSource": "fila"
   },
@@ -1248,6 +1692,20 @@
     },
     "description": "Fragancia unisex lanzada en 2019. De perfil atalcado, almizclado y verde. Abre con almizcle, notas verdes y cítricos, su corazón tiene notas herbales y notas amaderadas y se asienta sobre notas atalcadas y notas especiadas."
    },
+   "similar": [
+    {
+     "name": "Woman by Ralph Lauren",
+     "brand": "Ralph Lauren",
+     "up": 101,
+     "down": 16
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar",
+    "Fresco/Cítrico"
+   ],
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -1300,6 +1758,19 @@
     },
     "description": "Fragancia unisex lanzada en 2020. De perfil aromático, lavanda y vainilla. Abre con lavanda, pera y menta, su corazón tiene canela, salvia esclarea y comino y se asienta sobre vaina de vainilla negra, ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Ultra Male",
+     "brand": "JPG",
+     "up": 245,
+     "down": 21
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -1338,6 +1809,20 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil especiado cálido, amaderado y vainilla. Abre con almizcle blanco y cypriol, su corazón tiene vainilla, cardamomo y azafrán y se asienta sobre madera de guayaco y cumarina."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 133,
+     "down": 34
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Especiado",
+    "Amaderado",
+    "Dulce/Gourmand"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -1386,6 +1871,12 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil amaderado, cítrico y ámbar. Abre con pomelo, pimienta rosa y notas marinas, su corazón tiene pomelo, jengibre y cedro y se asienta sobre jengibre, madera de ámbar y incienso."
    },
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1428,6 +1919,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil rosa, especiado cálido y dulce. Abre con grosella negra, azafrán y cardamomo, su corazón tiene rosa, cacao y vetiver y se asienta sobre maltol, ámbar y pachulí."
    },
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Especiado",
+    "Dulce/Gourmand"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -1466,6 +1963,10 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lactónico. Abre con mandarina, su corazón tiene leche, muguet y jazmín y se asienta sobre vainilla, maltol y almizcle."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -1513,6 +2014,20 @@
     },
     "description": "Fragancia unisex. De perfil amaderado, cuero y especiado cálido. Abre con cuero, durazno y azafrán, su corazón tiene notas amaderadas, pimienta rosa y cypriol y se asienta sobre oud, pachulí y vainilla."
    },
+   "similar": [
+    {
+     "name": "Soleil de Jeddah",
+     "brand": "SHL 777",
+     "up": 17,
+     "down": 11
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1555,6 +2070,25 @@
     },
     "description": "Fragancia masculina. De perfil aromático, cítrico y amaderado. Abre con naranja sanguina, bayas de enebro y cítricos, su corazón tiene lavanda, pimienta de Jamaica y salvia esclarea y se asienta sobre vetiver, cedro y pachulí."
    },
+   "similar": [
+    {
+     "name": "K by Dolce & Gabbana",
+     "brand": "Dolce&Gabbana",
+     "up": 48,
+     "down": 14
+    },
+    {
+     "name": "Elysium Pour Homme Parfum Cologne",
+     "brand": "Roja",
+     "up": 33,
+     "down": 25
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -1601,6 +2135,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil frutal, floral blanco y floral. Abre con durazno, peonía y osmanthus, su corazón tiene azahar, nardo y ciruela y se asienta sobre almizcle, ámbar y sándalo."
    },
+   "similar": [
+    {
+     "name": "L'Interdit Eau de Parfum",
+     "brand": "Givenchy",
+     "up": 48,
+     "down": 3
+    },
+    {
+     "name": "L'Interdit Eau de Toilette (2022)",
+     "brand": "Givenchy",
+     "up": 11,
+     "down": 6
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Floral"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -1640,6 +2193,20 @@
     },
     "description": "Fragancia femenina lanzada en 2025. De perfil cítrico, rosa y amaderado. Abre con bergamota y pera, su corazón tiene rosa turca, agarwood (oud) y incienso y se asienta sobre notas amaderadas orientales, ámbar y vainilla."
    },
+   "similar": [
+    {
+     "name": "Delina Exclusif",
+     "brand": "Parfums de Marly",
+     "up": 12,
+     "down": 10
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral",
+    "Amaderado"
+   ],
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -1680,6 +2247,12 @@
     },
     "description": "Fragancia unisex. De perfil amaderado, cítrico y ámbar. Abre con pomelo, mandarina y lavanda, su corazón tiene cashmeran, cedro y neroli y se asienta sobre sándalo, haba tonka y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -1720,6 +2293,11 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil especiado fresco, especiado cálido y aromático. Abre con azafrán, bergamota y geranio, su corazón tiene cuero, rosa y muguet y se asienta sobre almizcle, notas amaderadas y oud."
    },
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -1759,6 +2337,11 @@
     },
     "description": "Fragancia femenina. De perfil floral blanco, vainilla y dulce. Abre con pimienta rosa y mandarina, su corazón tiene azahar, vaina de cacao y jazmín sambac y se asienta sobre vainilla, haba tonka y pachulí."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -1797,6 +2380,18 @@
     },
     "description": "Fragancia femenina. De perfil floral blanco, rosa y floral. Abre con rosa de mayo, jazmín y osmanthus, su corazón tiene narciso y nardo indio y se asienta sobre ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Good Girl",
+     "brand": "Carolina Herrera",
+     "up": 71,
+     "down": 13
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -1839,6 +2434,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, especiado cálido y oud. Abre con rosa, azafrán y pimienta, su corazón tiene oud, caramelo y pachulí y se asienta sobre incienso, ámbar y notas amaderadas."
    },
+   "similar": [
+    {
+     "name": "Blue Sapphire",
+     "brand": "Boadicea",
+     "up": 21,
+     "down": 19
+    },
+    {
+     "name": "Oud Bouquet Eau de Parfum",
+     "brand": "Lancôme",
+     "up": 12,
+     "down": 4
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado",
+    "Oud"
+   ],
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -1904,6 +2519,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, amaderado y especiado fresco. Abre con pomelo, limón y menta, su corazón tiene jengibre, melón y jazmín y se asienta sobre notas amaderadas, incienso y sándalo."
    },
+   "similar": [
+    {
+     "name": "Bleu de Chanel",
+     "brand": "Chanel",
+     "up": 487,
+     "down": 142
+    },
+    {
+     "name": "Bleu de Chanel Parfum",
+     "brand": "Chanel",
+     "up": 287,
+     "down": 244
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -1922,6 +2557,8 @@
    "name": "CLUB DE NUIT INTENSE MAN EAU DE PARFUM 200ML",
    "image": "",
    "usd": 81.0,
+   "genderSource": "nombre",
+   "gender": "hombre",
    "ars": 124740,
    "rateSource": "fila"
   },
@@ -1965,6 +2602,26 @@
     },
     "description": "Fragancia masculina lanzada en 2015. De perfil cítrico, frutal y cuero. Abre con limón, ananá y bergamota, su corazón tiene abedul, jazmín y rosa y se asienta sobre almizcle, ámbar gris y pachulí."
    },
+   "similar": [
+    {
+     "name": "Eros Energy",
+     "brand": "Versace",
+     "up": 480,
+     "down": 357
+    },
+    {
+     "name": "Esencia pour Homme Eau de Parfum",
+     "brand": "Loewe",
+     "up": 200,
+     "down": 103
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Oriental/Ámbar"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -2009,6 +2666,26 @@
     },
     "description": "Fragancia unisex lanzada en 2020. De perfil cítrico, almizclado y amaderado. Abre con bergamota, limón y lima, su corazón tiene rosa, iris y jazmín y se asienta sobre ambroxan, almizcle y sándalo."
    },
+   "similar": [
+    {
+     "name": "Mefisto",
+     "brand": "Casamorati",
+     "up": 324,
+     "down": 120
+    },
+    {
+     "name": "CK One",
+     "brand": "Calvin Klein",
+     "up": 81,
+     "down": 69
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar",
+    "Amaderado"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -2052,6 +2729,25 @@
     },
     "description": "Fragancia femenina. De perfil cítrico, pachulí y rosa. Abre con naranja, bergamota y pomelo, su corazón tiene rosa, jazmín y geranio y se asienta sobre pachulí, almizcle y vainilla."
    },
+   "similar": [
+    {
+     "name": "Coco Mademoiselle Eau de Toilette",
+     "brand": "Chanel",
+     "up": 303,
+     "down": 82
+    },
+    {
+     "name": "Coco Mademoiselle Intense",
+     "brand": "Chanel",
+     "up": 173,
+     "down": 85
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -2089,6 +2785,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, ámbar y especiado cálido. Abre con azafrán y jazmín, su corazón tiene madera de ámbar y ámbar gris y se asienta sobre resina de abeto y cedro."
    },
+   "similar": [
+    {
+     "name": "Baccarat Rouge 540",
+     "brand": "MFK",
+     "up": 999,
+     "down": 132
+    },
+    {
+     "name": "Baccarat Rouge 540 Extrait de Parfum",
+     "brand": "MFK",
+     "up": 342,
+     "down": 108
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 90860,
    "rateSource": "fila"
   },
@@ -2127,6 +2843,11 @@
     },
     "description": "Fragancia femenina lanzada en 2025. De perfil iris, atalcado y frutal. Abre con lichi, bergamota y pimienta rosa, su corazón tiene raíz de iris y se asienta sobre praliné, ambroxan y sándalo."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Frutal"
+   ],
    "ars": 90860,
    "rateSource": "mediana"
   },
@@ -2181,6 +2902,26 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil frutal, dulce y amaderado. Abre con durazno, maracuyá y pera, su corazón tiene madera de cachemira, jazmín y hojas de violeta y se asienta sobre almizcle, oud camboyano y vainilla."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 145,
+     "down": 63
+    },
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 59,
+     "down": 33
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand",
+    "Amaderado"
+   ],
    "ars": 124740,
    "rateSource": "fila"
   },
@@ -2231,6 +2972,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, amaderado y cítrico. Abre con ananá, limón y bergamota, su corazón tiene musgo de roble, madera blanca y jazmín y se asienta sobre ambroxan, almizcle blanco y cedro."
    },
+   "similar": [
+    {
+     "name": "Absolu Aventus 2023",
+     "brand": "Creed",
+     "up": 694,
+     "down": 136
+    },
+    {
+     "name": "Absolu Aventus",
+     "brand": "Creed",
+     "up": 158,
+     "down": 57
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Amaderado",
+    "Fresco/Cítrico"
+   ],
    "ars": 104720,
    "rateSource": "fila"
   },
@@ -2274,6 +3035,26 @@
     },
     "description": "Fragancia masculina lanzada en 2017. De perfil amaderado, especiado fresco y aromático. Abre con bergamota, menta y pomelo, su corazón tiene jengibre, lavanda y cedro y se asienta sobre pachulí, vetiver y sándalo."
    },
+   "similar": [
+    {
+     "name": "Mr. Burberry",
+     "brand": "Burberry",
+     "up": 77,
+     "down": 44
+    },
+    {
+     "name": "Mr. Burberry Indigo",
+     "brand": "Burberry",
+     "up": 7,
+     "down": 4
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -2320,6 +3101,25 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, aromático y cítrico. Abre con bergamota, pimienta rosa y azahar, su corazón tiene lavanda, elemí y geranio y se asienta sobre ambroxan, ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Sauvage Eau de Parfum",
+     "brand": "Dior",
+     "up": 534,
+     "down": 147
+    },
+    {
+     "name": "Luna Rossa Carbon Eau de Toilette",
+     "brand": "Prada",
+     "up": 316,
+     "down": 131
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Fresco/Cítrico"
+   ],
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -2371,6 +3171,11 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil especiado cálido, dulce y avellanado. Abre con café, pistacho y avellana, su corazón tiene chocolate, vainilla y cardamomo y se asienta sobre caramelo, haba tonka y madera de ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Dulce/Gourmand"
+   ],
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -2410,6 +3215,25 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil aromático, cítrico y especiado fresco. Abre con naranja, pomelo y artemisa, su corazón tiene menta y lavanda y se asienta sobre ambroxan, ciprés y pachulí."
    },
+   "similar": [
+    {
+     "name": "Invictus Platinum",
+     "brand": "Rabanne",
+     "up": 358,
+     "down": 39
+    },
+    {
+     "name": "Bad Boy Cobalt Parfum Electrique",
+     "brand": "Carolina Herrera",
+     "up": 139,
+     "down": 70
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -2452,6 +3276,11 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil frutal, dulce y pachulí. Abre con frutilla, frambuesa y geranio, su corazón tiene caramelo, jazmín y maracuyá y se asienta sobre pachulí, almizcle y ámbar."
    },
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -2492,6 +3321,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, especiado fresco y aromático. Abre con limón, naranja dulce y bergamota, su corazón tiene azahar, notas marinas y jengibre y se asienta sobre té, almizcle y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -2532,6 +3366,20 @@
     },
     "description": "Fragancia masculina. De perfil amaderado, especiado cálido y vainilla. Abre con cardamomo, mandarina y neroli, su corazón tiene azahar y rosa y se asienta sobre vainilla, notas amaderadas y ámbar."
    },
+   "similar": [
+    {
+     "name": "Noir Extreme",
+     "brand": "Tom Ford",
+     "up": 552,
+     "down": 180
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Dulce/Gourmand"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -2572,6 +3420,26 @@
     },
     "description": "Fragancia masculina. De perfil amaderado, aromático y vainilla. Abre con cardamomo, pimienta rosa y menta, su corazón tiene salvia, notas acuáticas y ananá y se asienta sobre vainilla, madera de ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Emporio Armani Stronger With You",
+     "brand": "Armani",
+     "up": 394,
+     "down": 51
+    },
+    {
+     "name": "Invictus Aqua",
+     "brand": "Rabanne",
+     "up": 104,
+     "down": 97
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2616,6 +3484,25 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, aromático y especiado fresco. Abre con limón, bergamota y naranja, su corazón tiene ananá, salvia y enebro y se asienta sobre almizcle, cedro y haba tonka."
    },
+   "similar": [
+    {
+     "name": "Y Eau de Parfum",
+     "brand": "YSL",
+     "up": 635,
+     "down": 51
+    },
+    {
+     "name": "Y Eau de Toilette",
+     "brand": "YSL",
+     "up": 86,
+     "down": 19
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2660,6 +3547,25 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, aromático y especiado fresco. Abre con limón, bergamota y naranja, su corazón tiene ananá, salvia y enebro y se asienta sobre almizcle, cedro y haba tonka."
    },
+   "similar": [
+    {
+     "name": "Y Eau de Parfum",
+     "brand": "YSL",
+     "up": 635,
+     "down": 51
+    },
+    {
+     "name": "Y Eau de Toilette",
+     "brand": "YSL",
+     "up": 86,
+     "down": 19
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 110880,
    "rateSource": "fila"
   },
@@ -2703,6 +3609,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, lavanda y especiado cálido. Abre con canela, manzana y bergamota, su corazón tiene lavanda, canela y azahar y se asienta sobre vainilla, ámbar y tabaco."
    },
+   "similar": [
+    {
+     "name": "Ultra Male",
+     "brand": "JPG",
+     "up": 173,
+     "down": 16
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -2750,6 +3670,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral amarillo, dulce y floral. Abre con bergamota y almendra amarga, su corazón tiene ylang-ylang, rosa y peonía y se asienta sobre cumarina y vainilla."
    },
+   "similar": [
+    {
+     "name": "Good Girl Blush",
+     "brand": "Carolina Herrera",
+     "up": 9,
+     "down": 7
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -2791,6 +3724,25 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil cítrico, caramelo y dulce. Abre con mandarina, naranja y azafrán, su corazón tiene caramelo, haba tonka y caléndula y se asienta sobre ambroxan, cedro y vetiver."
    },
+   "similar": [
+    {
+     "name": "Scandal Pour Homme",
+     "brand": "JPG",
+     "up": 793,
+     "down": 51
+    },
+    {
+     "name": "Scandal Pour Homme Le Parfum",
+     "brand": "JPG",
+     "up": 171,
+     "down": 66
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -2829,6 +3781,19 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil rosa, vainilla y café. Abre con rosa y bergamota, su corazón tiene café, notas florales y jazmín y se asienta sobre vainilla y almizcle."
    },
+   "similar": [
+    {
+     "name": "Intense Cafe",
+     "brand": "Montale",
+     "up": 7,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2866,6 +3831,12 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil especiado cálido, amaderado y aromático. Abre con pimienta rosa, pachulí y bergamota, su corazón tiene cardamomo y se asienta sobre sándalo y haba tonka."
    },
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Amaderado",
+    "Fresco/Cítrico"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -2910,6 +3881,12 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil aromático, amaderado y especiado fresco. Abre con pimienta rosa, davana y bergamota, su corazón tiene oud, ámbar y elemí y se asienta sobre pachulí, cuero y cedro."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -2950,6 +3927,12 @@
     },
     "description": "Fragancia masculina lanzada en 2020. De perfil amaderado, aromático y especiado fresco. Abre con vetiver, tabaco y ciprés, su corazón tiene enebro, sándalo y especias y se asienta sobre aldehídos, violeta y pimienta rosa."
    },
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -2994,6 +3977,20 @@
     },
     "description": "Fragancia unisex. De perfil aromático, especiado fresco y acuático. Abre con bergamota, kumquat y jengibre, su corazón tiene menta, gin y melón y se asienta sobre vetiver de Haití, almizcle y cedro."
    },
+   "similar": [
+    {
+     "name": "Blue Moon Ginger Dash",
+     "brand": "Kilian",
+     "up": 17,
+     "down": 4
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Acuático"
+   ],
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -3039,6 +4036,11 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil dulce, frutal y vainilla. Abre con cereza, manzana roja y pera, su corazón tiene jazmín sambac, frambuesa y rosa de mayo y se asienta sobre vainilla, haba tonka y sándalo."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal"
+   ],
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -3089,6 +4091,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, floral y frutal. Abre con pera, pimienta peruana y café, su corazón tiene flores, almizcle blanco y naranja y se asienta sobre vainilla, pachulí y cedro."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral",
+    "Frutal"
+   ],
    "ars": 86240,
    "rateSource": "fila"
   },
@@ -3131,6 +4139,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, almizclado y frutal. Abre con frutos rojos, pimienta rosa y bergamota, su corazón tiene flor de pera, nardo y jazmín y se asienta sobre vainilla, cuero y almizcle."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar",
+    "Frutal"
+   ],
    "ars": 90860,
    "rateSource": "fila"
   },
@@ -3175,6 +4189,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, floral blanco y amaderado. Abre con pimienta rosa, lichi y cítricos, su corazón tiene ylang-ylang, rosa y jazmín y se asienta sobre almizcle, sándalo y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral",
+    "Amaderado"
+   ],
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -3218,6 +4238,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil frutal, amaderado y atalcado. Abre con ciruela, mandarina y bergamota, su corazón tiene madera de ámbar, raíz de iris y frambuesa y se asienta sobre vainilla, almizcle y pachulí."
    },
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Amaderado",
+    "Floral"
+   ],
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -3257,6 +4283,19 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil especiado cálido, especiado fresco y lavanda. Abre con nuez moscada, cardamomo y canela, su corazón tiene lavanda y se asienta sobre pachulí, vetiver de Haití y sándalo."
    },
+   "similar": [
+    {
+     "name": "Sauvage Elixir",
+     "brand": "Dior",
+     "up": 25,
+     "down": 7
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -3297,6 +4336,20 @@
     },
     "description": "Fragancia masculina lanzada en 2018. De perfil amaderado, especiado fresco y ámbar. Abre con cardamomo y albahaca, su corazón tiene nuez moscada, cuero y notas amaderadas y se asienta sobre sándalo, cedro y láudano."
    },
+   "similar": [
+    {
+     "name": "The One for Men",
+     "brand": "Dolce&Gabbana",
+     "up": 5,
+     "down": 0
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -3336,6 +4389,11 @@
     },
     "description": "Fragancia unisex. De perfil dulce, vainilla y cítrico. Abre con coñac y mandarina, su corazón tiene praliné, caramelo y azahar y se asienta sobre vainilla, cedro y café."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -3375,6 +4433,25 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, aromático y amaderado. Abre con ananá, limón y bergamota, su corazón tiene jazmín y cilantro y se asienta sobre madera flotante y almizcle."
    },
+   "similar": [
+    {
+     "name": "Chrome",
+     "brand": "Azzaro",
+     "up": 36,
+     "down": 11
+    },
+    {
+     "name": "Percival",
+     "brand": "Parfums de Marly",
+     "up": 15,
+     "down": 14
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 126280,
    "rateSource": "fila"
   },
@@ -3415,6 +4492,26 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil frutal, especiado cálido y dulce. Abre con ananá, bergamota y pimienta, su corazón tiene pera, cardamomo y clavo de olor y se asienta sobre almizcle, pachulí y sándalo."
    },
+   "similar": [
+    {
+     "name": "Aventus",
+     "brand": "Creed",
+     "up": 25,
+     "down": 3
+    },
+    {
+     "name": "Explorer",
+     "brand": "Montblanc",
+     "up": 13,
+     "down": 2
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Frutal",
+    "Especiado",
+    "Dulce/Gourmand"
+   ],
    "ars": 137060,
    "rateSource": "fila"
   },
@@ -3454,6 +4551,25 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, aromático y amaderado. Abre con ananá, limón y bergamota, su corazón tiene jazmín y cilantro y se asienta sobre madera flotante y almizcle."
    },
+   "similar": [
+    {
+     "name": "Chrome",
+     "brand": "Azzaro",
+     "up": 36,
+     "down": 11
+    },
+    {
+     "name": "Percival",
+     "brand": "Parfums de Marly",
+     "up": 15,
+     "down": 14
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 138600,
    "rateSource": "fila"
   },
@@ -3492,6 +4608,26 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene notas frutales y se asienta sobre vainilla, almizcle blanco y ámbar."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 342,
+     "down": 40
+    },
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 25,
+     "down": 8
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Dulce/Gourmand"
+   ],
    "ars": 115500,
    "rateSource": "fila"
   },
@@ -3530,6 +4666,26 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene notas frutales y se asienta sobre vainilla, almizcle blanco y ámbar."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 342,
+     "down": 40
+    },
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 25,
+     "down": 8
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Dulce/Gourmand"
+   ],
    "ars": 140140,
    "rateSource": "fila"
   },
@@ -3568,6 +4724,26 @@
     },
     "description": "Fragancia unisex lanzada en 2021. De perfil amaderado, floral blanco y ámbar. Abre con cítricos y enebro, su corazón tiene jazmín, chocolate y abeto balsámico y se asienta sobre madera de ámbar y musgo."
    },
+   "similar": [
+    {
+     "name": "Baccarat Rouge 540",
+     "brand": "MFK",
+     "up": 32,
+     "down": 5
+    },
+    {
+     "name": "Nọ 4 - Après l’Amour Eau de Parfum",
+     "brand": "Thomas Kosmala",
+     "up": 9,
+     "down": 2
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 101640,
    "rateSource": "fila"
   },
@@ -3577,6 +4753,8 @@
    "name": "PLACID EDP 100ML MASC",
    "image": "",
    "usd": 99.0,
+   "genderSource": "nombre",
+   "gender": "hombre",
    "ars": 152460,
    "rateSource": "fila"
   },
@@ -3613,6 +4791,11 @@
     },
     "description": "Fragancia femenina. De perfil rosa, floral blanco y ámbar. Abre con rosa y azafrán, su corazón tiene jazmín y violeta y se asienta sobre ámbar y oud."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 137060,
    "rateSource": "fila"
   },
@@ -3665,6 +4848,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, aromático y especiado fresco. Abre con mandarina, jengibre y limón, su corazón tiene acorde fougère, lavanda y haba tonka y se asienta sobre vetiver, ámbar y pachulí."
    },
+   "similar": [
+    {
+     "name": "Tygar",
+     "brand": "Bvlgari",
+     "up": 30,
+     "down": 7
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -3709,6 +4905,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, ámbar y especiado fresco. Abre con limón, pomelo y jengibre, su corazón tiene madera de cachemira, haba tonka y violeta y se asienta sobre ambroxan, almizcle blanco y pachulí."
    },
+   "similar": [
+    {
+     "name": "Tygar",
+     "brand": "Bvlgari",
+     "up": 40,
+     "down": 7
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -3746,6 +4956,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil amaderado, especiado cálido y aromático. Abre con cardamomo y papiro, su corazón tiene hisopo, olíbano y zanahoria y se asienta sobre sándalo y madera de cachemira."
    },
+   "similar": [
+    {
+     "name": "Santal 33",
+     "brand": "Le Labo",
+     "up": 19,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -3784,6 +5008,25 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, avellanado y cacao. Abre con avellana y cacao, su corazón tiene cedro y jazmín sambac y se asienta sobre caramelo, ambroxan y musgo de roble."
    },
+   "similar": [
+    {
+     "name": "TriBeCa",
+     "brand": "Bond No. 9",
+     "up": 44,
+     "down": 6
+    },
+    {
+     "name": "Baccarat Rouge 540 Extrait de Parfum",
+     "brand": "MFK",
+     "up": 21,
+     "down": 7
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Dulce/Gourmand"
+   ],
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -3834,6 +5077,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, dulce y amaderado. Abre con durazno, pimienta rosa y bergamota, su corazón tiene azahar, nardo y jazmín y se asienta sobre praliné, ámbar y sándalo."
    },
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand",
+    "Amaderado"
+   ],
    "ars": 109340,
    "rateSource": "fila"
   },
@@ -3872,6 +5121,19 @@
     },
     "description": "Fragancia unisex lanzada en 2021. De perfil rosa, frutal y atalcado. Abre con notas frutales, su corazón tiene rosa y jazmín y se asienta sobre vainilla, almizcle y ámbar."
    },
+   "similar": [
+    {
+     "name": "Roses Vanille",
+     "brand": "Mancera",
+     "up": 203,
+     "down": 161
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Frutal"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -3915,6 +5177,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil frutal, tropical y cuero. Abre con guayaba, pomelo rosado y lichi, su corazón tiene rosa, peonía y magnolia y se asienta sobre cuero, almizcle y ámbar gris."
    },
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Oriental/Ámbar"
+   ],
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -3956,6 +5223,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil frutal, dulce y especiado suave. Abre con pimienta rosa, salvia y bergamota, su corazón tiene ciruela, pimienta negra y jazmín y se asienta sobre cuero saffiano, ámbar y pachulí."
    },
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand",
+    "Especiado"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -3998,6 +5271,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil aromático, especiado fresco y especiado cálido. Abre con cardamomo, jengibre y bergamota, su corazón tiene lavanda, geranio y menta y se asienta sobre ámbar, cedro y pachulí."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -4035,6 +5313,26 @@
     },
     "description": "Fragancia unisex. De perfil almizclado, atalcado y cítrico. Abre con bergamota y naranja, su corazón tiene vainilla y pera y se asienta sobre almizcle y ámbar."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 733,
+     "down": 91
+    },
+    {
+     "name": "Kirkè",
+     "brand": "Tiziana Terenzi",
+     "up": 318,
+     "down": 89
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -4074,6 +5372,26 @@
     },
     "description": "Fragancia unisex lanzada en 2016. De perfil cítrico, ámbar y caramelo. Abre con pera nashi, kumquat y bergamota, su corazón tiene caramelo y geranio y se asienta sobre ámbar gris, almizcle y musgo de roble."
    },
+   "similar": [
+    {
+     "name": "Baccarat Rouge 540 Extrait de Parfum",
+     "brand": "MFK",
+     "up": 350,
+     "down": 122
+    },
+    {
+     "name": "Cloud",
+     "brand": "Ariana Grande",
+     "up": 211,
+     "down": 99
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar",
+    "Dulce/Gourmand"
+   ],
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -4115,6 +5433,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lavanda. Abre con jengibre, mandarina y pimienta rosa, su corazón tiene lavanda, praliné y cacao y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Goddess Intense",
+     "brand": "Burberry",
+     "up": 159,
+     "down": 130
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -4166,6 +5497,11 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil especiado cálido, dulce y vainilla. Abre con canela, cardamomo y jengibre, su corazón tiene praliné, frutas confitadas y flores blancas y se asienta sobre vainilla, café y haba tonka."
    },
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Dulce/Gourmand"
+   ],
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -4214,6 +5550,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil dulce, frutal y cítrico. Abre con mandarina y pera, su corazón tiene notas dulces, jazmín y rosa y se asienta sobre almizcle, vainilla y frambuesa."
    },
+   "similar": [
+    {
+     "name": "Oriana",
+     "brand": "Parfums de Marly",
+     "up": 679,
+     "down": 82
+    },
+    {
+     "name": "Love Don't Be Shy",
+     "brand": "Kilian",
+     "up": 391,
+     "down": 229
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Fresco/Cítrico"
+   ],
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -4264,6 +5620,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil vainilla, dulce y lavanda. Abre con jengibre, mandarina y pimienta rosa, su corazón tiene lavanda, praliné y cacao y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Goddess Intense",
+     "brand": "Burberry",
+     "up": 159,
+     "down": 130
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -4306,6 +5675,12 @@
     },
     "description": "Fragancia masculina lanzada en 2021. De perfil ámbar, especiado fresco y amaderado. Abre con pimienta negra, tabaco y ananá, su corazón tiene pachulí, café y iris y se asienta sobre vainilla, ámbar y madera seca."
    },
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado",
+    "Amaderado"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -4346,6 +5721,24 @@
     },
     "description": "Fragancia masculina lanzada en 2025. De perfil vainilla, cacao y dulce. Abre con lavanda, ciruela mirabel y pimienta rosa, su corazón tiene cacao, nuez moscada y davana y se asienta sobre vainilla bourbon, ámbar y vetiver."
    },
+   "similar": [
+    {
+     "name": "The Most Wanted",
+     "brand": "Azzaro",
+     "up": 936,
+     "down": 212
+    },
+    {
+     "name": "Valentino Uomo Born In Roma Intense",
+     "brand": "Valentino",
+     "up": 796,
+     "down": 231
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 87780,
    "rateSource": "fila"
   },
@@ -4384,6 +5777,11 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil vainilla, iris y atalcado. Abre con lavanda y pimienta negra, su corazón tiene agua de coco, iris y sal y se asienta sobre vainilla y incienso."
    },
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -4425,6 +5823,25 @@
     },
     "description": "Fragancia masculina lanzada en 2025. De perfil aromático, marino y jabonoso. Abre con notas marinas, lavanda y pimienta rosa, su corazón tiene jabón, cashmeran y canela y se asienta sobre ámbar, sándalo y cedro."
    },
+   "similar": [
+    {
+     "name": "Invictus Parfum",
+     "brand": "Rabanne",
+     "up": 131,
+     "down": 49
+    },
+    {
+     "name": "Invictus",
+     "brand": "Rabanne",
+     "up": 43,
+     "down": 14
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Acuático"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -4500,6 +5917,26 @@
     },
     "description": "Fragancia unisex lanzada en 2021. De perfil rosa, oud y ámbar. Abre con pimienta rosa y bergamota, su corazón tiene rosa turca, rosa búlgara y jazmín y se asienta sobre oud, ámbar y vainilla."
    },
+   "similar": [
+    {
+     "name": "Atomic Rose",
+     "brand": "Initio",
+     "up": 393,
+     "down": 379
+    },
+    {
+     "name": "Flamenco",
+     "brand": "Ramon Monegal",
+     "up": 118,
+     "down": 110
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Oud",
+    "Oriental/Ámbar"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -4539,6 +5976,25 @@
     },
     "description": "Fragancia unisex lanzada en 2020. De perfil oud, especiado cálido y especiado fresco. Abre con azafrán, nuez moscada y lavanda, su corazón tiene oud y pachulí y se asienta sobre oud, pachulí y almizcle."
    },
+   "similar": [
+    {
+     "name": "Haltane",
+     "brand": "Parfums de Marly",
+     "up": 471,
+     "down": 183
+    },
+    {
+     "name": "Eternal Wood",
+     "brand": "Mancera",
+     "up": 40,
+     "down": 19
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oud",
+    "Especiado"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -4580,6 +6036,20 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil dulce, especiado cálido y frutal. Abre con ananá y crème brûlée, su corazón tiene canela, cúrcuma y pimienta negra y se asienta sobre vainilla, sándalo y cashmeran."
    },
+   "similar": [
+    {
+     "name": "1 Million Black",
+     "brand": "Rabanne",
+     "up": 73,
+     "down": 67
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Especiado",
+    "Frutal"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -4617,6 +6087,11 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil dulce, atalcado y vainilla. Abre con leche de rosas, su corazón tiene merengue y almendrado y se asienta sobre vainilla, sándalo y almizcle."
    },
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -4656,6 +6131,25 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil frutal, fresco y tropical. Abre con manzana, lichi y rosa, su corazón tiene ciruela y jazmín y se asienta sobre musgo, vainilla y pachulí."
    },
+   "similar": [
+    {
+     "name": "Eden Juicy Apple | 01 Eau De Parfum",
+     "brand": "Kayali",
+     "up": 412,
+     "down": 113
+    },
+    {
+     "name": "Thank U Next 2.0",
+     "brand": "Ariana Grande",
+     "up": 60,
+     "down": 33
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Fresco/Cítrico"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -4698,6 +6192,20 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, especiado fresco y amaderado. Abre con cítricos, bergamota y ciprés, su corazón tiene notas marinas, notas amaderadas y olíbano y se asienta sobre almizcle, ámbar gris y láudano."
    },
+   "similar": [
+    {
+     "name": "Allure Homme Sport",
+     "brand": "Chanel",
+     "up": 95,
+     "down": 48
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Amaderado"
+   ],
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -4737,6 +6245,24 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil dulce, vainilla y caramelo. Abre con caramelo, leche y azúcar, su corazón tiene miel y flores blancas y se asienta sobre vainilla, praliné y almizcle."
    },
+   "similar": [
+    {
+     "name": "Vanilla Haze",
+     "brand": "Fugazzi",
+     "up": 165,
+     "down": 135
+    },
+    {
+     "name": "Bianco Latte Limited Edition",
+     "brand": "Giardini di Toscana",
+     "up": 33,
+     "down": 13
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -4780,6 +6306,20 @@
     },
     "description": "Fragancia unisex lanzada en 2015. De perfil frutal, floral blanco y dulce. Abre con durazno, pera y naranja, su corazón tiene azahar, rosa y jazmín sambac y se asienta sobre vainilla, pachulí y sándalo."
    },
+   "similar": [
+    {
+     "name": "L'Interdit Eau de Parfum",
+     "brand": "Givenchy",
+     "up": 10,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -4819,6 +6359,20 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil ámbar, amaderado y nardo. Abre con nardo y sal, su corazón tiene ámbar, cashmeran y haba tonka y se asienta sobre cedro, vetiver y láudano."
    },
+   "similar": [
+    {
+     "name": "1 Million Parfum",
+     "brand": "Rabanne",
+     "up": 17,
+     "down": 2
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Amaderado",
+    "Floral"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -4828,6 +6382,8 @@
    "name": "FAKHAR ROSE GOLD EDP 100ML FEM",
    "image": "",
    "usd": 52.0,
+   "genderSource": "nombre",
+   "gender": "mujer",
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -4869,6 +6425,11 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil dulce, especiado cálido y vainilla. Abre con canela, azahar y cardamomo, su corazón tiene vainilla bourbon y elemí y se asienta sobre praliné, ambroxan y almizcle."
    },
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Especiado"
+   ],
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -4911,6 +6472,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, frutal y floral blanco. Abre con champán, frutilla y mandarina, su corazón tiene gardenia, jazmín y orquídea de vainilla y se asienta sobre ámbar, sándalo y castaña."
    },
+   "similar": [
+    {
+     "name": "Ari",
+     "brand": "Ariana Grande",
+     "up": 69,
+     "down": 65
+    },
+    {
+     "name": "Flora by Gucci Gorgeous Gardenia",
+     "brand": "Gucci",
+     "up": 64,
+     "down": 40
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Floral"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -4953,6 +6534,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil ámbar, especiado fresco y almizclado. Abre con pimienta rosa, bergamota y jengibre, su corazón tiene cedro, incienso y notas amaderadas y se asienta sobre almizcle, ámbar gris y ámbar."
    },
+   "similar": [
+    {
+     "name": "Phantom",
+     "brand": "Rabanne",
+     "up": 206,
+     "down": 19
+    },
+    {
+     "name": "Phantom Parfum",
+     "brand": "Rabanne",
+     "up": 60,
+     "down": 24
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -4985,6 +6585,20 @@
     },
     "description": "Fragancia femenina lanzada en 2023. De perfil cítrico, dulce y floral. Destacan notas florales, notas dulces, cítricos y pomelo rosado."
    },
+   "similar": [
+    {
+     "name": "Very Good Girl",
+     "brand": "Carolina Herrera",
+     "up": 224,
+     "down": 69
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -5026,6 +6640,19 @@
     },
     "description": "Fragancia unisex. De perfil cuero, cítrico y animálico. Abre con bergamota, pomelo y cassis, su corazón tiene cuero, azafrán y durazno y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Armani Code Profumo",
+     "brand": "Armani",
+     "up": 114,
+     "down": 60
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Fresco/Cítrico"
+   ],
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -5072,6 +6699,26 @@
     },
     "description": "Fragancia unisex lanzada en 2020. De perfil frutal, almizclado y canela. Abre con manzana y bergamota, su corazón tiene canela y notas amaderadas y se asienta sobre almizcle y vainilla."
    },
+   "similar": [
+    {
+     "name": "Invictus",
+     "brand": "Rabanne",
+     "up": 400,
+     "down": 70
+    },
+    {
+     "name": "Legend Spirit",
+     "brand": "Montblanc",
+     "up": 67,
+     "down": 45
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -5112,6 +6759,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil vainilla, floral blanco y nardo. Abre con canela y mystikal, su corazón tiene nardo, jazmín y incienso y se asienta sobre vainilla, almizcle y haba tonka."
    },
+   "similar": [
+    {
+     "name": "Sogno In Rosso",
+     "brand": "Valentino",
+     "up": 26,
+     "down": 10
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 80080,
    "rateSource": "fila"
   },
@@ -5152,6 +6812,26 @@
     },
     "description": "Fragancia unisex lanzada en 2019. De perfil atalcado, amaderado y vainilla. Abre con frutos rojos, durazno y bergamota, su corazón tiene jazmín, peonía y lirio rojo y se asienta sobre sándalo, flor de vainilla y almizcle."
    },
+   "similar": [
+    {
+     "name": "More Than Words",
+     "brand": "Xerjoff",
+     "up": 149,
+     "down": 130
+    },
+    {
+     "name": "Armani Privé Rose d'Arabie",
+     "brand": "Armani",
+     "up": 77,
+     "down": 70
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Amaderado",
+    "Dulce/Gourmand"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -5196,6 +6876,26 @@
     },
     "description": "Fragancia unisex lanzada en 2020. De perfil amaderado, especiado fresco y cuero. Abre con pimienta negra, pimienta rosa y azafrán, su corazón tiene aceite de cade, láudano y bálsamo de gurjun y se asienta sobre cuero, cedro y madera de guayaco."
    },
+   "similar": [
+    {
+     "name": "Terroni",
+     "brand": "Orto Parisi",
+     "up": 378,
+     "down": 161
+    },
+    {
+     "name": "Wood On Fire",
+     "brand": "Montale",
+     "up": 63,
+     "down": 49
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -5234,6 +6934,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cacao, dulce y especiado cálido. Abre con frutilla y bergamota, su corazón tiene mermelada de cereza y cacao y se asienta sobre vainilla, ámbar y pachulí."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Especiado"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -5276,6 +6981,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral, acuático y frutal. Abre con mandarina verde, higo y melón, su corazón tiene loto, nenúfar y jazmín y se asienta sobre almizcle, ambroxan y sándalo."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Acuático",
+    "Frutal"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -5325,6 +7036,12 @@
     },
     "description": "Fragancia femenina. De perfil rosa, almizclado y frutal. Abre con rosa, lichi y pimienta rosa, su corazón tiene rosa, almizcle y muguet y se asienta sobre almizcle, vainilla y pachulí."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar",
+    "Frutal"
+   ],
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -5369,6 +7086,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, amaderado y especiado fresco. Abre con ananá, lima y bergamota, su corazón tiene muguet, incienso y jazmín y se asienta sobre pachulí, notas amaderadas y humo."
    },
+   "similar": [
+    {
+     "name": "Hacivat",
+     "brand": "Nishane",
+     "up": 135,
+     "down": 25
+    },
+    {
+     "name": "Hacivat X",
+     "brand": "Nishane",
+     "up": 20,
+     "down": 8
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 98560,
    "rateSource": "fila"
   },
@@ -5408,6 +7145,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil frutal, especiado cálido y canela. Abre con davana, su corazón tiene ciruela, canela y osmanthus y se asienta sobre láudano, pachulí y almizcle."
    },
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Especiado"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -5449,6 +7191,25 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil cuero, ámbar y especiado cálido. Abre con cuero, láudano y azafrán, su corazón tiene abedul, aceite de cade y pachulí y se asienta sobre cuero, oud y bálsamo de Tolú."
    },
+   "similar": [
+    {
+     "name": "Falcon Leather",
+     "brand": "Matière Première",
+     "up": 47,
+     "down": 22
+    },
+    {
+     "name": "Blue Sapphire",
+     "brand": "Boadicea",
+     "up": 6,
+     "down": 5
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -5487,6 +7248,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil ámbar, rosa y almizclado. Abre con rosa, jengibre y pera, su corazón tiene ambroxan y azahar y se asienta sobre ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Radical Rose",
+     "brand": "Matière Première",
+     "up": 8,
+     "down": 4
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Floral"
+   ],
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -5536,6 +7310,20 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cuero, oud y especiado cálido. Abre con frambuesa y azafrán, su corazón tiene cuero y pachulí y se asienta sobre oud, ámbar y benjuí."
    },
+   "similar": [
+    {
+     "name": "Oud Pashmina",
+     "brand": "Montale",
+     "up": 19,
+     "down": 17
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Oud",
+    "Especiado"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -5578,6 +7366,26 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, oud y atalcado. Abre con cardamomo, heliotropo y pimienta rosa, su corazón tiene almendrado, jazmín y lavanda y se asienta sobre oud, madera de guayaco y sándalo."
    },
+   "similar": [
+    {
+     "name": "Pegasus Exclusif",
+     "brand": "Parfums de Marly",
+     "up": 51,
+     "down": 26
+    },
+    {
+     "name": "Pegasus",
+     "brand": "Parfums de Marly",
+     "up": 16,
+     "down": 12
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Oud",
+    "Floral"
+   ],
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -5621,6 +7429,25 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil ámbar, dulce y vainilla. Abre con olíbano, davana y bergamota, su corazón tiene dátiles, tabaco y sándalo y se asienta sobre mirra, vainilla y haba tonka."
    },
+   "similar": [
+    {
+     "name": "Blonde Amber",
+     "brand": "Clive Christian",
+     "up": 278,
+     "down": 117
+    },
+    {
+     "name": "The One Luminous Night",
+     "brand": "Dolce&Gabbana",
+     "up": 61,
+     "down": 60
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Dulce/Gourmand"
+   ],
    "ars": 84700,
    "rateSource": "fila"
   },
@@ -5662,6 +7489,20 @@
     },
     "description": "Fragancia unisex. De perfil dulce, frutal y cítrico. Abre con pera, ananá y mandarina, su corazón tiene magnolia y jazmín sambac y se asienta sobre praliné, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Baciami",
+     "brand": "Bvlgari",
+     "up": 81,
+     "down": 35
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Fresco/Cítrico"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -5701,6 +7542,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cuero, vainilla y almizclado. Abre con caramelo y azafrán, su corazón tiene gamuza, cuero y haba tonka y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Rosendo Mateu Nº 5 Floral, Amber, Sensual Musk",
+     "brand": "Rosendo Mateu",
+     "up": 488,
+     "down": 85
+    },
+    {
+     "name": "Babycat",
+     "brand": "YSL",
+     "up": 260,
+     "down": 177
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Dulce/Gourmand"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -5740,6 +7600,20 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil dulce, frutal y cítrico. Abre con limón y bergamota, su corazón tiene ananá y pimienta negra y se asienta sobre vainilla, madera de ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "1 Million Lucky",
+     "brand": "Rabanne",
+     "up": 416,
+     "down": 66
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Fresco/Cítrico"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -5780,6 +7654,26 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil amaderado, cereza y ámbar. Abre con cereza negra y azafrán, su corazón tiene incienso, osmanthus y amyris y se asienta sobre notas balsámicas, madera de guayaco y estoraque."
    },
+   "similar": [
+    {
+     "name": "Cherry Smoke",
+     "brand": "Tom Ford",
+     "up": 186,
+     "down": 40
+    },
+    {
+     "name": "Infinity",
+     "brand": "Montale",
+     "up": 30,
+     "down": 27
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Frutal",
+    "Oriental/Ámbar"
+   ],
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -5823,6 +7717,25 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil floral blanco, dulce y atalcado. Abre con bergamota y mate, su corazón tiene raíz de iris, jazmín y haba tonka y se asienta sobre chocolate blanco, vainilla y tabaco blanco."
    },
+   "similar": [
+    {
+     "name": "Dior Homme Intense 2011",
+     "brand": "Dior",
+     "up": 63,
+     "down": 42
+    },
+    {
+     "name": "Gentleman Eau de Parfum Reserve Privée",
+     "brand": "Givenchy",
+     "up": 10,
+     "down": 7
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 89320,
    "rateSource": "fila"
   },
@@ -5863,6 +7776,18 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil vainilla, dulce y cacao. Abre con frutos rojos y mandarina, su corazón tiene vainilla, cacao y rosa y se asienta sobre azúcar, haba tonka y almizcle."
    },
+   "similar": [
+    {
+     "name": "Sugar Blast",
+     "brand": "Initio",
+     "up": 72,
+     "down": 28
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 69300,
    "rateSource": "fila"
   },
@@ -5899,6 +7824,20 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil cítrico, amaderado y ámbar. Abre con mandarina, limón y bergamota, su corazón tiene cedro y se asienta sobre sándalo y ámbar."
    },
+   "similar": [
+    {
+     "name": "Tygar",
+     "brand": "Bvlgari",
+     "up": 82,
+     "down": 63
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Oriental/Ámbar"
+   ],
    "ars": 93940,
    "rateSource": "fila"
   },
@@ -5937,6 +7876,24 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil terroso, musgoso y amaderado. Abre con bergamota y cassis, su corazón tiene pachulí y rosa y se asienta sobre musgo de roble, almizcle y ámbar."
    },
+   "similar": [
+    {
+     "name": "Aventus",
+     "brand": "Creed",
+     "up": 156,
+     "down": 27
+    },
+    {
+     "name": "Hacivat",
+     "brand": "Nishane",
+     "up": 70,
+     "down": 39
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -5984,6 +7941,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, cítrico y vainilla. Abre con lavanda y bergamota, su corazón tiene azahar y jazmín egipcio y se asienta sobre vainilla, ámbar y vetiver."
    },
+   "similar": [
+    {
+     "name": "Libre Intense",
+     "brand": "YSL",
+     "up": 320,
+     "down": 74
+    },
+    {
+     "name": "Libre",
+     "brand": "YSL",
+     "up": 108,
+     "down": 78
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -6022,6 +7999,25 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil aromático, verde y especiado fresco. Abre con menta y bergamota, su corazón tiene salvia esclarea y lavanda y se asienta sobre vetiver, almizcle y cedro."
    },
+   "similar": [
+    {
+     "name": "Ralph's Club Parfum",
+     "brand": "Ralph Lauren",
+     "up": 69,
+     "down": 18
+    },
+    {
+     "name": "Ralph's Club",
+     "brand": "Ralph Lauren",
+     "up": 50,
+     "down": 6
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -6063,6 +8059,18 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil dulce, vainilla y coco. Abre con coco, ananá y cítricos, su corazón tiene ylang-ylang, frangipani y jazmín y se asienta sobre vainilla, almizcle y sándalo."
    },
+   "similar": [
+    {
+     "name": "Coco Vanille",
+     "brand": "Mancera",
+     "up": 239,
+     "down": 207
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -6108,6 +8116,20 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil ámbar, aromático y especiado cálido. Abre con canela, mandarina y cardamomo, su corazón tiene caramelo, lavanda y salvia esclarea y se asienta sobre ámbar, cedro y olíbano."
    },
+   "similar": [
+    {
+     "name": "Eros Najim",
+     "brand": "Versace",
+     "up": 343,
+     "down": 45
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 61600,
    "rateSource": "mediana"
   },
@@ -6149,6 +8171,18 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil dulce, vainilla y coco. Abre con coco, ananá y cítricos, su corazón tiene ylang-ylang, frangipani y jazmín y se asienta sobre vainilla, almizcle y sándalo."
    },
+   "similar": [
+    {
+     "name": "Coco Vanille",
+     "brand": "Mancera",
+     "up": 239,
+     "down": 207
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -6187,6 +8221,11 @@
     },
     "description": "Fragancia masculina. De perfil aromático, amaderado y lavanda. Abre con agarwood (oud) y cedro, su corazón tiene lavanda, salvia y romero y se asienta sobre pachulí y vetiver."
    },
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -6226,6 +8265,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, vainilla y almendrado. Abre con almendrado y café, su corazón tiene jazmín, nardo y haba tonka y se asienta sobre vainilla, cacao y sándalo."
    },
+   "similar": [
+    {
+     "name": "Good Girl",
+     "brand": "Carolina Herrera",
+     "up": 447,
+     "down": 47
+    },
+    {
+     "name": "Good Girl Glitter Collector",
+     "brand": "Carolina Herrera",
+     "up": 17,
+     "down": 11
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -6270,6 +8328,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, caramelo y frutal. Abre con caramelo, almendra amarga y damasco, su corazón tiene miel, ruibarbo y flores blancas y se asienta sobre cuero, vainilla y almizcle."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -6308,6 +8371,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil ámbar, especiado cálido y frutal. Abre con azafrán y bergamota, su corazón tiene licor de ciruela y canela y se asienta sobre ámbar, haba tonka y benjuí."
    },
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Especiado",
+    "Frutal"
+   ],
    "ars": 75460,
    "rateSource": "fila"
   },
@@ -6349,6 +8418,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil dulce, frutal y fresco. Abre con pera, peonía y cassis, su corazón tiene praliné, jazmín y haba tonka y se asienta sobre vainilla, almizcle y sándalo."
    },
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Fresco/Cítrico"
+   ],
    "ars": 66220,
    "rateSource": "fila"
   },
@@ -6389,6 +8464,11 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil vainilla, aromático y dulce. Abre con lavanda, menta y salvia, su corazón tiene vainilla, tabaco y azahar y se asienta sobre haba tonka, benjuí y láudano."
    },
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
@@ -6437,6 +8517,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil vainilla, frutal y atalcado. Abre con grosella negra y mandarina verde, su corazón tiene caramelo efervescente de frutilla y gardenia y se asienta sobre vainilla, almizcle y ámbar."
    },
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal",
+    "Floral"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -6477,6 +8563,26 @@
     },
     "description": "Fragancia femenina lanzada en 2023. De perfil tropical, dulce y floral blanco. Abre con mango, coco y maracuyá, su corazón tiene jazmín, azahar y heliotropo y se asienta sobre vainilla, almizcle y cashmeran."
    },
+   "similar": [
+    {
+     "name": "Fame",
+     "brand": "Rabanne",
+     "up": 506,
+     "down": 214
+    },
+    {
+     "name": "Yum me, Sunny!",
+     "brand": "Escada",
+     "up": 14,
+     "down": 12
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -6514,6 +8620,19 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil amaderado, floral blanco y pachulí. Abre con jazmín y durazno, su corazón tiene caramelo y ámbar y se asienta sobre pachulí y sándalo."
    },
+   "similar": [
+    {
+     "name": "Perfect Intense",
+     "brand": "Marc Jacobs",
+     "up": 177,
+     "down": 102
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Amaderado",
+    "Floral"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -6564,6 +8683,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y cítrico. Abre con azahar, grosella negra y bergamota, su corazón tiene nardo, jazmín y caléndula y se asienta sobre almizcle, vainilla y cedro."
    },
+   "similar": [
+    {
+     "name": "My Way",
+     "brand": "Armani",
+     "up": 174,
+     "down": 34
+    },
+    {
+     "name": "My Way Intense",
+     "brand": "Armani",
+     "up": 62,
+     "down": 21
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -6599,6 +8737,11 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil aromático, floral y atalcado. Abre con enebro, su corazón tiene damasco y flor de damasco y se asienta sobre flor de algodón."
    },
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral"
+   ],
    "ars": 50820,
    "rateSource": "mediana"
   },
@@ -6638,6 +8781,20 @@
     },
     "description": "Fragancia femenina lanzada en 2023. De perfil frutal, rosa y dulce. Abre con frambuesa, lichi y hoja de violeta, su corazón tiene rosa, peonía y jazmín y se asienta sobre vainilla y almizcle."
    },
+   "similar": [
+    {
+     "name": "Angel Nova",
+     "brand": "Mugler",
+     "up": 82,
+     "down": 5
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 38500,
    "rateSource": "fila"
   },
@@ -6686,6 +8843,20 @@
     },
     "description": "Fragancia unisex lanzada en 2021. De perfil amaderado, vainilla y floral blanco. Abre con bergamota, pasto y ylang-ylang, su corazón tiene durazno, lirio y flor de pera y se asienta sobre madera de cachemira, ébano y vainilla."
    },
+   "similar": [
+    {
+     "name": "Andromeda",
+     "brand": "Tiziana Terenzi",
+     "up": 85,
+     "down": 13
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 100100,
    "rateSource": "fila"
   },
@@ -6726,6 +8897,25 @@
     },
     "description": "Fragancia masculina. De perfil aromático, cítrico y amaderado. Abre con mandarina, menta y ciprés, su corazón tiene cedro y pimienta y se asienta sobre haba tonka, almizcle y sándalo."
    },
+   "similar": [
+    {
+     "name": "Allure Homme Sport",
+     "brand": "Chanel",
+     "up": 403,
+     "down": 53
+    },
+    {
+     "name": "Versace Pour Homme",
+     "brand": "Versace",
+     "up": 167,
+     "down": 74
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -6777,6 +8967,20 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, dulce y amaderado. Abre con bergamota, almendrado y café, su corazón tiene nardo, azahar y jazmín sambac y se asienta sobre haba tonka, vainilla y almizcle."
    },
+   "similar": [
+    {
+     "name": "Good Girl",
+     "brand": "Carolina Herrera",
+     "up": 109,
+     "down": 8
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand",
+    "Amaderado"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -6818,6 +9022,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, floral blanco y atalcado. Abre con bergamota, flor de pomelo y durazno, su corazón tiene rosa, jazmín y iris y se asienta sobre almizcle blanco, vainilla y vetiver."
    },
+   "similar": [
+    {
+     "name": "Chance Eau Tendre",
+     "brand": "Chanel",
+     "up": 254,
+     "down": 27
+    },
+    {
+     "name": "Daisy",
+     "brand": "Marc Jacobs",
+     "up": 31,
+     "down": 22
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral"
+   ],
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -6863,6 +9086,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil cítrico, amaderado y dulce. Abre con bergamota, naranja y azahar, su corazón tiene rosa turca, jazmín y mimosa y se asienta sobre pachulí, vetiver y vainilla."
    },
+   "similar": [
+    {
+     "name": "Coco Mademoiselle",
+     "brand": "Chanel",
+     "up": 127,
+     "down": 5
+    },
+    {
+     "name": "Coco Mademoiselle Eau de Toilette",
+     "brand": "Chanel",
+     "up": 22,
+     "down": 3
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado",
+    "Dulce/Gourmand"
+   ],
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -6903,6 +9146,25 @@
     },
     "description": "Fragancia femenina lanzada en 2023. De perfil rosa, floral y frutal. Abre con ruibarbo, lichi y bergamota, su corazón tiene rosa turca, peonía y lirio y se asienta sobre almizcle blanco, cashmeran y vainilla."
    },
+   "similar": [
+    {
+     "name": "Delina",
+     "brand": "Parfums de Marly",
+     "up": 418,
+     "down": 53
+    },
+    {
+     "name": "Delina Exclusif",
+     "brand": "Parfums de Marly",
+     "up": 67,
+     "down": 61
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Frutal"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -6912,6 +9174,8 @@
    "name": "DELILAH WHITE FEMME EDP 100ML",
    "image": "",
    "usd": 53.0,
+   "genderSource": "nombre",
+   "gender": "mujer",
    "ars": 81620,
    "rateSource": "fila"
   },
@@ -6950,6 +9214,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil oud, especiado fresco y pachulí. Abre con nuez moscada y lavanda, su corazón tiene agarwood (oud) y pachulí y se asienta sobre agarwood (oud), pachulí y almizcle."
    },
+   "similar": [
+    {
+     "name": "Oud for Greatness",
+     "brand": "Initio",
+     "up": 52,
+     "down": 6
+    },
+    {
+     "name": "Oud for Happiness",
+     "brand": "Initio",
+     "up": 5,
+     "down": 2
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Oud",
+    "Especiado"
+   ],
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -6998,6 +9281,19 @@
     },
     "description": "Fragancia unisex lanzada en 2023. De perfil rosa, floral y ámbar. Abre con pimienta rosa, bergamota y hedione, su corazón tiene rosa búlgara, rosa turca y jazmín egipcio y se asienta sobre ámbar y vainilla de Madagascar."
    },
+   "similar": [
+    {
+     "name": "Atomic Rose",
+     "brand": "Initio",
+     "up": 302,
+     "down": 42
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 49280,
    "rateSource": "fila"
   },
@@ -7048,6 +9344,19 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil especiado fresco, cítrico y aromático. Abre con jengibre, pomelo y bergamota, su corazón tiene romero, notas acuáticas y salvia y se asienta sobre ambroxan, ámbar y láudano."
    },
+   "similar": [
+    {
+     "name": "L’Immensité",
+     "brand": "Louis Vuitton",
+     "up": 987,
+     "down": 404
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 64680,
    "rateSource": "fila"
   },
@@ -7086,6 +9395,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil rosa, oud y pachulí. Abre con narciso y jazmín, su corazón tiene rosa y ciclamen y se asienta sobre oud, pachulí y incienso."
    },
+   "similar": [
+    {
+     "name": "Matière Noire",
+     "brand": "Louis Vuitton",
+     "up": 87,
+     "down": 31
+    },
+    {
+     "name": "Noir de Noir",
+     "brand": "Tom Ford",
+     "up": 16,
+     "down": 12
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oud"
+   ],
    "ars": 47740,
    "rateSource": "fila"
   },
@@ -7126,6 +9454,12 @@
     },
     "description": "Fragancia unisex. De perfil ámbar, oud y rosa. Abre con oud y incienso, su corazón tiene rosa, frambuesa y azafrán y se asienta sobre ámbar, benjuí y geranio."
    },
+   "gender": "unisex",
+   "families": [
+    "Oriental/Ámbar",
+    "Oud",
+    "Floral"
+   ],
    "ars": 61600,
    "rateSource": "fila"
   },
@@ -7175,6 +9509,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y amaderado. Abre con pera y bergamota, su corazón tiene nardo, azahar y jazmín sambac y se asienta sobre pachulí, ambroxan y vainilla."
    },
+   "similar": [
+    {
+     "name": "L'Interdit Eau de Parfum",
+     "brand": "Givenchy",
+     "up": 59,
+     "down": 1
+    },
+    {
+     "name": "L'Interdit Hair Mist",
+     "brand": "Givenchy",
+     "up": 24,
+     "down": 4
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Amaderado"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -7235,6 +9588,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, cítrico y lavanda. Abre con lavanda, mandarina y petitgrain, su corazón tiene lavanda, azahar y jazmín y se asienta sobre almizcle, vainilla y cedro."
    },
+   "similar": [
+    {
+     "name": "Libre",
+     "brand": "YSL",
+     "up": 185,
+     "down": 13
+    },
+    {
+     "name": "Libre Intense",
+     "brand": "YSL",
+     "up": 15,
+     "down": 3
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -7277,6 +9649,26 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, vainilla y cítrico. Abre con lavanda, mandarina y grosella negra, su corazón tiene lavanda, jazmín y azahar y se asienta sobre vainilla de Madagascar, ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Libre Intense",
+     "brand": "YSL",
+     "up": 97,
+     "down": 8
+    },
+    {
+     "name": "Libre",
+     "brand": "YSL",
+     "up": 16,
+     "down": 3
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 52360,
    "rateSource": "fila"
   },
@@ -7324,6 +9716,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, especiado fresco y ámbar. Abre con pomelo, aldehídos y limón, su corazón tiene jengibre, jazmín y nuez moscada y se asienta sobre ámbar, pachulí y láudano."
    },
+   "similar": [
+    {
+     "name": "Bleu de Chanel Eau de Parfum",
+     "brand": "Chanel",
+     "up": 67,
+     "down": 28
+    },
+    {
+     "name": "Bleu de Chanel",
+     "brand": "Chanel",
+     "up": 36,
+     "down": 8
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -7367,6 +9779,25 @@
     },
     "description": "Fragancia unisex lanzada en 2025. De perfil cítrico, floral blanco y aromático. Abre con limón, mandarina y bergamota, su corazón tiene neroli, azahar y jazmín y se asienta sobre angélica, ámbar y ambreta."
    },
+   "similar": [
+    {
+     "name": "Neroli Portofino",
+     "brand": "Tom Ford",
+     "up": 108,
+     "down": 10
+    },
+    {
+     "name": "Bvlgari Man Wood Neroli",
+     "brand": "Bvlgari",
+     "up": 8,
+     "down": 6
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Floral"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -7407,6 +9838,25 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil vainilla, almendrado y atalcado. Abre con heliotropo, comino y bergamota, su corazón tiene almendrado, lavanda y jazmín y se asienta sobre vainilla, ámbar y sándalo."
    },
+   "similar": [
+    {
+     "name": "Pegasus",
+     "brand": "Parfums de Marly",
+     "up": 259,
+     "down": 14
+    },
+    {
+     "name": "Guilty Elixir de Parfum pour Homme",
+     "brand": "Gucci",
+     "up": 9,
+     "down": 3
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -7450,6 +9900,26 @@
     },
     "description": "Fragancia masculina lanzada en 2023. De perfil almendrado, amaderado y especiado cálido. Abre con cardamomo, heliotropo y pimienta roja, su corazón tiene almendrado, lavanda y jazmín y se asienta sobre vainilla, madera de guayaco y sándalo."
    },
+   "similar": [
+    {
+     "name": "Pegasus Exclusif",
+     "brand": "Parfums de Marly",
+     "up": 91,
+     "down": 21
+    },
+    {
+     "name": "Pegasus",
+     "brand": "Parfums de Marly",
+     "up": 11,
+     "down": 2
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -7492,6 +9962,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil amaderado, dulce y floral amarillo. Abre con frutas y rosa turca, su corazón tiene ylang-ylang, cuero y nuez moscada y se asienta sobre pachulí, vainilla y vetiver."
    },
+   "similar": [
+    {
+     "name": "Opera",
+     "brand": "Xerjoff",
+     "up": 119,
+     "down": 13
+    },
+    {
+     "name": "Ange ou Demon",
+     "brand": "Givenchy",
+     "up": 54,
+     "down": 42
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -7530,6 +10020,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, frutal y dulce. Abre con naranja, bergamota y limón, su corazón tiene frutas y se asienta sobre almizcle blanco, vainilla de Madagascar y ámbar."
    },
+   "similar": [
+    {
+     "name": "Erba Pura",
+     "brand": "Xerjoff",
+     "up": 148,
+     "down": 9
+    },
+    {
+     "name": "Accento",
+     "brand": "Xerjoff",
+     "up": 24,
+     "down": 19
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Dulce/Gourmand"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -7568,6 +10078,26 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil frutal, dulce y rosa. Abre con frambuesa y limón siciliano, su corazón tiene jazmín y rosa y se asienta sobre ámbar, vainilla y almizcle."
    },
+   "similar": [
+    {
+     "name": "Baccarat Rouge 540",
+     "brand": "MFK",
+     "up": 37,
+     "down": 7
+    },
+    {
+     "name": "Baccarat Rouge 540 Extrait de Parfum",
+     "brand": "MFK",
+     "up": 9,
+     "down": 3
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 50820,
    "rateSource": "fila"
   },
@@ -7617,6 +10147,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil especiado cálido, amaderado y rosa. Abre con rosa turca y café, su corazón tiene rosa búlgara, pachulí y cilantro y se asienta sobre sándalo y olíbano."
    },
+   "similar": [
+    {
+     "name": "Café Rose (2023)",
+     "brand": "Tom Ford",
+     "up": 55,
+     "down": 10
+    },
+    {
+     "name": "Café Rose",
+     "brand": "Tom Ford",
+     "up": 8,
+     "down": 2
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Amaderado",
+    "Floral"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -7655,6 +10205,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil especiado fresco, cítrico y ámbar. Abre con bergamota, su corazón tiene lavanda, pimienta de Sichuan y anís estrellado y se asienta sobre ambroxan y vainilla."
    },
+   "similar": [
+    {
+     "name": "Sauvage",
+     "brand": "Dior",
+     "up": 391,
+     "down": 26
+    },
+    {
+     "name": "Sauvage Eau de Parfum",
+     "brand": "Dior",
+     "up": 94,
+     "down": 40
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -7697,6 +10267,20 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil ámbar, amaderado y especiado fresco. Abre con pimienta negra, tabaco y ananá, su corazón tiene pachulí, iris y café y se asienta sobre notas amaderadas, ámbar y vainilla."
    },
+   "similar": [
+    {
+     "name": "Sauvage Elixir",
+     "brand": "Dior",
+     "up": 247,
+     "down": 58
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Oriental/Ámbar",
+    "Amaderado",
+    "Especiado"
+   ],
    "ars": 58520,
    "rateSource": "fila"
   },
@@ -7735,6 +10319,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil especiado fresco, cítrico y ámbar. Abre con bergamota, su corazón tiene lavanda, pimienta de Sichuan y anís estrellado y se asienta sobre ambroxan y vainilla."
    },
+   "similar": [
+    {
+     "name": "Sauvage Eau de Parfum",
+     "brand": "Dior",
+     "up": 205,
+     "down": 29
+    },
+    {
+     "name": "Sauvage",
+     "brand": "Dior",
+     "up": 52,
+     "down": 22
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico",
+    "Oriental/Ámbar"
+   ],
    "ars": 60060,
    "rateSource": "fila"
   },
@@ -7768,6 +10372,26 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil cítrico, ámbar y especiado fresco. Abre con pomelo, su corazón tiene jengibre indio y se asienta sobre ambroxan."
    },
+   "similar": [
+    {
+     "name": "Tygar",
+     "brand": "Bvlgari",
+     "up": 376,
+     "down": 58
+    },
+    {
+     "name": "Ingenious Ginger",
+     "brand": "Goldfield & Banks",
+     "up": 18,
+     "down": 10
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Oriental/Ámbar",
+    "Especiado"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -7811,6 +10435,25 @@
     },
     "description": "Fragancia unisex lanzada en 2022. De perfil cítrico, aromático y amaderado. Abre con mandarina verde, bergamota y grosella negra, su corazón tiene notas aromáticas, notas especiadas y lavanda y se asienta sobre ámbar, almizcle y notas amaderadas."
    },
+   "similar": [
+    {
+     "name": "God of Fire",
+     "brand": "SHL 777",
+     "up": 464,
+     "down": 102
+    },
+    {
+     "name": "1907",
+     "brand": "Boadicea",
+     "up": 34,
+     "down": 21
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -7845,6 +10488,20 @@
     },
     "description": "Fragancia masculina lanzada en 2022. De perfil vainilla, oud y ámbar. Abre con vainilla bourbon, su corazón tiene benjuí de Siam y se asienta sobre agarwood (oud)."
    },
+   "similar": [
+    {
+     "name": "Le Gemme Orom",
+     "brand": "Bvlgari",
+     "up": 177,
+     "down": 23
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Dulce/Gourmand",
+    "Oud",
+    "Oriental/Ámbar"
+   ],
    "ars": 53900,
    "rateSource": "fila"
   },
@@ -7879,6 +10536,25 @@
     },
     "description": "Fragancia femenina lanzada en 2022. De perfil floral blanco, nardo y animálico. Abre con azahar, su corazón tiene nardo y jazmín y se asienta sobre leche."
    },
+   "similar": [
+    {
+     "name": "So Scandal!",
+     "brand": "JPG",
+     "up": 112,
+     "down": 14
+    },
+    {
+     "name": "My Way",
+     "brand": "Armani",
+     "up": 27,
+     "down": 19
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 56980,
    "rateSource": "fila"
   },
@@ -7915,6 +10591,19 @@
     },
     "description": "Fragancia masculina lanzada en 2025. De perfil aromático, caramelo y dulce. Abre con salvia esclarea y mandarina, su corazón tiene haba tonka y caramelo y se asienta sobre vetiver."
    },
+   "similar": [
+    {
+     "name": "Scandal Pour Homme",
+     "brand": "JPG",
+     "up": 20,
+     "down": 0
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 63140,
    "rateSource": "fila"
   },
@@ -7955,6 +10644,20 @@
     },
     "description": "Fragancia femenina. De perfil frutal, ámbar y dulce. Abre con ciruela y flores blancas, su corazón tiene láudano, jazmín y davana y se asienta sobre frambuesa, ámbar y benjuí."
    },
+   "similar": [
+    {
+     "name": "Muse",
+     "brand": "Xerjoff",
+     "up": 13,
+     "down": 9
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Frutal",
+    "Oriental/Ámbar",
+    "Dulce/Gourmand"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -8006,6 +10709,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil dulce, caramelo y frutal. Abre con mandarina, notas acuáticas y bergamota, su corazón tiene caramelo, haba tonka y pachulí y se asienta sobre frambuesa, vainilla y almizcle."
    },
+   "gender": "unisex",
+   "families": [
+    "Dulce/Gourmand",
+    "Frutal"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -8046,6 +10754,25 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil dulce, vainilla y rosa. Abre con cereza y almendrado, su corazón tiene agua de rosas, lirio y ambreta y se asienta sobre haba tonka, vainilla y musgo de roble."
    },
+   "similar": [
+    {
+     "name": "Very Good Girl Glam",
+     "brand": "Carolina Herrera",
+     "up": 23,
+     "down": 3
+    },
+    {
+     "name": "Very Good Girl",
+     "brand": "Carolina Herrera",
+     "up": 12,
+     "down": 4
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Dulce/Gourmand",
+    "Floral"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -8085,6 +10812,10 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil atalcado, violeta y floral blanco. Abre con manzana y limón, su corazón tiene violeta, azahar y jazmín y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "gender": "mujer",
+   "families": [
+    "Floral"
+   ],
    "ars": 55440,
    "rateSource": "fila"
   },
@@ -8128,6 +10859,19 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil especiado fresco, especiado cálido y ámbar. Abre con nuez moscada, canela y cardamomo, su corazón tiene lavanda, regaliz y nuez moscada y se asienta sobre ámbar, sándalo y vetiver."
    },
+   "similar": [
+    {
+     "name": "Sauvage Elixir",
+     "brand": "Dior",
+     "up": 17,
+     "down": 8
+    }
+   ],
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -8170,6 +10914,11 @@
     },
     "description": "Fragancia masculina lanzada en 2024. De perfil especiado fresco, amaderado y especiado cálido. Abre con pimienta negra, bergamota y azafrán, su corazón tiene cuero, bálsamo de gurjun y pachulí y se asienta sobre oud, sándalo y cedro."
    },
+   "gender": "hombre",
+   "families": [
+    "Especiado",
+    "Amaderado"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8211,6 +10960,26 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, dulce y cítrico. Abre con naranja sanguina y mandarina, su corazón tiene miel, azahar y gardenia y se asienta sobre caramelo, regaliz y pachulí."
    },
+   "similar": [
+    {
+     "name": "Scandal",
+     "brand": "JPG",
+     "up": 16,
+     "down": 0
+    },
+    {
+     "name": "Scandal Le Parfum",
+     "brand": "JPG",
+     "up": 6,
+     "down": 4
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8250,6 +11019,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, nardo y cacao. Abre con jazmín, azahar y neroli, su corazón tiene nardo, vaina de cacao y tabaco y se asienta sobre nardo, vaina de cacao y tabaco."
    },
+   "similar": [
+    {
+     "name": "L'Interdit Eau de Parfum Rouge Ultime",
+     "brand": "Givenchy",
+     "up": 13,
+     "down": 3
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8291,6 +11073,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil floral, ámbar y atalcado. Abre con espino blanco, grosella negra y rosa damascena, su corazón tiene opopónaco, jazmín y violeta y se asienta sobre almizcle blanco, incienso y vainilla."
    },
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8332,6 +11119,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil especiado cálido, especiado fresco y herbal. Abre con azafrán, lavanda y mandarina, su corazón tiene nuez moscada, violeta y osmanthus y se asienta sobre siempreviva, almizcle y pachulí."
    },
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8380,6 +11172,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil aromático, especiado fresco y floral blanco. Abre con miel, elemí y bergamota, su corazón tiene muguet, violeta y geranio africano y se asienta sobre ámbar, almizcle y olíbano."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Floral"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8423,6 +11221,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil cítrico, frutal y especiado fresco. Abre con manzana, mandarina y bergamota, su corazón tiene hojas de violeta, zanahoria y azahar y se asienta sobre vainilla, cardamomo y sándalo."
    },
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal",
+    "Especiado"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8472,6 +11276,12 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil aromático, especiado fresco y violeta. Abre con baya de enebro, pera y olíbano, su corazón tiene salvia esclarea, violeta y rosa y se asienta sobre pachulí, ámbar y sándalo."
    },
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Floral"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8518,6 +11328,19 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, rosa y ámbar. Abre con rosa, azahar y bergamota, su corazón tiene gardenia, geranio y jazmín y se asienta sobre incienso, almizcle y cuero."
    },
+   "similar": [
+    {
+     "name": "Rose Night",
+     "brand": "Montale",
+     "up": 6,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Oriental/Ámbar"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8563,6 +11386,26 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil especiado fresco, aromático y amaderado. Abre con manzana, lavanda y mandarina, su corazón tiene geranio, violeta y jazmín y se asienta sobre pimienta rosa, vainilla y madera de guayaco."
    },
+   "similar": [
+    {
+     "name": "Layton",
+     "brand": "Parfums de Marly",
+     "up": 16,
+     "down": 1
+    },
+    {
+     "name": "Ani",
+     "brand": "Nishane",
+     "up": 11,
+     "down": 3
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8610,6 +11453,12 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil especiado fresco, cítrico y amaderado. Abre con naranja amarga, bergamota y baya de enebro, su corazón tiene hojas de violeta, geranio y canela y se asienta sobre cedro, olíbano y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Especiado",
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 67760,
    "rateSource": "fila"
   },
@@ -8650,6 +11499,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil floral blanco, vainilla y cítrico. Abre con lavanda, bergamota y mandarina, su corazón tiene jazmín, orquídea y naranja y se asienta sobre vainilla, vetiver y ámbar."
    },
+   "similar": [
+    {
+     "name": "Libre Intense",
+     "brand": "YSL",
+     "up": 7,
+     "down": 0
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Floral",
+    "Dulce/Gourmand",
+    "Fresco/Cítrico"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8694,6 +11557,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil amaderado, aromático y cítrico. Abre con pomelo, notas marinas y durazno, su corazón tiene raíz de iris, jazmín y lichi y se asienta sobre sándalo, vetiver y vainilla."
    },
+   "gender": "unisex",
+   "families": [
+    "Amaderado",
+    "Fresco/Cítrico"
+   ],
    "ars": 70840,
    "rateSource": "fila"
   },
@@ -8733,6 +11601,11 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil aromático, lavanda y vainilla. Abre con absenta, anís y hinojo, su corazón tiene lavanda y cuero y se asienta sobre vainilla, almizcle y ámbar."
    },
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Dulce/Gourmand"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -8778,6 +11651,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral blanco, fresco y verde. Abre con aldehídos, ylang-ylang y notas verdes, su corazón tiene muguet, jazmín y neroli y se asienta sobre sándalo, cedro y ciruela."
    },
+   "similar": [
+    {
+     "name": "J'adore",
+     "brand": "Dior",
+     "up": 20,
+     "down": 0
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Fresco/Cítrico"
+   ],
    "ars": 77000,
    "rateSource": "fila"
   },
@@ -8818,6 +11704,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil cítrico, frutal y fresco. Abre con limón siciliano, manzana y jacinto, su corazón tiene bambú, rosa blanca y jazmín y se asienta sobre almizcle, ámbar y cedro."
    },
+   "similar": [
+    {
+     "name": "Light Blue",
+     "brand": "Dolce&Gabbana",
+     "up": 24,
+     "down": 0
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Fresco/Cítrico",
+    "Frutal"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -8857,6 +11756,19 @@
     },
     "description": "Fragancia femenina lanzada en 2024. De perfil floral, rosa y frutal. Abre con lichi y pimienta rosa, su corazón tiene rosa, flor de durazno y fresia y se asienta sobre almizcle, ámbar y sándalo."
    },
+   "similar": [
+    {
+     "name": "212 VIP Rosé",
+     "brand": "Carolina Herrera",
+     "up": 10,
+     "down": 5
+    }
+   ],
+   "gender": "mujer",
+   "families": [
+    "Floral",
+    "Frutal"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -8901,6 +11813,25 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil aromático, amaderado y lavanda. Abre con lavanda, romero y mandarina, su corazón tiene amyris, canela y salvia esclarea y se asienta sobre vainilla, ámbar y almizcle."
    },
+   "similar": [
+    {
+     "name": "Le Male",
+     "brand": "JPG",
+     "up": 6,
+     "down": 5
+    },
+    {
+     "name": "Layton",
+     "brand": "Parfums de Marly",
+     "up": 5,
+     "down": 4
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Amaderado"
+   ],
    "ars": 73920,
    "rateSource": "fila"
   },
@@ -8941,6 +11872,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil cítrico, especiado fresco y almizclado. Abre con jengibre, pomelo y bergamota, su corazón tiene ambroxan y jazmín y se asienta sobre almizcle, vetiver y sándalo."
    },
+   "similar": [
+    {
+     "name": "Tygar",
+     "brand": "Bvlgari",
+     "up": 34,
+     "down": 1
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Fresco/Cítrico",
+    "Especiado",
+    "Oriental/Ámbar"
+   ],
    "ars": 72380,
    "rateSource": "fila"
   },
@@ -8990,6 +11935,20 @@
     },
     "description": "Fragancia unisex lanzada en 2024. De perfil frutal, aromático y especiado fresco. Abre con hojas de violeta, pomelo y pera, su corazón tiene cardamomo, jengibre y durazno y se asienta sobre vetiver, cedro y almizcle."
    },
+   "similar": [
+    {
+     "name": "Roadster Black",
+     "brand": "Cartier",
+     "up": 5,
+     "down": 1
+    }
+   ],
+   "gender": "unisex",
+   "families": [
+    "Frutal",
+    "Fresco/Cítrico",
+    "Especiado"
+   ],
    "ars": 78540,
    "rateSource": "fila"
   },
